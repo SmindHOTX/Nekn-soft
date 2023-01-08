@@ -1,0 +1,2239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="about_app_version_title">เวอร์ชันของแอป</string>
+    <string name="about_build_date_title">วันที่สร้าง</string>
+    <string name="about_contributors">ผู้ร่วมให้ข้อมูล</string>
+    <string name="about_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="about_terms_of_use">เงื่อนไขการใช้งาน</string>
+
+    <string name="accessible_data_directory_summary">อนุญาตให้อ่าน & สิทธิ์การเขียนไปยังไดเร็กทอรีข้อมูลภายในของโคลน (%s) โดยไม่ต้องมีสิทธิ์รูท</string>
+    <string name="accessible_data_directory_title">ไดเรกทอรีข้อมูลที่เข้าถึงได้</string>
+
+    <string name="action_back">ย้อนกลับ</string>
+    <string name="action_close">ปิด</string>
+    <string name="action_double_back">ดับเบิ้ลแบ็ค</string>
+    <string name="action_execute_tasker_task">เรียกใช้งานทาซเคอ</string>
+    <string name="action_kill_app">ฆ่าแอป</string>
+    <string name="action_kill_app_clear_data">ปิดแอป & ล้างข้อมูล</string>
+    <string name="action_minimize_and_hide">ย่อ & ซ่อน</string>
+    <string name="action_none">ไม่มี</string>
+    <string name="action_not_performed_message">ไม่ได้ดำเนินการ</string>
+    <string name="action_performed_message">ดำเนินการแล้ว</string>
+    <string name="action_return_to_main_screen">กลับสู่หน้าจอหลัก</string>
+    <string name="action_save">บันทึก</string>
+    <string name="action_search">ค้นหา</string>
+    <string name="action_start_other_app">เริ่มแอปอื่น</string>
+    <string name="action_start_pip_mode">เริ่มโหมด PIP</string>
+
+    <string name="actions_component_names_label">การกระทำหรือชื่อส่วนประกอบ</string>
+    <string name="actions_component_names_message">ระบุรายการสตริงย่อยที่คำนึงถึงตัวพิมพ์เล็กและใหญ่ที่คั่นด้วยเครื่องหมายจุลภาคเพื่อให้ตรงกับการกระทำของกิจกรรมหรือชื่อคอมโพเนนต์</string>
+
+    <string name="activity_monitor_enable_message">เปิดใช้งานตัวตรวจสอบกิจกรรมชั่วคราวเพื่อค้นหาชื่อที่ถูกต้อง</string>
+    <string name="activity_monitor_summary">อนุญาตให้ดูรายละเอียดของกิจกรรมที่เริ่มโดยแอปที่จำลองขึ้นมา</string>
+    <string name="activity_monitor_title">การตรวจสอบกิจกรรม</string>
+    <string name="activity_transitions_card_label">การ์ด</string>
+    <string name="activity_transitions_diagonal_label">แนวทแยง</string>
+    <string name="activity_transitions_fade_label">จาง</string>
+    <string name="activity_transitions_in_and_out_label">ใน & ออก</string>
+    <string name="activity_transitions_shrink_label">ย่อ</string>
+    <string name="activity_transitions_slide_down_label">เลื่อนลง</string>
+    <string name="activity_transitions_slide_left_label">เลื่อนไปทางซ้าย</string>
+    <string name="activity_transitions_slide_right_label">เลื่อนไปทางขวา</string>
+    <string name="activity_transitions_slide_up_label">เลื่อนขึ้น</string>
+    <string name="activity_transitions_spin_label">หมุน</string>
+    <string name="activity_transitions_split_label">แยก</string>
+    <string name="activity_transitions_swipe_left_label">เลื่อนไปทางซ้าย</string>
+    <string name="activity_transitions_swipe_right_label">เลื่อนไปทางขวา</string>
+    <string name="activity_transitions_title">กิจกรรมเปลี่ยนผ่าน</string>
+    <string name="activity_transitions_windmill_label">กังหันลม</string>
+    <string name="activity_transitions_zoom_label">ซูม</string>
+
+    <string name="adaptive_icons_support_title">รองรับไอคอนแบบปรับได้</string>
+
+    <string name="adb_command_workaround_message">หากคุณมี ADB คุณสามารถแก้ไขปัญหานี้ได้โดยเรียกใช้คำสั่งต่อไปนี้:</string>
+
+    <string name="add_apk_file_label">เพิ่มไฟล์ APK</string>
+    <string name="add_badge_title">เพิ่มป้าย</string>
+    <string name="add_launcher_icons_message">โปรดทราบว่าการเปิดเผยกิจกรรมภายในอาจไม่ได้ตั้งใจและอาจทำให้แอปขัดข้อง</string>
+    <string name="add_launcher_icons_summary">อนุญาตให้เพิ่มไอคอนตัวเรียกใช้งานไปยังแอประบบหรือสร้างทางลัดสำหรับกิจกรรมที่ซ่อนอยู่ภายใน</string>
+    <string name="add_launcher_icons_title">เพิ่มไอคอนตัวเรียกใช้งาน</string>
+    <string name="add_on_google_maps_support_summary">เปิดใช้งานการสนับสนุน Google Maps ในการโคลน</string>
+    <string name="add_on_google_maps_support_title">การสนับสนุน Google Maps</string>
+    <string name="add_on_manifest_resource_options_summary">รายการ & ตัวแก้ไขทรัพยากร XML ตัวแปลแอป ฯลฯ</string>
+    <string name="add_on_manifest_resource_options_title">รายการ & ตัวเลือกทรัพยากร</string>
+    <string name="add_on_purchase_successful_message">ซื้อส่วนเสริมสำเร็จแล้ว</string>
+    <string name="add_on_runtime_modding_options_message1">วิธีนี้ช่วยประหยัดเวลาได้มาก เนื่องจากคุณไม่จำเป็นต้องโคลนแอปใหม่หลังจากเปลี่ยนการตั้งค่า</string>
+    <string name="add_on_runtime_modding_options_message2">โปรดทราบว่าไม่ใช่ทุกตัวเลือกที่เป็นตัวเลือกรันไทม์ ตัวอย่างเช่น การเปลี่ยนชื่อ ไอคอน หรือการอนุญาตของแอปจะต้องใช้การโคลนเต็มรูปแบบเสมอ</string>
+    <string name="add_on_runtime_modding_options_summary">เปิดใช้รายการเมนู \'ส่งการตั้งค่าไปยังโคลน\' เพื่อส่งตัวเลือกรันไทม์ที่แก้ไขไปยังโคลนที่ติดตั้ง</string>
+    <string name="add_on_runtime_modding_options_title">ตัวเลือกการดัดแปลงรันไทม์</string>
+    <string name="add_on_safe_update_error_message_not_purchased">หากต้องการใช้การอัปเดตที่ปลอดภัย โปรดซื้อส่วนเสริม %s</string>
+    <string name="add_on_safe_update_message1">หากต้องการดาวน์เกรดการโคลน ให้เลือก \'เปลี่ยนกลับเป็นเวอร์ชันก่อนหน้า\' ในแท็บ \'APK ที่ลอกแบบมา\'</string>
+    <string name="add_on_safe_update_message2">โปรดทราบว่าแอปไม่ได้มีไว้สำหรับดาวน์เกรด การเริ่มต้นแอปเวอร์ชันใหม่กว่าอาจแก้ไขข้อมูลภายในแอป ซึ่งอาจทำให้เกิดปัญหา ข้อขัดข้อง หรือข้อมูลสูญหายเมื่อติดตั้งเวอร์ชันเก่าที่ด้านบน ดังนั้นคุณควรดาวน์เกรดเฉพาะเมื่อโคลนที่อัปเดตใช้งานไม่ได้อีกต่อไป</string>
+    <string name="add_on_safe_update_revert_label">เปลี่ยนกลับเป็นเวอร์ชันก่อนหน้า</string>
+    <string name="add_on_safe_update_summary">การอัปเดตที่ปลอดภัยจะสร้างการโคลนด้วยวิธีที่อนุญาตให้ดาวน์เกรดเป็นเวอร์ชันก่อนหน้าโดยไม่ต้องถอนการติดตั้งการโคลน เวอร์ชันก่อนหน้าจะถูกสำรองโดยอัตโนมัติ</string>
+    <string name="add_on_safe_update_summary2">คุณสามารถคืนค่าการโคลนได้จากแท็บ %s</string>
+    <string name="add_on_safe_update_title">อัปเดตอย่างปลอดภัย</string>
+    <string name="add_on_tap_to_learn_more_message">แตะเพื่อเรียนรู้เพิ่มเติม</string>
+    <string name="add_ons_title">ส่วนเสริม</string>
+    <string name="add_padding_title">เพิ่มช่องว่างภายใน</string>
+
+    <string name="addon_required_message">คุณลักษณะนี้ต้องการส่วนเสริม \'%s\'</string>
+
+    <string-array name="allow_backup_labels">
+        <item>ไม่มีการเปลี่ยนแปลง</item>
+        <item>อนุญาต</item>
+        <item>ไม่อนุญาต</item>
+    </string-array>
+    <string name="allow_backup_title">อนุญาตการสำรองข้อมูล</string>
+    <string name="allow_dark_mode_summary">ใช้โหมดมืดโดยอัตโนมัติเมื่อเปิดใช้งานการตั้งค่าระบบ \'ธีมมืด\' ต้องใช้ Android 10+ และใช้ได้กับแอปธีมสว่างเท่านั้น</string>
+    <string name="allow_dark_mode_title">อนุญาตโหมดมืด</string>
+    <string name="allow_in_multi_account_apps_summary">อนุญาตให้คุณใช้โคลนใน Parallel Space & จำกัด คุณอาจต้องลบและเพิ่มแอปอีกครั้งหลังจากทำการโคลนใหม่โดยเปิดใช้งานตัวเลือกนี้</string>
+    <string name="allow_in_multi_account_apps_title">อนุญาตในแอปหลายบัญชี</string>
+    <string name="allow_screenshots_summary">อนุญาตให้แอปปรากฏในภาพหน้าจอ แม้ว่าแอปจะป้องกันภาพหน้าจอก็ตาม</string>
+    <string name="allow_screenshots_title">อนุญาตภาพหน้าจอ</string>
+    <string name="allow_sharing_images_save_to_gallery_label">บันทึกรูปภาพไปยังแกลเลอรี่โดยตรง</string>
+    <string name="allow_sharing_images_save_to_gallery_scale_to_fit_label">ปรับขนาดภาพให้พอดี</string>
+    <string name="allow_sharing_images_sharing_error_message" tools:keep="@string/allow_sharing_images_sharing_error_message">ไม่สามารถแบ่งปันรูปภาพ</string>
+    <string name="allow_sharing_images_sharing_message" tools:keep="@string/allow_sharing_images_sharing_message">แบ่งปันรูปภาพ...</string>
+    <string name="allow_sharing_images_sharing_title" tools:keep="@string/allow_sharing_images_sharing_title">แบ่งปันรูปภาพ</string>
+    <string name="allow_sharing_images_summary">กดมุมมองรูปภาพค้างไว้เพื่อแบ่งปันรูปภาพ</string>
+    <string name="allow_sharing_images_title">อนุญาตให้แบ่งปันรูปภาพ</string>
+    <string name="allow_text_selection_disabled_message" tools:keep="@string/allow_text_selection_disabled_message">การเลือกข้อความถูกปิดใช้งาน</string>
+    <string name="allow_text_selection_enabled_error_message" tools:keep="@string/allow_text_selection_enabled_error_message">เปิดใช้การเลือกข้อความไม่สำเร็จ</string>
+    <string name="allow_text_selection_enabled_message" tools:keep="@string/allow_text_selection_enabled_message">เปิดใช้งานการเลือกข้อความ แตะสองครั้งเพื่อเลือก</string>
+    <string name="allow_text_selection_summary">กดข้อความคงที่หรือป้ายกำกับค้างไว้เพื่อเปิดใช้การเลือกและคัดลอกหรือแบ่งปันข้อความ</string>
+    <string name="allow_text_selection_title">อนุญาตการเลือกข้อความ</string>
+
+    <string name="always_allow_copy_paste_summary">ป้องกันไม่ให้แอปโคลนปิดใช้งานการเลือกตัวแก้ไข คัดลอกและวาง</string>
+    <string name="always_allow_copy_paste_title">อนุญาตให้คัดลอก & วาง</string>
+
+    <string name="android_10_incompatible_option_message_1">ขออภัย Google ได้ทำการเปลี่ยนแปลงกับ Android 10 ซึ่งทำให้ตัวเลือกการดัดแปลงนี้เข้ากันไม่ได้บางส่วนหรือทั้งหมด</string>
+    <string name="android_10_incompatible_option_message_2">ในขณะนี้ยังไม่มีวิธีแก้ไขใดๆ ที่สามารถใช้ได้</string>
+    <string name="android_10_incompatible_option_title">ความไม่เข้ากันของ Android 10</string>
+
+    <string name="anti_memory_thrashing_not_required_message">แอปนี้ไม่ใช้การเปลี่ยนแปลงการเชื่อมต่อหรือกิจกรรมรูปภาพ/วิดีโอใหม่</string>
+    <string name="anti_memory_thrashing_summary">ป้องกันไม่ให้แอปที่ถูกโคลนปลุกขึ้นมาเนื่องจากเหตุการณ์บางอย่างของระบบ เช่น การเปลี่ยนแปลงการเชื่อมต่อ</string>
+    <string name="anti_memory_thrashing_title">ป้องกันหน่วยความจำกระตุก</string>
+
+    <string name="anywhere_on_screen_label">ทุกที่บนหน้าจอ</string>
+
+    <string name="apk_file_parse_error_message">ไม่สามารถแยกวิเคราะห์ไฟล์ APK ได้\n\nตรวจสอบให้แน่ใจว่าใช้ไฟล์ APK ที่ถูกต้อง และ APK นั้นเป็นตัวแปรที่ถูกต้องสำหรับแพลตฟอร์มของคุณ</string>
+    <string name="apk_reverted_message">ไฟล์ APK ถูกเปลี่ยนกลับ ตอนนี้คุณสามารถติดตั้งแอปเวอร์ชันที่เปลี่ยนกลับได้แล้ว</string>
+    <string name="apk_reverted_title">APK ที่เปลี่ยนกลับแล้ว</string>
+    <string name="apk_variant_slow_cloning_message">ตัวแปร %s ของคุณจะใช้เวลาในการโคลนนานกว่ามาก โปรดปล่อยให้กระบวนการทำงานต่อไปแม้ว่าจะติดขัดก็ตาม</string>
+
+    <string name="app_bundle_copy_message">ไม่สามารถคัดลอก App Bundle เป็นไฟล์ APK ไฟล์เดียวได้</string>
+    <string name="app_bundle_label">App Bundle</string>
+    <string name="app_bundle_message1">%s ได้รับการติดตั้งเป็น App Bundle แล้ว</string>
+    <string name="app_bundle_message2">รองรับการโคลน App Bundle แต่ถ้าการโคลนล่ม คุณควรได้รับแอปเวอร์ชัน APK แบบสแตนด์อโลน การโคลน App Bundle อาจช้าลง</string>
+    <string name="app_bundle_message4">ลองหาเวอร์ชันสแตนด์อโลนของแอปนี้บน apkmirror.com หรือ apkpure.com</string>
+    <string name="app_bundle_save_share_message">App Bundle จะถูกบันทึกหรือแชร์เป็นชุดของไฟล์หลายไฟล์</string>
+    <string name="app_bundle_title">Google Play App Bundle</string>
+    <string name="app_cloned_message">%s ถูกโคลน</string>
+    <string name="app_cloned_title">แอพถูกโคลนแล้ว</string>
+    <string name="app_cloner_api_access_requires">การเข้าถึง App Cloner API ต้องใช้ %s</string>
+    <string name="app_cloner_install_service_description">เปิดใช้ \'App Cloner Install Service\' เพื่อให้ App Cloner ทำการติดตั้งแอปโดยอัตโนมัติโดยไม่ต้องมีการเข้าถึงรูท\n\nบริการนี้ใช้งานได้กับการติดตั้งแอปที่เรียกใช้โดย App Cloner เท่านั้น การติดตั้งจากแหล่งอื่นยังคงต้องได้รับการยืนยันด้วยตนเองด้วยเหตุผลด้านความปลอดภัย</string>
+    <string name="app_cloner_install_service_info_message">เปิดใช้งาน <b>%s</b> เพื่อทำให้การติดตั้งแอปเป็นแบบอัตโนมัติ (ดูการตั้งค่า)</string>
+    <string name="app_cloner_install_service_name">บริการติดตั้ง App Cloner</string>
+    <string name="app_cloner_obsolete_message">App Cloner (%s) เวอร์ชันนี้ล้าสมัยแล้ว</string>
+    <string name="app_cloner_obsolete_message_generic">โปรดอัปเดต %s เป็นเวอร์ชันล่าสุด</string>
+    <string name="app_cloner_premium_message">ขออภัย App Cloner ไม่มีให้บริการใน Google Play Store แล้ว\n\nหากต้องการปลดล็อกเวอร์ชันพรีเมียมหรือซื้อส่วนเสริมและบริจาคผ่าน Google Play โปรดติดตั้งแอป <b> แอป Cloner พรีเมียม & ส่วนเสริม</b> (https://goo.gl/hht6Sx) และทำการซื้อภายในแอปนี้ หลังจากนั้นการซื้อของคุณจะพร้อมใช้งานใน App Cloner ด้วย\n\nสำหรับข้อมูลเพิ่มเติม โปรดดูที่หน้าแรกของ App Cloner (https://appcloner.app)</string>
+    <string name="app_cloner_premium_redirect_message">คุณจะถูกเปลี่ยนเส้นทางไปยัง \'App Cloner Premium & แอปส่วนเสริม\' ซึ่งคุณสามารถซื้อได้โดยใช้ Google Play\n\nหลังจากซื้อสำเร็จแล้ว คุณสามารถกลับไปที่ App Cloner ซึ่งการซื้อจะพร้อมใช้งาน</string>
+    <string name="app_cloner_premium_title">การซื้อใน Google Play Store</string>
+    <string name="app_data_export_error_message">ส่งออกข้อมูลแอปไม่สำเร็จ</string>
+    <string name="app_data_export_import_message">การส่งออกและนำเข้าข้อมูลแอปทำให้คุณสามารถสำรองและกู้คืนการตั้งค่าแอปและไฟล์ภายในได้ วิธีนี้ช่วยให้คุณย้ายการโคลนไปยังอุปกรณ์อื่นและเก็บสถานะแอปเวอร์ชันต่างๆ ไว้เป็นจุดคืนค่า\n\nข้อมูลแอปที่ส่งออกไม่สามารถดูหรือแก้ไขได้ และคุณสามารถใช้ได้เฉพาะข้อมูลแอปสำหรับการโคลนของแอปต้นฉบับเดียวกันเท่านั้น\ n\n<b>บัญชี Android, ไฟล์แอปจากการ์ด SD ภายในหรือภายนอก หรือการตั้งค่าแอปในระบบคลาวด์จะไม่รวมอยู่ในการส่งออก</b>\n\nกระบวนการส่งออกและนำเข้าจะยุติแอปเพื่อหลีกเลี่ยงไม่ให้ไฟล์ต่างๆ ล็อค เมื่อนำเข้าข้อมูลแอป ไฟล์ที่มีอยู่จะถูกแทนที่และไม่สามารถกู้คืนได้ในภายหลัง</string>
+    <string name="app_data_export_import_not_enabled_message">โปรดเปิดใช้งานการส่งออกข้อมูลแอป & ตัวเลือกการนำเข้าและอัปเดตการโคลน</string>
+    <string name="app_data_export_import_summary">เปิดใช้งานบน Android 4.4 เพื่อรองรับการส่งออกและนำเข้าข้อมูลแอป</string>
+    <string name="app_data_export_import_title">ส่งออกข้อมูลแอป & นำเข้า</string>
+    <string name="app_data_export_label">ส่งออกข้อมูลแอป</string>
+    <string name="app_data_export_success_message">ส่งออกข้อมูลแอปสำเร็จแล้ว</string>
+    <string name="app_data_exporting_message">กำลังส่งออกข้อมูลแอป...</string>
+    <string name="app_data_import_error_message">นำเข้าข้อมูลแอปไม่สำเร็จ</string>
+    <string name="app_data_import_label">นำเข้าข้อมูลแอป</string>
+    <string name="app_data_import_success_message">นำเข้าข้อมูลแอปสำเร็จ</string>
+    <string name="app_data_importing_message">กำลังนำเข้าข้อมูลแอป...</string>
+    <string name="app_data_status_exporting_files">กำลังส่งออกไฟล์...</string>
+    <string name="app_data_status_importing_files">กำลังนำเข้าไฟล์...</string>
+    <string name="app_data_status_preparing_files">กำลังเตรียมไฟล์...</string>
+    <string name="app_installation_error_message">ติดตั้ง %s ไม่สำเร็จ</string>
+    <string name="app_installation_success_message">ติดตั้ง %s สำเร็จ</string>
+    <string name="app_is_valid_from_message" tools:keep="@string/app_is_valid_from_message">แอปนี้ใช้ได้ตั้งแต่ %s</string>
+    <string name="app_is_valid_until_message" tools:keep="@string/app_is_valid_until_message">แอปนี้ใช้ได้จนถึง %s</string>
+    <string name="app_possably_obfuscated_message">เป็นไปได้ว่าแอปถูกทำให้ยุ่งเหยิง</string>
+    <string name="app_shell_gms_support_message">การเปิดใช้การสนับสนุนบริการ Google Play เพิ่มความต้องการพื้นที่เก็บข้อมูลสำหรับแอปที่โคลนอย่างมาก\n\nการเริ่มต้นครั้งแรกของการโคลนอาจใช้เวลาหลายนาที</string>
+    <string name="app_shell_gms_support_title">เปิดใช้งานการสนับสนุนบริการ Google Play</string>
+    <string name="app_translator_excluded_message">ไม่รวมสตริง</string>
+    <string name="app_translator_excluded_string_label">ไม่รวมสตริง</string>
+    <string name="app_translator_info_message">กดค้างเพื่อแยกสตริง</string>
+    <string name="app_translator_invalid_translation_message">สตริงที่แปลสำหรับ \'%s\' ไม่ถูกต้อง</string>
+    <string name="app_translator_needs_translation_label">ต้องการการแปล</string>
+    <string name="app_translator_needs_updated_translation_label">ต้องการการแปลที่อัปเดต</string>
+    <string name="app_translator_show_all_strings_label">สตริงทั้งหมด</string>
+    <string name="app_translator_show_excluded_strings_label">สตริงที่ยกเว้น</string>
+    <string name="app_translator_show_strings_needing_translation_label">สตริงที่ต้องการการแปล</string>
+    <string name="app_translator_show_translated_strings_label">แปลสตริง</string>
+    <string name="app_translator_summary">อนุญาตให้แปลสตริงทรัพยากรของแอป</string>
+    <string name="app_translator_title">แอปแปลภาษา</string>
+    <string name="app_translator_translate_label">แปลภาษา</string>
+    <string name="app_valid_from_summary">ห้ามใช้แอปก่อนวันที่ระบุ</string>
+    <string name="app_valid_from_title">แอปใช้ได้จาก</string>
+    <string name="app_valid_until_summary">ห้ามใช้แอปหลังจากวันที่ระบุ</string>
+    <string name="app_valid_until_title">แอปใช้ได้จนถึง</string>
+    <string name="app_validity_summary">พยายามใช้เวลาอินเทอร์เน็ตโดยไม่ขึ้นกับนาฬิการะบบที่กำหนดค่าไว้</string>
+    <string name="app_was_valid_until_message" tools:keep="@string/app_was_valid_until_message">แอปนี้ใช้ได้จนถึง %s</string>
+
+    <string name="apps_cloned_message" tools:ignore="PluralsCandidate">%d แอปถูกโคลน</string>
+    <string name="apps_cloned_title">แอพที่ถูกโคลน</string>
+
+    <string name="audio_playback_capture_summary">คุณสามารถกำหนดค่าการโคลนเพื่ออนุญาตหรือป้องกันไม่ให้แอปอื่นบันทึกเสียงได้</string>
+    <string name="audio_playback_capture_title">การบันทึกการเล่นเสียง</string>
+
+    <string name="authentication_failed_message">การตรวจสอบสิทธิ์ล้มเหลว</string>
+
+    <string name="auto_press_buttons_button_id_title">ตัวระบุปุ่ม</string>
+    <string name="auto_press_buttons_button_label_title">ป้ายชื่อปุ่ม</string>
+    <string name="auto_press_buttons_message">ป้ายชื่อปุ่มและข้อความบนหน้าจอไม่คำนึงถึงตัวพิมพ์เล็กและใหญ่ ข้อความบนหน้าจอเป็นตัวเลือก หากมี ข้อความจะต้องปรากฏที่ไหนสักแห่งบนหน้าจอเพื่อให้กดปุ่มได้</string>
+    <string name="auto_press_buttons_press_once_only_title">กดเพียงครั้งเดียว</string>
+    <string name="auto_press_buttons_screen_text_title">ข้อความบนหน้าจอ</string>
+    <string name="auto_press_buttons_title">กดปุ่มอัตโนมัติ</string>
+    <string name="auto_remove_from_recents_title">ลบอัตโนมัติจากรายการล่าสุด</string>
+    <string name="auto_rotate_controls_title">ควบคุมการหมุนอัตโนมัติ</string>
+    <string name="auto_rotate_disable_label">ปิดการหมุนอัตโนมัติ</string>
+    <string name="auto_rotate_enable_label">เปิดใช้งานการหมุนอัตโนมัติ</string>
+    <string name="auto_scroller_scrolling_stopped_message">หยุดการเลื่อนแล้ว</string>
+    <string name="auto_scroller_summary">ใช้ปุ่มปรับระดับเสียงเพื่อเริ่มเลื่อนขึ้นหรือลงอย่างราบรื่น กดอีกครั้งหรือกดปุ่มปรับระดับเสียงเพื่อเพิ่มความเร็วในการเลื่อน</string>
+    <string name="auto_scroller_title">เลื่อนอัตโนมัติ</string>
+    <string-array name="auto_start_labels">
+        <item>ไม่มีการเปลี่ยนแปลง</item>
+        <item>เปิดใช้งาน</item>
+        <item>ปิดการใช้งาน</item>
+    </string-array>
+    <string name="auto_start_message">ระบบอาจใช้เวลาหลายนาทีในการเริ่มแอปโดยอัตโนมัติ\n\nหากคุณใช้หน้าจอล็อก คุณควรเปิดใช้<b>ตัวเลือกการแสดงผล</b>ด้วย > <b>แสดงแอปบนหน้าจอล็อก</b></string>
+    <string name="auto_start_profiling_label">เริ่มทำโปรไฟล์อัตโนมัติ</string>
+    <string name="auto_start_summary">ป้องกันหรือบังคับให้แอปเริ่มต้นโดยอัตโนมัติเมื่อเปิดเครื่องอุปกรณ์</string>
+    <string name="auto_start_title">เริ่มอัตโนมัติ</string>
+
+    <string name="av_warning_message">แอปป้องกันไวรัสของคุณ %s อาจรายงานไวรัสหรือมัลแวร์เมื่อมีการติดตั้งแอปที่ลอกแบบมา\n\nนี่เป็นผลบวกปลอมที่สามารถเพิกเฉยได้\n\nซึ่งแสดงออกมาด้วยความระมัดระวัง สำหรับแอปที่ติดตั้งจากการ์ด SD โดยใช้ใบรับรองการลงนามที่ไม่เป็นทางการ</string>
+    <string name="av_warning_title">คำเตือนการป้องกันไวรัส</string>
+
+    <string name="back_always_finishes_summary">การกด Back จะจบหน้าจอปัจจุบันเสมอ มีประโยชน์สำหรับแอปที่ป้องกันไม่ให้ผู้ใช้ใช้ปุ่มย้อนกลับ</string>
+    <string name="back_always_finishes_title">กลับเสร็จสิ้นเสมอ</string>
+
+    <string name="banned_legal_reasons_message_1">ขออภัย ด้วยเหตุผลทางกฎหมาย App Cloner ไม่ได้รับอนุญาตให้คัดลอก %s อีกต่อไป</string>
+    <string name="banned_legal_reasons_message_2">ขออภัยในความไม่สะดวกที่เกิดขึ้น เราขอความเข้าใจจากคุณ</string>
+    <string name="banned_legal_reasons_title">ไม่อนุญาตให้ทำการคัดลอก</string>
+
+    <string name="batch_cloning_clone_number_range">%1$d ถึง %2$d</string>
+    <string name="batch_cloning_creating_message">กำลังสร้างสำเนา %1$d จาก %2$d…</string>
+    <string name="batch_cloning_individual_clone_settings_message">หากต้องการใช้การโคลนเป็นชุด ให้ปิดการตั้งค่าการโคลนแต่ละรายการ</string>
+    <string name="batch_cloning_message">เลือกช่วงหมายเลขโคลน</string>
+    <string name="batch_cloning_title">การโคลนเป็นชุด</string>
+
+    <string name="block_activities_blocked_message" tools:keep="@string/block_activities_blocked_message">กิจกรรมถูกปิดกั้น</string>
+    <string name="block_activities_showing_message" tools:keep="@string/block_activities_showing_message">กำลังแสดงกิจกรรม</string>
+    <string name="block_activities_summary">ป้องกันไม่ให้เปิดกิจกรรมบางอย่าง (หน้าจอ)</string>
+    <string name="block_activities_title">บล็อกกิจกรรม</string>
+
+    <string name="bluetooth_controls_title">การควบคุมบลูทูธ</string>
+    <string name="bluetooth_disable_label">ปิดการใช้งานบลูทูธเมื่อเริ่มต้น</string>
+    <string name="bluetooth_enable_label">เปิดใช้งานบลูทูธเมื่อเริ่มต้น</string>
+
+    <string name="blur_image_views_mode_long_tap_label">แตะค้างเพื่อแสดงอย่างถาวร</string>
+    <string name="blur_image_views_mode_tap_label">แตะเพื่อแสดง & ซ่อน แตะสองครั้งเพื่อแสดงอย่างถาวร</string>
+    <string name="blur_image_views_summary">เบลอภาพตามค่าเริ่มต้น แตะเพื่อแสดงภาพ</string>
+    <string name="blur_image_views_title">ภาพเบลอ</string>
+
+    <string name="bring_app_to_front_label" tools:keep="@string/bring_app_to_front_label">นำแอปมาไว้ข้างหน้า</string>
+    <string name="bring_app_to_front_notification_title">แสดงการแจ้งเตือน \'Bring app to front\'</string>
+
+    <string name="build_props_title">สร้างอุปกรณ์ประกอบฉาก</string>
+
+    <string name="bundle_app_data_message">โปรดเลือกไฟล์ข้อมูลแอปที่ส่งออกก่อนหน้านี้จาก<b>แอปเดียวกัน</b>
+    </string>
+    <string name="bundle_app_data_restore_on_every_start_title">กู้คืนข้อมูลแอปทุกครั้งที่เริ่มแอป</string>
+    <string name="bundle_app_data_summary">อนุญาตให้ใช้ไฟล์ข้อมูลแอปที่ส่งออกไปก่อนหน้านี้เป็นข้อมูลแอปเริ่มต้นที่รวมกับ APK ที่ติดตั้งได้ นี่อาจเพิ่มขนาด APK อย่างมาก</string>
+    <string name="bundle_app_data_title">รวมข้อมูลแอป</string>
+    <string name="bundle_files_directories_bundling_title">รวมไฟล์ & ไดเร็กทอรี…</string>
+    <string name="bundle_files_directories_summary">รวมไฟล์การ์ด SD เพิ่มเติม & ไดเรกทอรีภายใน APK ที่สร้างขึ้น นี่อาจเพิ่มขนาด APK อย่างมาก</string>
+    <string name="bundle_files_directories_title">รวมไฟล์ & ไดเร็กทอรี</string>
+    <string name="bundle_obb_bundling_obb_title">การรวมไฟล์ส่วนขยาย...</string>
+    <string name="bundle_obb_summary">รวมไฟล์ขยาย OBB ภายใน APK ที่สร้างขึ้น นี่อาจเพิ่มขนาด APK อย่างมาก</string>
+    <string name="bundle_obb_title">รวมไฟล์สำหรับขยาย</string>
+    <string name="bundle_original_app_add_to_apks_label">เพิ่มใน %s</string>
+    <string name="bundle_original_app_add_to_apks_with_settings_label">เพิ่มใน %s ด้วยการตั้งค่าโคลน</string>
+    <string name="bundle_original_app_app_bundle_message">ไม่สามารถรวม App Bundle ได้</string>
+    <string name="bundle_original_app_extract_label">แยกแอปต้นฉบับ</string>
+    <string name="bundle_original_app_extract_message">การดำเนินการนี้จะดึงแอป %s ดั้งเดิมออกจากตัวโคลน</string>
+    <string name="bundle_original_app_summary">รวมไฟล์ APK ดั้งเดิมไว้ในตัวโคลน เพื่อให้คุณสามารถเก็บเวอร์ชันเดิมไว้ได้เสมอ</string>
+    <string name="bundle_original_app_title">รวมแอปต้นฉบับ</string>
+
+    <string name="cache_cleared_message" tools:keep="@string/cache_cleared_message">ล้างแคชแล้ว</string>
+
+    <string name="category_android_tv_options_title">ตัวเลือก Android TV</string>
+    <string name="category_android_tv_wear_os_options_title">แอนดรอยด์ทีวี & สวมตัวเลือก OS</string>
+    <string name="category_automation_options_title">ตัวเลือกการทำงานอัตโนมัติ</string>
+    <string name="category_cloning_options_title">ตัวเลือกการโคลน</string>
+    <string name="category_developer_options_title">ตัวเลือกสำหรับนักพัฒนา</string>
+    <string name="category_display_options_title">ตัวเลือกการแสดง</string>
+    <string name="category_game_options_title">ตัวเลือกของเกม</string>
+    <string name="category_identity_tracking_options_title">ข้อมูลประจำตัว & ตัวเลือกการติดตาม</string>
+    <string name="category_launcher_icon_title">ไอคอนเรียกใช้งาน</string>
+    <string name="category_launching_options_title">ตัวเลือกการเปิดใช้งาน</string>
+    <string name="category_media_options_title">ตัวเลือกสื่อ</string>
+    <string name="category_modding_title">การดัดแปลง</string>
+    <string name="category_navigation_options_title">ตัวเลือกการนำทาง</string>
+    <string name="category_networking_options_title">ตัวเลือกเครือข่าย</string>
+    <string name="category_notification_options_title">ตัวเลือกการแจ้งเตือน</string>
+    <string name="category_privacy_options_title">ตัวเลือกความเป็นส่วนตัว</string>
+    <string name="category_starred_title">ตัวเลือกที่ติดดาว</string>
+    <string name="category_storage_options_title">ตัวเลือกการจัดเก็บ</string>
+    <string name="category_toast_options_title">ตัวเลือกขนมปังปิ้ง</string>
+    <string name="category_wear_os_options_title">ตัวเลือก Wear OS</string>
+
+    <string name="certificate_fingerprint_sha1_title">ใบรับรองลายนิ้วมือ (SHA-1)</string>
+    <string name="certificate_fingerprint_sha256_title">ใบรับรองลายนิ้วมือ (SHA-256)</string>
+    <string name="certificate_issuer_title">ผู้ออกใบรับรอง</string>
+
+    <string name="change_android_id_enter_random_seed_message">ค่า seed เดียวกันจะสร้างรหัส Android เดียวกันสำหรับการโคลนที่แตกต่างกันและบนอุปกรณ์ที่แตกต่างกัน <b>seed ไม่ใช่ ID ของ Android</b>
+    </string>
+    <string name="change_android_id_enter_random_seed_title">ป้อนเมล็ดแบบสุ่ม</string>
+    <string name="change_android_id_random_seed_title">เมล็ดสุ่ม</string>
+    <string name="change_android_id_substitute_clone_number_message">ใช้ #### เพื่อแทนที่หมายเลขโคลนปัจจุบัน เช่น 0001, 0002 เป็นต้น</string>
+    <string name="change_android_id_substitute_random_number_message">ใช้ ****** เพื่อแทนที่ตัวเลขสุ่ม</string>
+    <string name="change_android_id_summary">อนุญาตให้เปลี่ยนรหัส Android ที่รายงานไปยังแอปที่โคลน นอกจากนี้ยังเปลี่ยนหมายเลขซีเรียลของฮาร์ดแวร์ด้วย</string>
+    <string name="change_android_id_title">เปลี่ยนรหัส Android</string>
+    <string name="change_bluetooth_mac_address_summary">ซ่อนหรือเปลี่ยนที่อยู่ MAC ของบลูทูธ</string>
+    <string name="change_bluetooth_mac_address_title">เปลี่ยนที่อยู่ MAC ของบลูทูธ</string>
+    <string name="change_default_font_message">เลือกไฟล์ฟอนต์ (.ttf หรือ .otf) เพื่อใช้เป็นฟอนต์เริ่มต้นสำหรับแอป\n\nการดำเนินการนี้อาจไม่ทำงานหากแอปใช้ฟอนต์ของตัวเอง นอกจากนี้ยังใช้ไม่ได้กับเกม แอปบนเว็บ หรือมุมมองเว็บ โดยพื้นฐานแล้วทุกอย่างที่ใช้เครื่องมือแสดงผลของมันเอง</string>
+    <string name="change_default_font_title">เปลี่ยนแบบอักษรเริ่มต้น</string>
+    <string name="change_google_advertising_id_title">เปลี่ยน ID โฆษณาของ Google</string>
+    <string name="change_google_service_framework_id_title">เปลี่ยน ID ของ Google Service Framework (GSF)</string>
+    <string name="change_imei_imsi_summary">ซ่อนหรือเปลี่ยนหมายเลข IMEI, MEID หรือ ESN ของโทรศัพท์ในแอปที่ลอกแบบมา ซ่อนหรือเปลี่ยนหมายเลข IMSI ในแอปที่ลอกแบบมา</string>
+    <string name="change_imei_imsi_title">เปลี่ยน IMEI / IMSI</string>
+    <string name="change_web_view_user_agent_summary">เปลี่ยนส่วนหัว HTTP ของ User-Agent ที่ส่งมาจากมุมมองเว็บ</string>
+    <string name="change_web_view_user_agent_title">เปลี่ยน WebView User-Agent</string>
+    <string name="change_wifi_mac_address_summary">ซ่อนหรือเปลี่ยนที่อยู่ MAC ของ Wi-Fi อาจใช้เพื่อซ่อนข้อมูลการเชื่อมต่อ Wi-Fi ของคุณ</string>
+    <string name="change_wifi_mac_address_title">เปลี่ยนที่อยู่ MAC ของ Wi-Fi</string>
+
+    <string name="check_internet_connection_message">โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ</string>
+
+    <string name="clear_cache_message">ไฟล์แคชรันไทม์บางไฟล์ไม่สามารถล้างได้ และอาจปรากฏในข้อมูลพื้นที่เก็บข้อมูลของแอป</string>
+    <string name="clear_cache_on_exit_title">ล้างแคชเมื่อออก</string>
+    <string name="clear_cache_summary">ล้างไดเรกทอรีแคชเมื่อออกจากแอปหรือเมื่อไม่ได้ใช้แอปเป็นระยะเวลาหนึ่ง</string>
+    <string name="clear_cache_title">ล้างแคช</string>
+    <string name="clear_cache_when_not_used_for_title">เมื่อไม่ได้ใช้แอปสำหรับ:</string>
+
+    <string name="clipboard_timeout_cleared_message" tools:keep="@string/clipboard_timeout_cleared_message">ล้างคลิปบอร์ดแล้ว</string>
+    <string name="clipboard_timeout_summary">ล้างข้อมูลที่คัดลอกหรือตัดคลิปบอร์ดหลังจาก 30 วินาที</string>
+    <string name="clipboard_timeout_title">หมดเวลาของคลิปบอร์ด</string>
+
+    <string name="clone_app_android50_message" tools:keep="@string/clone_app_android50_message">ขออภัย แอปนี้สามารถโคลนได้เฉพาะบน Android 5.0 หรือใหม่กว่าเท่านั้น</string>
+    <string name="clone_app_label">โคลนแอป</string>
+    <string name="clone_app_premium_version_message">รุ่นพรีเมียมรองรับการโคลน %s แล้ว</string>
+    <string name="clone_app_warning_message">การดำเนินการนี้จะแปลงแอป %1$s ที่มีอยู่แล้วสร้างเป็นเวอร์ชันโคลนชื่อ %2$s\n\n<b>คำเตือน: แอปที่โคลนอาจขัดข้อง แสดงข้อผิดพลาดหรือทำงานไม่ถูกต้อง< /b>\n\nใบรับรองของแอปจะเปลี่ยนไป แอปอาจไม่ทำงานหากตรวจสอบใบรับรองแล้ว\n\nโปรดใช้ความยุติธรรมและอย่าลดระดับ App Cloner เพราะแอปโปรดของคุณใช้ไม่ได้ :)\n\nส่วนประกอบของแอปที่ขึ้นอยู่กับใบรับรอง เช่น <b >การเข้าสู่ระบบบัญชี Google</b>, Google Play Services, Google Maps <b>จะไม่ทำงาน</b> การซื้อในแอปไม่ทำงานและการซื้อและใบอนุญาตที่มีอยู่จะไม่สามารถโอนไปยังแอปที่ลอกแบบมา</string>
+    <string name="clone_app_warning_title">อ่านอย่างละเอียด</string>
+    <string name="clone_number_message">สร้างหลาย ๆ โคลนโดยตั้งค่าหมายเลขโคลนที่ไม่ซ้ำกัน</string>
+    <string name="clone_number_premium_message">อัปเกรดเป็นแบบพรีเมียมเพื่อสร้างการโคลนสูงสุด 20 รายการและใช้การโคลนแบบกลุ่ม</string>
+    <string name="clone_number_title">หมายเลขจำลอง</string>
+    <string name="clone_settings_message">รีเซ็ต โหลด & บันทึกการตั้งค่าการโคลน</string>
+    <string name="clone_settings_title">การตั้งค่าการโคลน</string>
+    <string name="clone_update_warning_message1">คุณกำลังโคลนแอปเวอร์ชันใหม่กว่า โคลนจะได้รับการอัปเดตจาก %1$s เป็น %2$s</string>
+    <string name="clone_update_warning_message2">ส่วนใหญ่ไม่มีปัญหาเนื่องจากค่ากำหนดของแอปและไฟล์จะถูกเก็บไว้ แต่บางครั้งเวอร์ชันที่ใหม่กว่าอาจทำให้เกิดปัญหาหรือใช้การป้องกันการคัดลอก</string>
+    <string name="clone_update_warning_message3">คุณอาจเปิดใช้งาน %s เพื่อให้คุณสามารถย้อนกลับไปใช้เวอร์ชันก่อนหน้าของการโคลนได้อย่างง่ายดายในกรณีที่เกิดปัญหา</string>
+
+    <string name="cloned_apks_empty_message">คุณสามารถดูการตั้งค่าการโคลนที่ใช้ได้แต่ไม่สามารถเปลี่ยนแปลงได้</string>
+    <string name="cloned_apks_empty_title">ไฟล์ APK ที่สร้างจะปรากฏที่นี่</string>
+    <string name="cloned_app_not_copied_message">ไม่สามารถคัดลอกแอปที่คัดลอกมา</string>
+    <string name="cloned_apps_empty_message" tools:keep="@string/cloned_apps_empty_message">คุณสามารถดูการตั้งค่าการโคลนที่ใช้ได้ แต่ไม่สามารถเปลี่ยนแปลงได้</string>
+    <string name="cloned_apps_empty_title">โคลนที่ติดตั้งจะปรากฏที่นี่</string>
+    <string name="cloned_apps_output_folder_title">โฟลเดอร์เอาต์พุตของแอปที่ถูกโคลน</string>
+    <string name="cloned_on_date_title">โคลนเมื่อ</string>
+    <string name="cloned_with_version_title">โคลนด้วย</string>
+
+    <string name="clones_bottom_nav_tutorial_message">เมื่อโคลนแล้ว & ติดตั้งแล้ว คุณจะเห็นโคลน & amp; สร้าง APK ที่นี่\n\nแท็บ \'%s\' แสดงตัวโคลนที่สามารถอัปเดตได้</string>
+
+    <string name="cloning_app_grab_coffee_message">ดื่มกาแฟ อาจใช้เวลาสักครู่...</string>
+    <string name="cloning_app_title">การโคลน %s</string>
+    <string name="cloning_mode_manifest">รายการ</string>
+    <string name="cloning_mode_title">โหมดการโคลน</string>
+
+    <string name="color_editor_read_colors_error_message">อ่านสีทรัพยากรไม่สำเร็จ</string>
+    <string name="color_editor_show_all_colors_label">แสดงสีทั้งหมด</string>
+    <string name="color_editor_show_edited_colors_label">แสดงสีที่แก้ไขแล้ว</string>
+    <string name="color_editor_show_referenced_colors_label">แสดงสีอ้างอิง</string>
+    <string name="color_editor_title">ตัวแก้ไขสี</string>
+    <string name="color_editor_title_summary">อนุญาตให้แทนที่สีที่กำหนดไว้ในทรัพยากร</string>
+    <string name="color_filter_title">ฟิลเตอร์สี</string>
+
+    <string name="config_outdated_message">การกำหนดค่า App Cloner ของคุณล้าสมัยแล้ว\n\nโปรดรีสตาร์ท App Cloner ด้วยการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานอยู่</string>
+
+    <string name="confirm_exit_app_message" tools:keep="@string/confirm_exit_app_message">แน่ใจไหมว่าต้องการออกจาก %s?</string>
+    <string name="confirm_exit_summary">หลีกเลี่ยงการปิดแอปโดยไม่ตั้งใจโดยแสดงกล่องโต้ตอบยืนยันการออก</string>
+    <string name="confirm_exit_title">ยืนยันการออก</string>
+
+    <string name="copy_original_apk_cloned_app_error_message">โปรดเลือกแอปต้นฉบับ ไม่ใช่แอปที่ลอกแบบมา</string>
+    <string name="copy_original_apk_error_message">ไม่สามารถคัดลอกไฟล์ APK</string>
+    <string name="copy_original_apk_file_not_found_error_message">ไม่พบไฟล์</string>
+    <string name="copy_original_apk_title">กำลังคัดลอกและประมวลผลไฟล์ APK อาจใช้เวลาสักครู่…</string>
+
+    <string name="copying_cloned_app_title">กำลังคัดลอกแอปที่ลอกแบบมา...</string>
+    <string name="copying_obb_title">กำลังคัดลอกไฟล์ขยาย…</string>
+
+    <string name="crypto_purchase_copy_address_success_message">ที่อยู่คัดลอก</string>
+    <string name="crypto_purchase_message">หลังจากชำระเงินแล้ว โปรดรอจนกว่าธุรกรรมจะได้รับการยืนยัน จากนั้นกดปิดและดึงลงเพื่อรีเฟรชการซื้อ</string>
+    <string name="crypto_purchase_message2">ตรวจสอบให้แน่ใจว่าได้ส่งจำนวนเงินที่ถูกต้องในสกุลเงินดิจิตอล อย่าส่งจำนวนเงินเป็นดอลลาร์สหรัฐหรือในสกุลเงินดั้งเดิมอื่น</string>
+    <string name="crypto_purchase_payment_app_not_found_message">ไม่พบแอปสำหรับจัดการการชำระเงิน</string>
+    <string name="crypto_purchase_save_to_gallery_error_message">ไม่สามารถบันทึกรหัส QR</string>
+    <string name="crypto_purchase_save_to_gallery_label">บันทึกรหัส QR ไปที่คลังภาพ</string>
+    <string name="crypto_purchase_save_to_gallery_success_message">บันทึกคิวอาร์โค้ดลงในแกลเลอรีแล้ว</string>
+    <string name="crypto_purchase_send_to_address_title">ส่งไปยังที่อยู่นี้</string>
+    <string name="crypto_purchase_tap_or_scan_title">แตะหรือสแกนคิวอาร์โค้ด</string>
+
+    <string name="custom_certificate_alias_error_message">นามแฝงไม่ถูกต้อง</string>
+    <string name="custom_certificate_alias_label">นามแฝง</string>
+    <string name="custom_certificate_clear_keystore_label">ล้างที่เก็บคีย์</string>
+    <string name="custom_certificate_info_message1">โปรดทราบว่าหากมีการเซ็นชื่อสำเนาที่มีอยู่โดยใช้ใบรับรองอื่น จะต้องถอนการติดตั้งก่อน</string>
+    <string name="custom_certificate_info_message2">ข้อมูลที่เก็บคีย์ถูกเข้ารหัสและไม่สามารถส่งออกได้</string>
+    <string name="custom_certificate_key_password_error_message">รหัสผ่านของคีย์ไม่ถูกต้อง</string>
+    <string name="custom_certificate_key_password_label">รหัสผ่านหลัก</string>
+    <string name="custom_certificate_load_keystore_label">โหลดที่เก็บคีย์</string>
+    <string name="custom_certificate_store_password_error_message">รหัสผ่านที่เก็บคีย์ไม่ถูกต้อง</string>
+    <string name="custom_certificate_store_password_label">รหัสผ่านที่เก็บคีย์</string>
+    <string name="custom_certificate_store_type_label">ประเภทที่เก็บคีย์</string>
+    <string name="custom_certificate_summary">ลงนามสำเนาด้วยใบรับรองการลงนามที่กำหนดเองของคุณ รองรับที่เก็บคีย์ JKS, BKS และ PKCS#12</string>
+    <string name="custom_certificate_title">ใบรับรองที่กำหนดเอง</string>
+    <string name="custom_default_settings_label">การตั้งค่าเริ่มต้นแบบกำหนดเอง</string>
+    <string name="custom_default_settings_new_label">การตั้งค่าเริ่มต้นแบบกำหนดเองใหม่</string>
+    <string name="custom_features_title">คุณลักษณะที่กำหนดเอง</string>
+    <string name="custom_package_name_error_message_different_length">ความยาวของชื่อแพ็กเกจที่กำหนดเองจะต้องเหมือนกับต้นฉบับ</string>
+    <string name="custom_package_name_error_message_invalid_package_name">ชื่อแพ็คเกจที่กำหนดเองไม่ถูกต้อง</string>
+    <string name="custom_package_name_message_1">คำเตือน: ชื่อแพ็กเกจของการโคลนได้รับการจัดการโดยอัตโนมัติด้วยเหตุผลด้านความเข้ากันได้ การใช้ชื่อแพ็กเกจที่กำหนดเอง คุณเสี่ยงต่อการทำให้สตริงพูลภายในไม่เป็นระเบียบและหยุดการโคลน</string>
+    <string name="custom_package_name_message_2">พยายามทำการเปลี่ยนแปลงให้น้อยที่สุด ควรทำการเปลี่ยนแปลงกับส่วนท้ายของชื่อแพ็คเกจเท่านั้น ชื่อแพ็กเกจที่กำหนดเองต้องมีความยาวเท่ากับชื่อแพ็กเกจเดิม นอกจากนี้ คุณอาจพิจารณาใช้โหมดการโคลน Manifest แต่ไม่แนะนำ</string>
+    <string name="custom_package_name_message_3">โดยการเปลี่ยนชื่อแพ็คเกจ คุณสามารถสร้างโคลนได้ไม่จำกัดจำนวน ซึ่งเป็นเหตุผลว่าทำไมตัวเลือกนี้จึงมีให้สำหรับผู้ใช้ที่บริจาคจำนวนมาก / จำนวนมากเท่านั้น หมายเลขโคลนจะถูกละเว้นและไม่รองรับการโคลนเป็นชุด</string>
+    <string name="custom_package_name_title">ชื่อแพ็คเกจที่กำหนดเอง</string>
+    <string name="custom_permissions_title">สิทธิ์ที่กำหนดเอง</string>
+
+    <string name="data_directory_ftp_server_started_error_message" tools:keep="@string/data_directory_ftp_server_started_error_message">ล้มเหลวในการเริ่มเซิร์ฟเวอร์ FTP</string>
+    <string name="data_directory_ftp_server_started_message" tools:keep="@string/data_directory_ftp_server_started_message">เซิร์ฟเวอร์ FTP เริ่มทำงานแล้ว</string>
+    <string name="data_directory_ftp_server_summary">อนุญาตให้เข้าถึงไฟล์แอปภายในโดยใช้ FTP รายละเอียดการเชื่อมต่อจะแสดงเป็นการแจ้งเตือนเมื่อเริ่มการโคลน</string>
+    <string name="data_directory_ftp_server_title">เซิร์ฟเวอร์ FTP ไดเรกทอรีข้อมูล</string>
+
+    <string name="database_editor_started_error_message" tools:keep="@string/database_editor_started_error_message">ล้มเหลวในการเริ่มแก้ไขฐานข้อมูล</string>
+    <string name="database_editor_started_message" tools:keep="@string/database_editor_started_message">เริ่มแก้ไขฐานข้อมูลแล้ว</string>
+    <string name="database_editor_summary">รวมเว็บอินเตอร์เฟสเพื่อดู & แก้ไขฐานข้อมูล SQLite</string>
+    <string name="database_editor_title">ตัวแก้ไขฐานข้อมูล</string>
+
+    <string name="days_label">วัน</string>
+
+    <string name="default_settings_used_message">การตั้งค่าเริ่มต้นที่ใช้</string>
+
+    <string name="delete_app_data_title">ลบข้อมูลแอป</string>
+    <string name="delete_cloned_apk_after_installation_summary">เพิ่มพื้นที่จัดเก็บโดยการลบไฟล์ APK ที่โคลนโดยอัตโนมัติเมื่อติดตั้งแอปแล้ว</string>
+    <string name="delete_cloned_apk_after_installation_title">ลบ APK ที่โคลนหลังการติดตั้ง</string>
+    <string name="delete_file_confirmation_message">คุณต้องการลบไฟล์นี้หรือไม่</string>
+    <string name="delete_file_confirmation_title">ลบไฟล์</string>
+    <string name="delete_file_error_message">ลบไฟล์นี้ไม่สำเร็จ</string>
+    <string name="delete_files_confirmation_message">คุณต้องการลบไฟล์เหล่านี้หรือไม่</string>
+    <string name="delete_files_confirmation_title">ลบไฟล์</string>
+    <string name="delete_files_directories_on_exit_summary">ลบไฟล์และไดเร็กทอรีที่เลือกอย่างปลอดภัยเมื่อออกจากแอป</string>
+    <string name="delete_files_directories_on_exit_title">ลบไฟล์ & ไดเร็กทอรีที่ออก</string>
+
+    <string name="device_admin_message1">ต้องเปิดใช้งานแอปในฐานะผู้ดูแลระบบอุปกรณ์เมื่อเริ่มใช้งานครั้งแรก</string>
+    <string name="device_admin_message2">สำคัญ: ในการถอนการติดตั้งตัวโคลน คุณจะต้องปิดการใช้งานตัวจัดการอุปกรณ์ของตัวโคลนด้วยตนเอง</string>
+    <string name="device_id_copied_message">รหัสอุปกรณ์ถูกคัดลอกไปที่คลิปบอร์ดแล้ว</string>
+    <string name="device_info_android_version_title">เวอร์ชัน Android</string>
+    <string name="device_info_device_id_title">รหัสอุปกรณ์</string>
+    <string name="device_info_device_title">อุปกรณ์</string>
+    <string name="device_info_kernel_version_title">เวอร์ชันเคอร์เนล</string>
+    <string name="device_info_supported_abis_title">ABI ที่รองรับ</string>
+    <string name="device_lock_add_own_device_id_label">เพิ่มรหัสอุปกรณ์ของตนเอง</string>
+    <string name="device_lock_device_ids_label">ตัวระบุอุปกรณ์</string>
+    <string name="device_lock_device_ids_message">ระบุรายการตัวระบุอุปกรณ์ของอุปกรณ์ที่อนุญาตให้เริ่มแอปโคลน หากต้องการค้นหาตัวระบุอุปกรณ์ที่ถูกต้อง คุณสามารถสร้างตัวโคลนด้วยตัวระบุที่กำหนดเอง ซึ่งเมื่อเปิดใช้งานบนอุปกรณ์เป้าหมาย จะแสดงตัวระบุอุปกรณ์ที่จำเป็น</string>
+    <string name="device_lock_message" tools:keep="@string/device_lock_message">แอปนี้ไม่ได้รับอนุญาตให้ทำงานบนอุปกรณ์ที่มีตัวระบุ <b>%s</b></string>
+    <string name="device_lock_summary">จำกัดให้เปิดแอปที่ลอกแบบมาในอุปกรณ์บางอย่างเท่านั้น</string>
+    <string name="device_lock_title">ล็อกอุปกรณ์</string>
+
+    <string name="dex_modification_message">ตัวเลือกที่เลือกตามรายการด้านล่างจำเป็นต้องมีการแก้ไข DEX บน Android 4.x ซึ่งรันไทม์ ART ยังไม่พร้อมใช้งาน วิธีนี้อาจใช้ไม่ได้กับทุกแอป</string>
+    <string name="dex_modification_title">การแก้ไข DEX</string>
+
+    <string name="disable_accessibility_access_summary">ป้องกันไม่ให้บริการการเข้าถึงเข้าถึงแอปที่ลอกแบบมา</string>
+    <string name="disable_accessibility_access_title">ปิดใช้งานการเข้าถึง</string>
+    <string name="disable_accessibility_services_title">ปิดใช้งานบริการการเข้าถึง</string>
+    <string name="disable_accounts_access_message">สิ่งนี้อาจทำให้เกิดปัญหากับแอปที่ใช้บัญชี Android ในการเข้าสู่ระบบของผู้ใช้</string>
+    <string name="disable_accounts_access_summary">ป้องกันไม่ให้แอปที่โคลนอ่านบัญชี Android ของคุณแม้ว่าจะได้รับอนุญาตก็ตาม</string>
+    <string name="disable_accounts_access_title">ปิดการเข้าถึงบัญชี</string>
+    <string name="disable_adaptive_icons_support_summary">เปิดใช้ตัวเลือกนี้หากแอปที่คัดลอกมาขัดข้อง</string>
+    <string name="disable_adaptive_icons_support_title">ปิดใช้งานการสนับสนุนไอคอนแบบปรับได้</string>
+    <string name="disable_all_networking_disable_after_title">ปิดใช้งานหลังจาก</string>
+    <string name="disable_all_networking_disabled_message" tools:keep="@string/disable_all_networking_disabled_message">ปิดการใช้งานเครือข่าย</string>
+    <string name="disable_all_networking_enabled_message" tools:keep="@string/disable_all_networking_enabled_message">เปิดใช้งานเครือข่าย</string>
+    <string name="disable_all_networking_reenable_after_title">เปิดใช้งานอีกครั้งหลังจาก</string>
+    <string name="disable_all_networking_title">ปิดการใช้งานเครือข่ายทั้งหมด</string>
+    <string name="disable_app_defaults_summary1">ป้องกันไม่ให้แอปที่คัดลอกมาร้องขอตั้งเป็นแอปเริ่มต้นเมื่อเปิดลิงก์</string>
+    <string name="disable_app_defaults_summary2">การดำเนินการนี้จะลบตัวโคลนออกจากกล่องโต้ตอบการแชร์ด้วย</string>
+    <string name="disable_app_defaults_title">ปิดใช้งานค่าเริ่มต้นของแอป</string>
+    <string name="disable_audio_focus_summary">อนุญาตให้แอปต่าง ๆ เล่นเสียงร่วมกันโดยไม่มีการผูกขาด</string>
+    <string name="disable_audio_focus_title">ปิดการโฟกัสเสียง</string>
+    <string name="disable_auto_fill_summary">ปิดใช้งานฟังก์ชันการกรอกแบบฟอร์มอัตโนมัติของ Android 8.0+</string>
+    <string name="disable_auto_fill_title">ปิดใช้งานการป้อนข้อความอัตโนมัติ</string>
+    <string name="disable_background_networking_summary">ป้องกันเครือข่ายทั้งหมดเมื่อแอปอยู่ในพื้นหลัง</string>
+    <string name="disable_background_networking_title">ปิดการใช้งานเครือข่ายในเบื้องหลัง</string>
+    <string name="disable_calendar_access_title">ปิดการเข้าถึงปฏิทิน</string>
+    <string name="disable_call_log_sms_access_title">ปิดใช้งานบันทึกการโทร & การเข้าถึงทาง SMS</string>
+    <string name="disable_cameras_cameras_disabled_message" tools:keep="@string/disable_cameras_cameras_disabled_message">กล้องถูกปิดใช้งาน</string>
+    <string name="disable_cameras_cameras_enabled_message" tools:keep="@string/disable_cameras_cameras_enabled_message">เปิดใช้งานกล้องแล้ว</string>
+    <string name="disable_cameras_summary">ปิดใช้งานกล้องขณะที่การโคลนกำลังทำงาน</string>
+    <string name="disable_cameras_title">ปิดกล้อง</string>
+    <string name="disable_cameras_touch_to_enable_message" tools:keep="@string/disable_cameras_touch_to_enable_message">แตะเพื่อเปิดใช้งานกล้อง</string>
+    <string name="disable_chromecast_button_summary">หลีกเลี่ยงการแพร่ภาพวิดีโอที่กำลังเล่นของคุณไปยังทีวีในห้องนั่งเล่นโดยไม่ตั้งใจ :)</string>
+    <string name="disable_chromecast_button_title">ปิดใช้งานปุ่ม Chromecast</string>
+    <string name="disable_clear_text_networking_message">การตั้งค่าสถานะนี้จะใช้ความพยายามอย่างเต็มที่\n\nส่วนประกอบของแพลตฟอร์ม (เช่น สแต็ก HTTP และ FTP, Download Manager, Media Player) จะปฏิเสธคำขอข้อความธรรมดา\n\nประการที่สาม ไลบรารีของฝ่ายสนับสนุนอย่างยิ่งให้ปฏิบัติตามการตั้งค่านี้เช่นกัน แต่อาจไม่ทำเช่นนั้น\n\nมุมมองเว็บไม่เคารพการตั้งค่าสถานะนี้</string>
+    <string name="disable_clear_text_networking_title">ปิดใช้งานเครือข่ายข้อความธรรมดา</string>
+    <string name="disable_clipboard_access_title">ปิดการเข้าถึงคลิปบอร์ด</string>
+    <string name="disable_clipboard_read_access_title">ปิดการเข้าถึงการอ่าน</string>
+    <string name="disable_clipboard_write_access_title">ปิดการเข้าถึงการเขียน</string>
+    <string name="disable_connectivity_change_events_message">ป้องกันไม่ให้แอปที่ลอกแบบมาทำงานอยู่เบื้องหลังเมื่อสลับ Wi-Fi หรือโหมดเครื่องบิน</string>
+    <string name="disable_connectivity_change_events_title">ปิดใช้งานเหตุการณ์การเปลี่ยนแปลงการเชื่อมต่อ</string>
+    <string name="disable_contacts_access_title">ปิดการเข้าถึงผู้ติดต่อ</string>
+    <string name="disable_device_admin_summary">ช่วยป้องกันไม่ให้ผู้ใช้ถูกหลอกให้ติดตั้งมัลแวร์ & บ็อตเน็ตผ่าน \'clickjacking\'.</string>
+    <string name="disable_device_admin_title">ปิดใช้งานผู้ดูแลระบบอุปกรณ์</string>
+    <string name="disable_device_disabling_message">ปิดการใช้งานอุปกรณ์...</string>
+    <string name="disable_device_message">การดำเนินการนี้จะปิดใช้งานอย่างถาวรและทำให้อุปกรณ์ว่าง <b>%s</b>\n\nการดำเนินการนี้ไม่สามารถยกเลิกได้ และคุณจะไม่สามารถใช้ App Cloner บนอุปกรณ์นี้ได้อีกต่อไป< /สตริง>
+    <string name="disable_device_title">ปิดการใช้งานอุปกรณ์</string>
+    <string name="disable_fullscreen_editing_title">ปิดใช้งานการแก้ไขแบบเต็มหน้าจอ</string>
+    <string name="disable_haptic_feedback_summary">ปิดใช้งานการตอบสนองแบบสัมผัสและการสั่น</string>
+    <string name="disable_haptic_feedback_title">ปิดใช้งานการตอบสนองแบบสัมผัส</string>
+    <string name="disable_hardware_acceleration_summary">ใช้เมื่อจำเป็นเท่านั้น</string>
+    <string name="disable_hardware_acceleration_title">ปิดใช้งานการเร่งด้วยฮาร์ดแวร์</string>
+    <string name="disable_if_app_crashes_message">ปิดการใช้งานหากแอปขัดข้อง</string>
+    <string name="disable_in_app_search_title">ปิดการค้นหาในแอป</string>
+    <string name="disable_logcat_logging_summary">แอปอาจรั่วไหลของข้อมูลที่ละเอียดอ่อนหรือข้อมูลส่วนบุคคลเมื่อเขียนไปยังไฟล์บันทึกของระบบ ตัวเลือกนี้จะปิดใช้งานเอาต์พุตการบันทึกทั้งหมด</string>
+    <string name="disable_logcat_logging_title">ปิดใช้งานการบันทึก Logcat</string>
+    <string name="disable_media_browser_service_summary">ป้องกันไม่ให้กระบวนการของแอปเริ่มต้นขึ้นเมื่อเปิดบลูทูธ</string>
+    <string name="disable_media_browser_service_title">ปิดการใช้งาน MediaBrowserService</string>
+    <string name="disable_mobile_data_dialog_message" tools:keep="@string/disable_mobile_data_dialog_message">เปิดใช้งานข้อมูลมือถือสำหรับ %s แล้ว</string>
+    <string name="disable_mobile_data_dialog_title" tools:keep="@string/disable_mobile_data_dialog_title">เปิดใช้งานข้อมูลมือถือ</string>
+    <string name="disable_mobile_data_notification_message" tools:keep="@string/disable_mobile_data_notification_message">แตะเพื่อเปิดใช้งานข้อมูลมือถือสำหรับ %s</string>
+    <string name="disable_mobile_data_notification_title" tools:keep="@string/disable_mobile_data_notification_title">ปิดใช้งานข้อมูลมือถือ</string>
+    <string name="disable_mobile_data_summary">อนุญาตให้แอปเข้าถึงอินเทอร์เน็ตผ่าน Wi-Fi เท่านั้น</string>
+    <string name="disable_mobile_data_title">ปิดใช้งานข้อมูลมือถือ</string>
+    <string name="disable_mobile_data_warning_message">มุมมองเว็บและส่วนประกอบอื่นๆ ของแอปอาจใช้การเชื่อมต่อเครือข่ายภายในที่สามารถปิดได้ใน Android 5.0 หรือใหม่กว่าเท่านั้น\n\nตรวจสอบว่าแอปเข้ากันได้หรือไม่</string>
+    <string name="disable_nested_scrolling_summary">ป้องกันไม่ให้แถบเครื่องมือหายไปเมื่อเลื่อนลง</string>
+    <string name="disable_nested_scrolling_title">ปิดใช้งานการเลื่อนแบบซ้อน</string>
+    <string name="disable_networking_when_screen_off_summary">อนุญาตให้แอปสื่อสารกับอินเทอร์เน็ตในขณะที่หน้าจอเปิดอยู่เท่านั้น</string>
+    <string name="disable_networking_when_screen_off_title">ปิดการใช้งานเครือข่ายเมื่อปิดหน้าจอ</string>
+    <string name="disable_networking_without_vpn_disabled_message" tools:keep="@string/disable_networking_without_vpn_disabled_message">VPN ไม่ได้ใช้งาน\nเครือข่ายถูกปิดเป็นเวลา %s</string>
+    <string name="disable_networking_without_vpn_enabled_message" tools:keep="@string/disable_networking_without_vpn_enabled_message">VPN ทำงานอยู่\nเปิดใช้งานเครือข่ายเป็นเวลา %s</string>
+    <string name="disable_networking_without_vpn_summary">อนุญาตให้แอปสื่อสารกับอินเทอร์เน็ตเฉพาะในขณะที่มีการเชื่อมต่อ VPN เท่านั้น</string>
+    <string name="disable_networking_without_vpn_title">ปิดการใช้งานเครือข่ายโดยไม่ใช้ VPN</string>
+    <string name="disable_new_picture_video_events_message">ป้องกันไม่ให้แอปที่ลอกแบบมาทำงานในพื้นหลังเมื่อใช้กล้องถ่ายภาพหรือบันทึกวิดีโอ\n\nการปลุกมักจะทำให้ชัตเตอร์แลคหรือแอปกล้องค้าง</string>
+    <string name="disable_new_picture_video_events_title">ปิดกิจกรรมรูปภาพ/วิดีโอใหม่</string>
+    <string name="disable_nfc_events_summary">ป้องกันไม่ให้แอปเริ่มต้นใช้งานผ่านแท็ก NFC</string>
+    <string name="disable_nfc_events_title">ปิดใช้งานเหตุการณ์ NFC</string>
+    <string name="disable_permission_prompts_message1">สิทธิ์ที่ร้องขอจะถูกรายงานว่าได้รับแม้ว่าจะไม่ได้รับก็ตาม</string>
+    <string name="disable_permission_prompts_message2">หากแอปใช้การอนุญาตเหล่านี้ แอปอาจขัดข้อง ในกรณีนี้ คุณอาจต้องเปิดใช้งานการอนุญาตด้วยตนเองผ่านข้อมูลแอป > สิทธิ์</string>
+    <string name="disable_permission_prompts_summary">ป้องกันป๊อปอัปคำขออนุญาตและอาจช่วยได้เมื่อแอปไม่เริ่มทำงานโดยไม่ได้รับสิทธิ์รันไทม์ทั้งหมด</string>
+    <string name="disable_permission_prompts_title">ปิดการแจ้งเตือนสิทธิ์</string>
+    <string name="disable_photo_media_access_summary">ป้องกันไม่ให้แอปที่มีสิทธิ์ในการจัดเก็บเข้าถึงรูปภาพ วิดีโอ รูปภาพ เพลง ดาวน์โหลด หรือเอกสารในที่จัดเก็บข้อมูลภายในหรือภายนอก</string>
+    <string name="disable_photo_media_access_title">ปิดการใช้งานรูปภาพ & การเข้าถึงสื่อ</string>
+    <string name="disable_runtime_modding_options_summary">เพิ่มสิทธิ์ในการโคลนให้น้อยลง ใช้เฉพาะเมื่อคุณได้รับข้อผิดพลาดในการอนุญาตเท่านั้น</string>
+    <string name="disable_runtime_modding_options_title">ปิดใช้งานตัวเลือกการดัดแปลงรันไทม์</string>
+    <string name="disable_screen_on_off_events_title">ปิดใช้งานกิจกรรมเปิด/ปิดหน้าจอ</string>
+    <string name="disable_sensors_access_summary">ปิดการใช้งานมาตรความเร่ง แมกนีโตเมอร์ ไจโรสโคป เข็มทิศ ฯลฯ</string>
+    <string name="disable_sensors_access_title">ปิดการเข้าถึงเซนเซอร์</string>
+    <string name="disable_share_actions_disabled_message" tools:keep="@string/disable_share_actions_disabled_message">การแบ่งปันถูกปิดใช้งาน</string>
+    <string name="disable_share_actions_summary">ป้องกันการแชร์จากภายในแอปที่โคลนไปยังแอป Android อื่นๆ</string>
+    <string name="disable_share_actions_title">ปิดใช้งานการแชร์</string>
+    <string name="disable_signature_verification_summary">การยืนยันลายเซ็นให้ผลลัพธ์ที่เป็นบวกเสมอ</string>
+    <string name="disable_signature_verification_title">ปิดใช้งานการตรวจสอบลายเซ็น</string>
+    <string name="disable_space_management_summary">เปลี่ยนปุ่ม \'จัดการพื้นที่\' ของตัวจัดการแอปพลิเคชันเป็น \'ล้างข้อมูล\'</string>
+    <string name="disable_space_management_title">ปิดการใช้งานการจัดการพื้นที่</string>
+    <string name="disable_usb_accessory_mode_events_label">ปิดใช้งานกิจกรรมโหมดอุปกรณ์เสริม USB</string>
+    <string name="disable_usb_events_summary">ป้องกันไม่ให้แอปเริ่มต้นสำหรับโฮสต์ USB หรือโหมดอุปกรณ์เสริม USB</string>
+    <string name="disable_usb_events_title">ปิดใช้งานกิจกรรม USB</string>
+    <string name="disable_usb_host_mode_events">ปิดใช้งานกิจกรรมโหมดโฮสต์ USB</string>
+    <string name="disable_wake_locks_summary">ป้องกันไม่ให้แอปรับการล็อกการทำงาน ซึ่งอาจยืดอายุการใช้งานแบตเตอรี่ของคุณ</string>
+    <string name="disable_wake_locks_title">ปิดใช้งานการล็อกการทำงาน</string>
+
+    <string name="disabled_options_premium_version_message">ตัวเลือกสำหรับปิดใช้งานมีให้ใช้งานในเวอร์ชันพรีเมียม</string>
+
+    <string name="dismissable_dialogs_dismissable_label">ปิดได้</string>
+    <string name="dismissable_dialogs_dismissable_message">อนุญาตให้ปิดกล่องโต้ตอบได้โดยแตะที่ด้านนอกกล่องโต้ตอบ</string>
+    <string name="dismissable_dialogs_not_dismissable_label">ปิดไม่ได้</string>
+    <string name="dismissable_dialogs_not_dismissable_message">ป้องกันการปิดกล่องโต้ตอบโดยไม่ตั้งใจเมื่อสัมผัสนอกกล่องโต้ตอบ</string>
+    <string name="dismissable_dialogs_summary">ควบคุมว่าจะเกิดอะไรขึ้นเมื่อแตะนอกกล่องโต้ตอบ</string>
+    <string name="dismissable_dialogs_title">กล่องโต้ตอบที่ปิดได้</string>
+
+    <string name="display_size_title">ขนาดที่แสดง</string>
+
+    <string name="do_not_disturb_access_message">เมื่อแอปโคลนเริ่มทำงาน คุณจะเข้าสู่การตั้งค่าการเข้าถึง Android Do Not Disturb ซึ่งคุณจะต้องเปิดใช้งานแอป</string>
+    <string name="do_not_disturb_controls_title">การควบคุมห้ามรบกวน</string>
+    <string name="do_not_disturb_enable_access_message" tools:keep="@string/do_not_disturb_enable_access_message">โปรดเปิดใช้งานการเข้าถึง \'ห้ามรบกวน\' สำหรับ %s</string>
+    <string name="do_not_disturb_turn_on_on_start_title">เปิดโหมดห้ามรบกวนเมื่อเริ่มต้น</string>
+
+    <string name="document_launch_mode_summary">อนุญาตให้เปิดใช้หลายอินสแตนซ์ของแอป ต้องใช้ Android 5.0 ขึ้นไป และบางแอปอาจไม่รองรับ</string>
+    <string name="document_launch_mode_title">โหมดเปิดเอกสาร</string>
+
+    <string name="donation_additional_features_title">คุณสมบัติเพิ่มเติม</string>
+    <string name="donation_clones_label">%d โคลน</string>
+    <string name="donation_failed_message">การบริจาคล้มเหลวด้วยเหตุผลบางอย่าง</string>
+    <string name="donation_giant_label">การบริจาคครั้งใหญ่</string>
+    <string name="donation_huge_label">การบริจาคจำนวนมาก</string>
+    <string name="donation_huge_required_message">ต้องการการบริจาคจำนวนมาก</string>
+    <string name="donation_large_label">บริจาคจำนวนมาก</string>
+    <string name="donation_large_required_message">ต้องการบริจาคเป็นจำนวนมาก</string>
+    <string name="donation_medium_label">บริจาคปานกลาง</string>
+    <string name="donation_medium_required_message">ต้องการการบริจาคปานกลาง</string>
+    <string name="donation_small_label">การบริจาคเล็กน้อย</string>
+    <string name="donation_small_required_component_name_containing_message">จำเป็นต้องมีการบริจาคเล็กน้อยสำหรับชื่อส่วนประกอบที่มี \'%s\'</string>
+    <string name="donation_small_required_message">ต้องการการบริจาคเล็กน้อย</string>
+    <string name="donation_small_required_more_than_items_message">ต้องการการบริจาคเล็กน้อยสำหรับมากกว่า %d รายการ</string>
+    <string name="donation_successful_message">การบริจาคสำเร็จแล้ว\n\nขอบคุณมาก!</string>
+    <string name="donation_ultra_includes_all_addons_label">มีส่วนเสริมทั้งหมด</string>
+    <string name="donation_ultra_includes_all_donations_label">รวมเงินบริจาคทั้งหมด</string>
+    <string name="donation_ultra_label">บริจาคพิเศษ</string>
+    <string name="donation_ultra_lifetime_premium_label">พรีเมี่ยมตลอดชีพ</string>
+    <string name="donation_ultra_unlimited_clones_label">โคลนไม่จำกัด</string>
+    <string name="donation_ultra_use_app_cloner_on_devices_label">ใช้ App Cloner บนอุปกรณ์สูงสุด %d เครื่อง</string>
+
+    <string name="donations_message1">บริจาคหากคุณชอบ App Cloner และต้องการสนับสนุนการพัฒนา หรือถ้าคุณใช้ App Cloner ในเชิงพาณิชย์สำหรับธุรกิจของคุณ</string>
+    <string name="donations_message2">การบริจาคยังเพิ่มจำนวนโคลนทั้งหมดอีกด้วย</string>
+    <string name="donations_message3">บริจาคได้หลังจากอัปเกรดเป็น %s รุ่นพรีเมียม</string>
+    <string name="donations_message4">โคลนพิเศษจะไม่ถูกเพิ่มไปยังโคลนของเวอร์ชันพรีเมียม</string>
+    <string name="donations_message5">การบริจาคจำนวนมากไม่ได้รวมการบริจาคจำนวนน้อยกว่าโดยอัตโนมัติ</string>
+    <string name="donations_summary">บริจาค & ปลดล็อกโคลนเพิ่มเติม</string>
+    <string name="donations_title">การบริจาค</string>
+
+    <string name="downgrade_required_adjust_version_code_label">ปรับรหัสเวอร์ชัน</string>
+    <string name="downgrade_required_message1">ติดตั้ง %s เวอร์ชันใหม่กว่าแล้ว หากต้องการดาวน์เกรดโคลนและติดตั้งเวอร์ชันก่อนหน้านี้ คุณต้องถอนการติดตั้งโคลนที่มีอยู่ ซึ่งจะลบการตั้งค่าแอปและไฟล์ทั้งหมด</string>
+    <string name="downgrade_required_message2">อีกทางหนึ่ง คุณสามารถสร้าง %s โคลนนี้ให้ตรงกับรหัสเวอร์ชันที่ใหม่กว่าเพื่อบังคับติดตั้งเวอร์ชันเก่ากว่าเวอร์ชันที่ใหม่กว่า โดยเก็บการตั้งค่าแอปและไฟล์ไว้</string>
+    <string name="downgrade_required_title">ต้องดาวน์เกรด</string>
+
+    <string name="edit_clone_settings_label">แก้ไขการตั้งค่าการโคลน</string>
+
+    <string name="empty_directory_hint">ไดเร็กทอรีว่าง</string>
+
+    <string name="enable_debug_utils_label">เครื่องมือตรวจแก้จุดบกพร่อง</string>
+    <string name="enable_debug_utils_message1">ทำให้ดีบั๊กมีไว้สำหรับนักพัฒนาเป็นส่วนใหญ่</string>
+    <string name="enable_debug_utils_message2">การเปิดใช้งานยูทิลิตี้แก้ไขจุดบกพร่องแสดงการแจ้งเตือนที่อนุญาตให้เริ่มต้นและหยุดการทำโปรไฟล์เมธอด เช่นเดียวกับการรับฮีปและเธรดดัมพ์\n\nไฟล์ติดตาม (.trace), ไฟล์ HPROF (.hprof) และเธรดดัมพ์ ไฟล์ (.txt) ตั้งชื่อตามชื่อแพ็กเกจและบันทึกลงในไดเร็กทอรีที่เก็บข้อมูลภายนอกของคุณ\n\nสามารถวิเคราะห์ไฟล์ติดตามได้โดยใช้ Android Device Monitor ไฟล์ HPROF ต้องแปลงโดยใช้ hprof-conv แล้วจึงวิเคราะห์ได้โดยใช้ MAT</string>
+    <string name="enable_disable_networking_notification_summary">แสดงการแจ้งเตือนที่อนุญาตให้คุณเปิดใช้งานหรือปิดใช้งานเครือข่ายด้วยตนเองสำหรับแอปที่ลอกแบบมา</string>
+    <string name="enable_disable_networking_notification_title">เปิด/ปิดการใช้งานเครือข่ายผ่านการแจ้งเตือน</string>
+    <string name="enable_tv_version_summary">อนุญาตให้เรียกใช้แอปเวอร์ชันทีวีบนโทรศัพท์ แท็บเล็ต หรืออุปกรณ์ทีวีอื่นๆ ที่ไม่ใช่ Android มีแอปเพียงไม่กี่แอปที่ใช้วิธีนี้ แต่ TuneIn Radio เป็นตัวอย่างที่ดี</string>
+    <string name="enable_tv_version_title">เปิดใช้งานเวอร์ชันทีวี</string>
+
+    <string name="error_message_app_bundle_app_shell">แอป App Bundle ไม่สามารถโคลนในโหมด App Shell ได้</string>
+    <string name="error_message_app_too_old">แอปนี้เก่าเกินไป โปรดอัปเดตแอปเดิมเป็นเวอร์ชันล่าสุด</string>
+    <string name="error_message_app_version" tools:keep="@string/error_message_app_version">ไม่สามารถโคลนแอปเวอร์ชันนี้ได้ ตรวจสอบให้แน่ใจว่าใช้เวอร์ชันที่เป็นทางการเท่านั้น หรือโปรดลองใช้เวอร์ชันอื่น</string>
+    <string name="error_message_applisto_app">ขออภัย ไม่สามารถโคลนแอป AppListo ได้ ;-)</string>
+    <string name="error_message_attribute_may_not_be_changed">แอตทริบิวต์ \'%s\' ไม่สามารถเปลี่ยนแปลงได้</string>
+    <string name="error_message_bundling_not_supported">ขออภัย แอปนี้ไม่รองรับตัวเลือกการรวมกลุ่ม</string>
+    <string name="error_message_cannot_read_apk">ไม่สามารถอ่านไฟล์ APK ต้นทางได้</string>
+    <string name="error_message_clone_app">โคลนแอปไม่สำเร็จ</string>
+    <string name="error_message_copy_protection">แอปนี้ใช้การป้องกันการคัดลอกและไม่สามารถโคลนได้</string>
+    <string name="error_message_dex_merging_failed">การรวม DEX ล้มเหลว</string>
+    <string name="error_message_failed_to_apply_patch">ใช้โปรแกรมแก้ไขไม่สำเร็จ</string>
+    <string name="error_message_format_invalid">รูปแบบไม่ถูกต้อง</string>
+    <string name="error_message_incompatible_apk" tools:keep="@string/error_message_incompatible_apk">ขออภัย APK นี้มีองค์ประกอบที่เข้ากันไม่ได้</string>
+    <string name="error_message_incompatible_app_bundle">ไม่สามารถโคลนแอป App Bundle ประเภทนี้ได้ โปรดลองหาเวอร์ชันสแตนด์อโลนหรือเวอร์ชันก่อนหน้าของแอป</string>
+    <string name="error_message_input_required">จำเป็นต้องป้อนข้อมูล</string>
+    <string name="error_message_invalid_input">อินพุตไม่ถูกต้อง</string>
+    <string name="error_message_no_dex_files">แอปนี้ไม่มีโค้ด\n\nอาจเป็นแอประบบหรือแอปตัวยึดที่ลิงก์ไปยังร้านค้า</string>
+    <string name="error_message_no_dex_merging">ไม่สามารถแก้ไข DEX ได้สำหรับแอปนี้</string>
+    <string name="error_message_no_manifest">ไม่พบไฟล์รายการ</string>
+    <string name="error_message_obb_not_copied">ล้มเหลวในการคัดลอกไฟล์สำหรับขยาย</string>
+    <string name="error_message_optional_title">ข้อความแสดงข้อผิดพลาด (ไม่บังคับ)</string>
+    <string name="error_message_path_not_found">ไม่พบเส้นทาง: %s</string>
+    <string name="error_message_string_pool_order">ขออภัย ไม่สามารถโคลนแอปนี้โดยใช้หมายเลขโคลนที่เลือกได้\n\nสตริงพูลภายในใช้งานไม่ได้และแอปจะหยุดทำงานหากเปิดใช้งาน</string>
+    <string name="error_message_string_pool_order2">โปรดลองโคลนโดยเปิดใช้งานโหมดการโคลน Manifest เนื่องจากบางครั้งอาจช่วยได้ (ดูที่ตัวเลือกการโคลน)</string>
+    <string name="error_message_system_app" tools:keep="@string/error_message_system_app">แอปนี้อ้างถึงแอประบบและไม่สามารถลอกแบบได้</string>
+    <string name="error_message_value_must_have_dot_separator">ค่าต้องเป็นตัวอักษรและตัวเลขและมีตัวคั่น \'.\' อย่างน้อยหนึ่งตัว</string>
+    <string name="error_message_whatsapp_replace_original_app">คุณไม่สามารถแทนที่ WhatsApp เดิมได้\n\nคุณต้องสร้างโคลนและเก็บ WhatsApp เดิมไว้ระหว่างการลงทะเบียน</string>
+    <string name="error_message_wrong_abis">แอปนี้ใช้ไลบรารีเนทีฟ ซึ่งไม่รองรับบนแพลตฟอร์มของคุณ (%s) โปรดค้นหารูปแบบ APK ที่ถูกต้องสำหรับแพลตฟอร์มของคุณ</string>
+    <string name="error_ while_updating_message">เกิดข้อผิดพลาดขณะอัปเดต %s</string>
+
+    <string name="exclude_from_recents_title">ไม่รวมจากล่าสุด</string>
+
+    <string name="execute_tasker_tasks_message">หากต้องการใช้ตัวเลือกนี้ คุณต้องติดตั้ง Tasker คุณสามารถติดตั้ง Tasker ได้จาก Play Store\n\nตรวจสอบให้แน่ใจว่าได้เปิดใช้งาน <b>อนุญาตการเข้าถึงภายนอก</b> ในการตั้งค่า <b>เบ็ดเตล็ด</b> ของ Tasker ชื่องานคำนึงถึงตัวพิมพ์เล็กและใหญ่\n\nในงาน คุณสามารถใช้ตัวแปร <b>%name</b> และ <b>%package</b></string>
+    <string name="execute_tasker_tasks_start_title">งานที่จะดำเนินการเมื่อแอปเริ่มทำงาน</string>
+    <string name="execute_tasker_tasks_stop_title">งานที่จะดำเนินการเมื่อออกจากแอป</string>
+    <string name="execute_tasker_tasks_title">เรียกใช้งานทาซเคอ</string>
+
+    <string name="exit_app_on_screen_off_delay_title">ระบุการหน่วงเวลา</string>
+    <string name="exit_app_on_screen_off_title">ออกจากแอปเมื่อปิดหน้าจอ</string>
+    <string name="exit_app_when_storage_unmounted_title">ออกจากแอปเมื่อไม่ได้ต่อเชื่อมที่เก็บข้อมูล</string>
+
+    <string name="expansion_files_copy_cloning_label">คัดลอกเมื่อโคลนแอป</string>
+    <string name="expansion_files_copy_cloning_summary">คัดลอกไฟล์ขยาย OBB ขณะโคลนแอป</string>
+    <string name="expansion_files_copy_error_message" tools:keep="@string/expansion_files_copy_error_message">ล้มเหลวในการคัดลอกไฟล์สำหรับขยาย ตรวจสอบให้แน่ใจว่าได้ติดตั้งแอปต้นฉบับแล้ว</string>
+    <string name="expansion_files_copy_starting_label">คัดลอกเมื่อเริ่มการโคลน</string>
+    <string name="expansion_files_copy_starting_summary">คัดลอกไฟล์ OBB และ xpansion เมื่อเริ่มการโคลน อนุญาตให้ลบไฟล์ส่วนขยายหลังจากใช้การโคลน แอปดั้งเดิมต้องยังคงติดตั้งอยู่</string>
+    <string name="expansion_files_deleted_error_message" tools:keep="@string/expansion_files_deleted_error_message">ไม่สามารถลบไฟล์ขยายได้</string>
+    <string name="expansion_files_deleted_message" tools:keep="@string/expansion_files_deleted_message">ลบไฟล์ขยายแล้ว</string>
+    <string name="expansion_files_premium_message">แอปนี้ใช้ไฟล์สำหรับขยาย OBB\n\nโปรดโคลนแอปนี้โดยใช้ App Cloner เวอร์ชันพรีเมียม เพื่อให้ไฟล์สำหรับขยายได้รับการคัดลอกโดยอัตโนมัติ</string>
+    <string name="expansion_files_quit_delete_message" tools:keep="@string/expansion_files_quit_delete_message">แตะเพื่อออกจากแอปและลบ %s ของไฟล์สำหรับขยาย</string>
+    <string name="expansion_files_version_error_message" tools:keep="@string/expansion_files_version_error_message">ไม่สามารถคัดลอกไฟล์ส่วนขยายของแอปเวอร์ชันอื่น โปรดอัปเดตโคลน</string>
+
+    <string name="experimental_option_message" tools:keep="@string/experimental_option_message">ตัวเลือกนี้เป็นการทดลอง</string>
+
+    <string name="facebook_android50_message">ขออภัย สามารถโคลน Facebook ได้เฉพาะบน Android 5.0 หรือใหม่กว่าเท่านั้น</string>
+    <string name="facebook_login_title">เข้าสู่ระบบ Facebook</string>
+
+    <string name="failed_to_communicate_with_clone_message">ไม่สามารถสื่อสารกับร่างโคลนได้</string>
+    <string name="failed_to_launch_app_message">เปิดแอปไม่สำเร็จ</string>
+    <string name="failed_to_load_file_message">โหลดไฟล์ไม่สำเร็จ</string>
+    <string name="failed_to_save_file_message">บันทึกไฟล์ไม่สำเร็จ</string>
+    <string name="failed_to_share_file_message">แชร์ไฟล์ไม่สำเร็จ</string>
+    <string name="failed_to_show_app_info_message">ไม่สามารถแสดงข้อมูลแอป</string>
+    <string name="failed_to_uninstall_app_message">ถอนการติดตั้งแอปไม่สำเร็จ</string>
+
+    <string name="fake_battery_level_message">ระบุระดับแบตเตอรี่ที่ควรรายงานไปยังแอป</string>
+    <string name="fake_battery_level_summary">ไม่อนุญาตให้แอปตรวจจับว่าคุณพลังงานใกล้หมดและชาร์จคุณเพิ่ม</string>
+    <string name="fake_battery_level_title">ระดับแบตเตอรี่ปลอม</string>
+    <string name="fake_calculator_message">คุณควรเปลี่ยนไอคอนแอปและชื่อแอปเป็น \'เครื่องคิดเลข\' ด้วย</string>
+    <string name="fake_calculator_summary">แสดงเครื่องคิดเลขที่ทำงานได้อย่างสมบูรณ์เมื่อเปิดใช้งานการโคลน การป้อนรหัสที่ระบุลงในเครื่องคิดเลขจะปลดล็อกแอปจริง</string>
+    <string name="fake_calculator_title">เครื่องคิดเลขปลอม</string>
+    <string name="fake_camera_rotate_left_label" tools:keep="@string/fake_camera_rotate_left_label">หมุน ↺</string>
+    <string name="fake_camera_rotate_right_label" tools:keep="@string/fake_camera_rotate_right_label">หมุน ↻</string>
+    <string name="fake_camera_select_picture_message" tools:keep="@string/fake_camera_select_picture_message">แตะเพื่อเลือกรูปภาพ</string>
+    <string name="fake_camera_summary">อนุญาตให้เลือกรูปภาพจากแกลเลอรีเพื่อใช้แทนรูปภาพจริงจากกล้องถ่ายทอดสดเมื่อกดปุ่มชัตเตอร์</string>
+    <string name="fake_camera_title">กล้องปลอม</string>
+    <string name="fake_camera_use_picture_message" tools:keep="@string/fake_camera_use_picture_message">แตะปุ่มชัตเตอร์เพื่อใช้ภาพที่เลือก</string>
+    <string name="fake_date_message">โปรดทราบว่าแอปอาจยังดึงข้อมูลเวลาที่ถูกต้องจากเซิร์ฟเวอร์เวลาอินเทอร์เน็ตและจากการประทับเวลาที่แก้ไขล่าสุดของไฟล์ที่เขียน</string>
+    <string name="fake_date_summary">ทำให้แอปที่โคลนคิดว่าเป็นวันที่แน่นอน ส่วนของเวลายังคงไม่เปลี่ยนแปลง</string>
+    <string name="fake_date_title">วันที่ปลอม</string>
+    <string name="fake_time_summary">ทำให้แอปที่จำลองมาคิดว่าเป็นช่วงเวลาหนึ่งของวัน วันที่ยังคงไม่เปลี่ยนแปลง</string>
+    <string name="fake_time_title">ปลอมเวลา</string>
+    <string name="fake_time_zone_title">เขตเวลาปลอม</string>
+
+    <string name="file_access_monitor_summary">อนุญาตให้คุณตรวจสอบไฟล์ที่โคลนเข้าถึง หากต้องการเปิดจอภาพ ให้ใช้เมนูป๊อปอัปบนแท็บ \'แอปโคลน\'</string>
+    <string name="file_access_monitor_title">ตรวจสอบการเข้าถึงไฟล์</string>
+    <string name="file_hash_md5_title">ไฟล์แฮช (MD5)</string>
+    <string name="file_loaded_message">โหลดไฟล์แล้ว</string>
+    <string name="file_loaded_success_message">โหลดไฟล์สำเร็จ</string>
+    <string name="file_name">ชื่อไฟล์</string>
+    <string name="file_restored_message">กู้คืนไฟล์แล้ว</string>
+    <string name="file_saved_success_message">บันทึกไฟล์สำเร็จแล้ว</string>
+    <string name="file_saving_message">กำลังบันทึกไฟล์...</string>
+
+    <string name="files_plural_one">%d ไฟล์</string>
+    <string name="files_plural_other">%d ไฟล์</string>
+    <string name="files_saved_success_message">บันทึกไฟล์เรียบร้อยแล้ว</string>
+    <string name="files_saving_message">กำลังบันทึกไฟล์...</string>
+
+    <string name="fingerprint_long_tap_action_title">การแตะนิ้วยาวด้วยลายนิ้วมือ</string>
+    <string name="fingerprint_tap_action_title">การแตะด้วยลายนิ้วมือ</string>
+
+    <string name="flashlight_ while_app_open_summary">เปิดไฟฉายขณะที่แอปโคลนอยู่เบื้องหน้า</string>
+    <string name="flashlight_ while_app_open_title">ไฟฉายขณะเปิดแอป</string>
+
+    <string name="flip_icon_horizontally_label">พลิกตามแนวนอน</string>
+    <string name="flip_icon_title">ไอคอนพลิก</string>
+    <string name="flip_icon_vertically_label">พลิกในแนวตั้ง</string>
+    <string name="flip_screen_horizontally_label">พลิกหน้าจอในแนวนอน</string>
+    <string name="flip_screen_message">การพลิกหน้าจอใช้ไม่ได้กับการดูเกมหรือวิดีโอ อินพุตแบบสัมผัสจะไม่ทำมิเรอร์</string>
+    <string name="flip_screen_notification_message" tools:keep="@string/flip_screen_notification_message">แตะเพื่อพลิกหน้าจอ</string>
+    <string name="flip_screen_summary">พลิกหรือสะท้อนหน้าจอในแนวนอนหรือแนวตั้ง มีประโยชน์สำหรับโปรเจ็คเตอร์หรือเฮดอัพดิสเพลย์ในรถยนต์</string>
+    <string name="flip_screen_title">พลิกหน้าจอ / โหมด HUD</string>
+    <string name="flip_screen_using_label">พลิกหน้าจอโดยใช้</string>
+    <string name="flip_screen_using_nfc_tag_label">แท็ก NFC</string>
+    <string name="flip_screen_using_notification_label">การแจ้งเตือน</string>
+    <string name="flip_screen_vertically_label">พลิกหน้าจอในแนวตั้ง</string>
+
+    <string name="floating_app_auto_grant_draw_over_other_apps_label">ให้สิทธิ์ \'วาดทับแอปอื่น ๆ\' โดยอัตโนมัติ</string>
+    <string name="floating_app_auto_grant_draw_over_other_apps_message">สามารถให้สิทธิ์ที่จำเป็นโดยอัตโนมัติโดยกำหนดเป้าหมายไปที่ Android เวอร์ชันก่อนหน้า\n\nหากคุณมีการติดตั้งตัวโคลนที่มีเป้าหมายเป็น Android เวอร์ชันที่สูงกว่า คุณอาจต้องถอนการติดตั้งตัวโคลนก่อน</ สตริง>
+    <string name="floating_app_long_press_exit_message" tools:keep="@string/floating_app_long_press_exit_message">กดค้างเพื่อออกจาก %s</string>
+    <string name="floating_app_notch_margin_label">สำรองขอบสำหรับบาก</string>
+    <string name="floating_app_restore_notification_title" tools:keep="@string/floating_app_restore_notification_title">กู้คืนแอปลอย</string>
+    <string name="floating_app_title">แอปลอยได้</string>
+    <string name="floating_app_title_bar_color_label">สีของแถบชื่อเรื่อง</string>
+    <string name="floating_back_button_double_back_tap_label">ทริกเกอร์การแตะย้อนกลับสองครั้ง</string>
+    <string name="floating_back_button_info_message">โปรดทราบว่าบางแอปจะสลับมุมมองในหน้าจอเดียว</string>
+    <string name="floating_back_button_long_press_action_hide_for_screen_permanently_label">ซ่อนปุ่มสำหรับหน้าจออย่างถาวร</string>
+    <string name="floating_back_button_long_press_action_hide_for_screen_temporarily_label">ซ่อนปุ่มสำหรับหน้าจอชั่วคราว</string>
+    <string name="floating_back_button_long_press_action_none_label">ไม่มี</string>
+    <string name="floating_back_button_position_per_screen_label">ตำแหน่งปุ่มต่างๆ ต่อหน้าจอ</string>
+    <string name="floating_back_button_set_button_color_label">ตั้งค่าสีของปุ่ม</string>
+    <string name="floating_back_button_title">ปุ่มย้อนกลับแบบลอย</string>
+
+    <string name="flush_logcat_buffer_flushed_message" tools:keep="@string/flush_logcat_buffer_flushed_message">ล้างบัฟเฟอร์ Logcat แล้ว</string>
+    <string name="flush_logcat_buffer_on_exit_summary">ล้างบัฟเฟอร์ logcat เมื่อออกจากแอป</string>
+    <string name="flush_logcat_buffer_on_exit_title">ล้างบัฟเฟอร์ Logcat เมื่อออก</string>
+
+    <string name="font_scale_message">วิธีนี้ใช้ไม่ได้กับเกม แอปบนเว็บ มุมมองเว็บ หรือแอปที่ตั้งสเกลแบบอักษรของตนเอง</string>
+    <string name="font_scale_title">มาตราส่วนแบบอักษร</string>
+
+    <string name="force_device_lock_message1" tools:keep="@string/force_device_lock_message1">วิธีนี้จะช่วยป้องกันการละเมิดและการเผยแพร่ซ้ำของแอปที่ลอกแบบมา</string>
+    <string name="force_device_lock_message2" tools:keep="@string/force_device_lock_message2">โปรดใช้ App Cloner เพื่อสร้างการโคลนใหม่บนอุปกรณ์เป้าหมายนี้</string>
+    <string name="force_device_lock_message3" tools:keep="@string/force_device_lock_message3">ในการโคลนแอปสำหรับอุปกรณ์นี้โดยเฉพาะ ให้ใช้ตัวเลือก <b>ล็อคอุปกรณ์</b>พร้อมตัวระบุ <b>%s</b> </string>
+    <string name="force_device_lock_message4" tools:keep="@string/force_device_lock_message4">โคลนที่สร้างขึ้นจากการบริจาคจำนวนมาก / การบริจาคจำนวนมากอาจยังคงติดตั้งบนอุปกรณ์เป้าหมายที่แตกต่างกัน</string>
+    <string name="force_device_lock_title" tools:keep="@string/force_device_lock_title">โคลนถูกล็อกอุปกรณ์</string>
+
+    <string name="format_json_failed_message">ไม่สามารถจัดรูปแบบ JSON ได้</string>
+    <string name="format_json_label">จัดรูปแบบ JSON</string>
+
+    <string name="fps_monitor_summary">แสดงการซ้อนทับด้วยอัตราเฟรมปัจจุบัน</string>
+    <string name="fps_monitor_title">มอนิเตอร์ FPS</string>
+
+    <string name="free_form_window_message">โหมดหน้าต่างรูปแบบอิสระพร้อมใช้งานใน Android 7.0 หรือใหม่กว่า\n\nโหมดหน้าต่างรูปแบบอิสระอาจไม่ทำงานเมื่อเปิดแอปจากกล่องโต้ตอบการติดตั้ง เปิดโคลนจากตัวเรียกใช้งานแทน หากไม่ได้ผล คุณอาจต้องรีบูตอุปกรณ์</string>
+    <string name="free_form_window_title">หน้าต่างรูปแบบอิสระ</string>
+
+    <string name="freeze_time_freeze_notification_title" tools:keep="@string/freeze_time_freeze_notification_tile">แตะเพื่อหยุดเวลา</string>
+    <string name="freeze_time_message">สิ่งนี้มีผลกับนาฬิการะบบเท่านั้น ตัวจับเวลาการทำงานจะไม่ได้รับผลกระทบ</string>
+    <string name="freeze_time_summary">แสดงการแจ้งเตือนที่อนุญาตให้หยุดเวลาปัจจุบัน</string>
+    <string name="freeze_time_title">หยุดเวลา</string>
+    <string name="freeze_time_unfreeze_notification_title" tools:keep="@string/freeze_time_unfreeze_notification_tile">แตะเพื่อยกเลิกการตรึงเวลา</string>
+
+    <string name="get_app_icon_error_message">รับไอคอนแอปไม่สำเร็จ</string>
+
+    <string name="google_account_picker_error_message">ไม่สามารถเริ่มเครื่องมือเลือกบัญชี Google</string>
+    <string name="google_cloud_messaging_message" tools:keep="@string/google_cloud_messaging_message">ตรวจพบการใช้ Google Cloud Messaging การแจ้งเตือนอาจไม่ทำงานในแอปที่ลอกแบบมา</string>
+    <string name="google_maps_api_detected_message_new3">หากต้องการใช้ Google Maps ในร่างโคลน คุณสามารถซื้อโปรแกรมเสริม %s ได้</string>
+    <string name="google_maps_api_generate_key_label">สร้างคีย์</string>
+    <string name="google_maps_api_key_billing_message_1">สำคัญ: ตั้งแต่วันที่ 11 มิถุนายน 2018 Google กำหนดให้คุณเปิดใช้งานการเรียกเก็บเงินเพื่อใช้คีย์ Google Maps API ที่สร้างขึ้นภายในการโคลนนิ่ง</string>
+    <string name="google_maps_api_key_billing_message_2">มีค่าเผื่อการใช้แผนที่ฟรี $200 ต่อเดือน ดังนั้นโดยทั่วไปคุณจะไม่ต้องจ่าย แต่คุณยังต้องเพิ่มข้อมูลการเรียกเก็บเงินของบัตรเครดิตในโครงการ Google Cloud Platform ของคุณ</string >
+    <string name="google_maps_api_key_message">คุณต้องมีบัญชี Google เพื่อสร้างคีย์ คีย์ที่สร้างขึ้นจะเชื่อมโยงกับชื่อแพ็กเกจของแอปที่ลอกแบบมา หากคุณเปลี่ยนหมายเลขโคลน คุณต้องสร้างคีย์ใหม่\n\n
+        1. กด <b>ตกลง</b> เพื่อเปิดเบราว์เซอร์ของคุณ คุณจะถูกนำไปที่ Google Developers Console\n
+        2. หากยังไม่ได้เข้าสู่ระบบ ให้เข้าสู่ระบบด้วยบัญชี Google ของคุณ\n
+        3. ระบบจะถามคุณเกี่ยวกับโครงการ เลือก <b>สร้างโครงการ</b> แล้วกด <b>ดำเนินการต่อ</b>\n
+        4. รอจนกว่าโครงการจะถูกสร้างขึ้นและเปิดใช้งาน API การดำเนินการนี้อาจใช้เวลาสักครู่ บางครั้งก็หลายนาที\n
+        5. เมื่อเสร็จแล้ว ให้กด <b>สร้างคีย์ API</b>\n
+        6. เมื่อเสร็จแล้ว ให้คัดลอกคีย์ กลับไปที่ App Cloner แล้ววางลงในกล่องโต้ตอบ</string>
+    <string name="google_maps_api_key_summary">อนุญาตให้สร้างคีย์ Google Maps API ผ่าน Google Developers Console</string>
+    <string name="google_maps_api_key_title">คีย์ Google Maps API</string>
+    <string name="google_maps_api_view_manage_keys_label">ดู & จัดการคีย์</string>
+    <string name="google_play_services_message">ตรวจพบการใช้บริการ Google Play เวอร์ชันโคลนของแอปนี้น่าจะมีปัญหาเมื่อเริ่มต้น</string>
+    <string name="google_play_services_workaround_summary">อาจป้องกันข้อขัดข้องเกี่ยวกับบริการ Google Play และใบรับรองการโคลน จะไม่ทำงานหากแอปต้องพึ่งพาบริการ Google Play</string>
+    <string name="google_play_services_workaround_title">วิธีแก้ปัญหาของบริการ Google Play</string>
+
+    <string name="gps_joystick_copy_location_label" tools:keep="@string/gps_joystick_copy_location_label">ตำแหน่งคัดลอก</string>
+    <string name="gps_joystick_location_copied_message" tools:keep="@string/gps_joystick_location_copied_message">ตำแหน่งที่คัดลอกแล้ว</string>
+    <string name="gps_joystick_location_title" tools:keep="@string/gps_joystick_location_title">ตำแหน่งจอยสติ๊ก GPS</string>
+    <string name="gps_joystick_max_speed_meters_per_second_label">ความเร็วสูงสุด (เมตร / วินาที)</string>
+    <string name="gps_joystick_message">แตะสองครั้งที่จอยสติ๊ก GPS เพื่อซ่อนชั่วคราว</string>
+    <string name="gps_joystick_temporarily_hidden_message" tools:keep="@string/gps_joystick_temporarily_hidden_message">จอยสติ๊ก GPS ถูกซ่อนชั่วคราว</string>
+    <string name="gps_joystick_title">จอยสติ๊ก GPS</string>
+
+    <string name="group_pending_installs_title">รอการติดตั้ง</string>
+    <string name="group_pending_updates_title">รอการปรับปรุง</string>
+    <string name="group_recently_added_apps_title">แอปที่เพิ่งเพิ่ม</string>
+    <string name="group_recently_cloned_apps_title">แอพที่โคลนล่าสุด</string>
+    <string name="group_recently_installed_apps_title">แอปที่เพิ่งติดตั้ง</string>
+    <string name="group_starred_apps_title">แอปที่ติดดาว</string>
+
+    <string name="headphones_events_headphones_plugged_event_action_title">การทำงานของเหตุการณ์ที่เชื่อมต่อกับหูฟัง</string>
+    <string name="headphones_events_headphones_unplugged_event_action_title">การกระทำของเหตุการณ์หูฟังขาดการเชื่อมต่อ</string>
+    <string name="headphones_events_summary">อนุญาตให้เริ่มหรือออกจากแอปเมื่อหูฟังเชื่อมต่อเข้าหรือตัดการเชื่อมต่อ</string>
+    <string name="headphones_events_title">เหตุการณ์เกี่ยวกับหูฟัง</string>
+
+    <string name="hex_patch_title">แพทช์ฐานสิบหก</string>
+    <string name="hex_patcher_message">ชื่อสามารถมีสัญลักษณ์แทน (*.dex) ในการค้นหา / แทนที่ค่าฐานสิบหก คุณอาจใช้ ?? หรือ ** เป็นไบต์ไวด์การ์ด ดูความช่วยเหลือสำหรับข้อมูลเพิ่มเติม</string>
+    <string name="hex_patcher_summary">อนุญาตให้แพตช์ไฟล์ตามอำเภอใจภายใน APK โดยใช้การค้นหาตามฐานสิบหก & แทนที่</string>
+    <string name="hex_patcher_title">ตัวแก้ไขเลขฐานสิบหก</string>
+
+    <string name="hide_all_installed_apps_summary">มีประโยชน์ในการป้องกันลายนิ้วมือของอุปกรณ์ แอประบบ Android บางแอปยังคงมองเห็นได้</string>
+    <string name="hide_all_installed_apps_title">ซ่อนแอปที่ติดตั้งทั้งหมด</string>
+    <string name="hide_developer_mode_summary">ป้องกันไม่ให้แอปที่คัดลอกมาตรวจพบว่ามีการเปิดใช้งานตัวเลือกสำหรับนักพัฒนา Android</string>
+    <string name="hide_developer_mode_title">ซ่อนโหมดผู้พัฒนา</string>
+    <string name="hide_emulator_summary">ป้องกันไม่ให้โคลนตรวจพบว่ากำลังทำงานในโปรแกรมจำลอง เช่น BlueStacks, Nox หรือ Android Emulator</string>
+    <string name="hide_emulator_title">ซ่อนโปรแกรมจำลอง</string>
+    <string name="hide_from_cloned_apps_summary">ซึ่งจะปิดใช้งานตัวเลือกการดัดแปลงรันไทม์ด้วย</string>
+    <string name="hide_from_cloned_apps_title">ซ่อนจากแอปที่ลอกแบบมา</string>
+    <string name="hide_google_play_services_title">ซ่อนบริการ Google Play</string>
+    <string name="hide_mock_location_summary">ป้องกันไม่ให้ตัวโคลนตรวจพบว่าคุณกำลังจำลองสถานที่โดยใช้แอปจำลอง</string>
+    <string name="hide_mock_location_title">ซ่อนตำแหน่งจำลอง</string>
+    <string name="hide_notch_summary">เพิ่มช่องว่างภายในสีดำที่ด้านบนของแอป เพื่อไม่ให้รอยบากทับซ้อนกัน มีประโยชน์สำหรับแอปแบบเต็มหน้าจอบางแอป</string>
+    <string name="hide_notch_title">ซ่อนรอย</string>
+    <string name="hide_other_apps_summary">อาจมีประโยชน์ในการซ่อนแอปในตัวเรียกใช้งานแบบโคลน</string>
+    <string name="hide_other_apps_title">ซ่อนแอปอื่นๆ</string>
+    <string name="hide_password_characters_summary">ป้องกันไม่ให้เห็นอักขระตัวสุดท้ายเมื่อคุณพิมพ์รหัสผ่าน ใช้ได้กับช่องรหัสผ่าน Android มาตรฐานเท่านั้น</string>
+    <string name="hide_password_characters_title">ซ่อนอักขระของรหัสผ่าน</string>
+    <string name="hide_power_saving_mode_label">ซ่อนโหมดประหยัดพลังงาน</string>
+    <string name="hide_root_summary">พยายามอย่างดีที่สุดเพื่อป้องกันไม่ให้โคลนตรวจพบว่าอุปกรณ์ของคุณถูกรูท แอปบางแอปไม่เปิดบนอุปกรณ์ที่รูท</string>
+    <string name="hide_root_title">ซ่อนราก</string>
+    <string name="hide_screen_mirroring_summary">ป้องกันไม่ให้แอปตรวจหาการจำลองหน้าจอหรือการแสดงงานนำเสนอภายนอก</string>
+    <string name="hide_screen_mirroring_title">ซ่อนการสะท้อนหน้าจอ</string>
+    <string name="hide_sim_operator_info_summary">ซ่อนหมายเลขซีเรียลของ SIM หมายเลขโทรศัพท์ ตัวระบุผู้ให้บริการ / ชื่อ / ประเทศ ข้อมูลเซลล์ข้างเคียง ตำแหน่งเซลล์ ฯลฯ</string>
+    <string name="hide_sim_operator_info_title">ซ่อน SIM & ข้อมูลโอเปอเรเตอร์</string>
+    <string name="hide_vpn_connection_summary">มีประโยชน์สำหรับแอปที่ไม่สามารถใช้งานได้กับการเชื่อมต่อ VPN ที่ใช้งานอยู่</string>
+    <string name="hide_vpn_connection_summary2">บางแอปตรวจพบ VPN ที่ฝั่งเซิร์ฟเวอร์ ซึ่งไม่สามารถป้องกันได้</string>
+    <string name="hide_vpn_connection_title">ซ่อนการเชื่อมต่อ VPN</string>
+    <string name="hide_wifi_info_message">ยังซ่อนข้อมูลการเชื่อมต่อ Wi-Fi, ข้อมูล DHCP, ผลการสแกนเครือข่าย Wi-Fi (รวมถึงที่อยู่ MAC และชื่อรุ่นของเราเตอร์ Wi-Fi) และเครือข่าย Wi-Fi ที่รู้จัก/บันทึกไว้</string >
+    <string name="hide_wifi_info_title">ซ่อนข้อมูล Wi-Fi</string>
+
+    <string name="higher_clone_numbers_message">หมายเลขโคลนที่สูงขึ้นมีแนวโน้มที่จะทำลายการโคลน</string>
+
+    <string name="host_mapper_hint">ป้อนชื่อโฮสต์</string>
+    <string name="host_mapper_message">เพิ่มการจับคู่โฮสต์อย่างน้อยหนึ่งรายการ นี่คือตัวอย่างบางส่วน:</string>
+    <string name="host_mapper_message2">โปรดทราบว่าส่วนหัวของโฮสต์ของคำขอ HTTP จะไม่เปลี่ยนแปลง ซึ่งอาจส่งผลต่อคำขอ HTTP สำหรับการเชื่อมต่อ SSL คุณอาจต้องใช้ตัวเลือก %s ด้วย</string>
+    <string name="host_mapper_summary">อนุญาตให้เปลี่ยนเส้นทางการเชื่อมต่อซ็อกเก็ตไปยังชื่อโฮสต์ ที่อยู่ IP และพอร์ตอื่นๆ สำหรับการตรวจสอบหรือสกัดกั้นการรับส่งข้อมูล</string>
+    <string name="host_mapper_title">โฮสต์แมปเปอร์</string>
+    <string name="host_unreachable_message">โฮสต์ไม่สามารถเข้าถึงได้ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ</string>
+
+    <string name="hosts_blocker_allow_all_other_hosts_label">อนุญาตโฮสต์อื่นทั้งหมด</string>
+    <string name="hosts_blocker_app_is_accessing_title" tools:keep="@string/hosts_blocker_app_is_accessing_title">%s กำลังเข้าถึง</string>
+    <string name="hosts_blocker_block_by_default_label">บล็อกตามค่าเริ่มต้น</string>
+    <string name="hosts_blocker_clear_hosts_file_label">ล้างไฟล์โฮสต์</string>
+    <string name="hosts_blocker_host_blocked_message" tools:keep="@string/hosts_blocker_host_blocked_message">โฮสต์ %s ถูกบล็อก</string>
+    <string name="hosts_blocker_hosts_file_title">ไฟล์โฮสต์</string>
+    <string name="hosts_blocker_load_adaway_hosts_file_label">โหลดไฟล์โฮสต์ AdAway</string>
+    <string name="hosts_blocker_load_hosts_file_label">โหลดไฟล์โฮสต์</string>
+    <string name="hosts_blocker_message1">การแจ้งเตือนจะปรากฏขึ้นสำหรับแต่ละโฮสต์ที่โคลนเข้าถึงได้ เลือก <b>%1$s</b> เพื่ออนุญาตโฮสต์อย่างถาวร เลือก <b>%2$s</b> เพื่อบล็อกโฮสต์อย่างถาวร หรือ <b>%3$s</b> เพื่อถามอีกครั้งเมื่อ แอปจะเริ่มต้นในครั้งต่อไป แตะการแจ้งเตือนเพื่ออนุญาตหรือบล็อกโดเมนทั้งหมด หรือทำการค้นหา WHOIS บนโฮสต์หรือโดเมน</string>
+    <string name="hosts_blocker_message2">คุณสามารถโหลดไฟล์ข้อความเพื่อบล็อกโฮสต์ที่อยู่ในรายการโดยอัตโนมัติ รูปแบบต้องเป็น <b>%s</b> ต่อบรรทัด คุณยังสามารถใช้ไฟล์โฮสต์ AdAway เริ่มต้น: https://adaway.org/hosts.txt</string>
+    <string name="hosts_blocker_summary">ตัวเลือกความเป็นส่วนตัวที่มีประสิทธิภาพซึ่งช่วยให้คุณตรวจสอบและบล็อกเซิร์ฟเวอร์หรือโดเมนที่แอปเข้าถึงบนอินเทอร์เน็ตได้</string>
+    <string name="hosts_blocker_title">ตัวบล็อกโฮสต์</string>
+    <string name="hosts_blocker_touch_to_block_title" tools:keep="@string/hosts_blocker_touch_to_block_title">แตะเพื่อบล็อก %s</string>
+    <string name="hosts_mapper_mapped_notification_title" tools:keep="@string/hosts_mapper_mapped_notification_title">โฮสต์แมป</string>
+    <string name="hosts_mapper_not_mapped_notification_title" tools:keep="@string/hosts_mapper_not_mapped_notification_title">โฮสต์ไม่ได้แมป</string>
+
+    <string name="hours_label">ชั่วโมง</string>
+    <string name="hours_plural_one" tools:ignore="PluralsCandidate">%d ชั่วโมง</string>
+    <string name="hours_plural_other" tools:ignore="PluralsCandidate">%d ชั่วโมง</string>
+
+    <string name="http_proxy_message">ต้องใช้พร็อกซี HTTP / HTTPS อย่าใช้พร็อกซี SOCKS ตัวเลือกนี้ใช้ได้กับไลบรารี OkHttp เท่านั้น ซึ่งเป็นไลบรารี HTTP เริ่มต้นที่ได้รับความนิยมอย่างมาก</string>
+    <string name="http_proxy_summary">กำหนดเส้นทางคำขอ HTTP / HTTPS ผ่านพร็อกซี HTTP</string>
+    <string name="http_proxy_title">พร็อกซี HTTP</string>
+
+    <string name="icon_from_app_label">ใช้ไอคอน Launcher ของแอปอื่น</string>
+    <string name="icon_from_app_resources_label">เรียกดูแหล่งข้อมูลรูปภาพภายในแอปอื่น</string>
+    <string name="icon_from_file_label">โหลดไฟล์รูปภาพ</string>
+    <string name="icon_from_icon_pack_label">ใช้ชุดไอคอน</string>
+    <string name="icon_from_icon_pack_not_available_message">ไม่มีไอคอนแอปในชุดไอคอน %s</string>
+    <string name="icon_from_icon_pack_not_installed_message">ไม่ได้ติดตั้งชุดไอคอน</string>
+
+    <string name="ignore_crashes_show_crash_messages_title">แสดงข้อความขัดข้อง</string>
+    <string name="ignore_crashes_summary">ป้องกันการหยุดแอปเนื่องจากข้อผิดพลาดที่ไม่สามารถจัดการได้ หากข้อผิดพลาดเกิดขึ้นในเธรดหลัก แอปจะหยุดทำงาน แอปอาจทำงานไม่ถูกต้องหลังจากเกิดปัญหาขึ้น</string>
+    <string name="ignore_crashes_title">ละเว้นข้อขัดข้อง</string>
+    <string name="ignore_updates_summary">คุณจะไม่ได้รับการแจ้งเตือนเกี่ยวกับการอัปเดตที่มีอยู่สำหรับโคลนนี้ และจะไม่แสดงในส่วนการอัปเดตที่รอดำเนินการ</string>
+    <string name="ignore_updates_title">ละเว้นการอัปเดต</string>
+
+    <string name="image_saved_to_gallery_error_message" tools:keep="@string/image_saved_to_gallery_error_message">บันทึกรูปภาพลงในแกลเลอรีไม่สำเร็จ</string>
+    <string name="image_saved_to_gallery_message" tools:keep="@string/image_saved_to_gallery_message">ภาพที่บันทึกในแกลเลอรี่</string>
+
+    <string name="imei_check_digit_should_be_message">หลักตรวจสอบสุดท้ายควรเป็น %d</string>
+
+    <string name="immersive_mode_ignore_notch_label">ละเว้นรอยบาก</string>
+    <string name="immersive_mode_summary">ซ่อนหรือแสดงการนำทางและแถบสถานะ บางแอปอาจใช้พื้นที่พิเศษเมื่อซ่อนไว้ แต่บางแอปอาจไม่ใช้ คุณสามารถปัดขึ้นจากด้านล่างเพื่อแสดงแถบนำทาง</string>
+    <string name="immersive_mode_title">โหมดดื่มด่ำ</string>
+    <string name="immersive_mode_transparent_navigation_bar_label">แถบนำทางแบบโปร่งใส</string>
+
+    <string name="in_app_floating_keyboard_summary">แสดงแป้นพิมพ์ลอยภายในแอปโดยตรง เมื่อเปิดใช้งาน คุณจะไม่ได้ใช้แอปแป้นพิมพ์ภายนอกอีกต่อไป (เช่น Gboard, SwiftKey) ปุ่มที่คุณกดจะไม่ออกจากกระบวนการของแอปที่ลอกแบบมาและเป็นส่วนตัวอย่างเต็มที่</string>
+    <string name="in_app_floating_keyboard_title">แป้นพิมพ์ลอยในแอป</string>
+    <string name="in_app_live_chat_message">การล็อกอุปกรณ์จะใช้ได้เสมอเมื่อใช้ฟีเจอร์แชทสดในแอป แม้ว่าคุณจะมีเงินบริจาคจำนวนมากก็ตาม นี่เป็นเพราะการแชทมีค่าใช้จ่ายเซิร์ฟเวอร์ ผู้ใช้แชทแต่ละคนควรใช้สำเนา App Cloner ของตนเอง</string>
+    <string name="in_app_live_chat_private_room_label">ห้องสนทนาส่วนตัว</string>
+    <string name="in_app_live_chat_private_room_name">ชื่อห้องสนทนาส่วนตัว</string>
+    <string name="in_app_live_chat_summary">แสดงหน้าต่างแชทภายในแอพที่ลอกแบบมา</string>
+    <string name="in_app_live_chat_title">แชทสดในแอป</string>
+
+    <string name="incognito_keyboard_summary">ขอให้ปิดการใช้งานประวัติการพิมพ์แป้นพิมพ์และการเรียนรู้ส่วนบุคคล ต้องรองรับโดยแอปแป้นพิมพ์ เช่น Google Gboard</string>
+    <string name="incognito_keyboard_title">แป้นพิมพ์ไม่ระบุตัวตน</string>
+    <string name="incognito_mode_auto_title">อัตโนมัติ (เมื่อออกจากแอป)</string>
+    <string name="incognito_mode_notification_message" tools:keep="@string/incognito_mode_notification_message">ปิดแอปที่ไม่ระบุตัวตน</string>
+    <string name="incognito_mode_summary">ปิดแอปผ่านการแจ้งเตือนและลบข้อมูลแอปอย่างปลอดภัย</string>
+    <string name="incognito_mode_title">โหมดไม่ระบุตัวตน</string>
+    <string name="incognito_mode_warning_message">ใช้การแจ้งเตือน \'ปิดแอปที่ไม่ระบุตัวตน\' เพื่อปิดแอปและลบการตั้งค่าและไฟล์อย่างปลอดภัย\n\nเนื้อหาของไฟล์จะถูกเขียนทับและเปลี่ยนชื่อไฟล์ก่อนลบ\n\nข้อมูลแอปภายนอกใดๆ (การ์ด SD ภายนอก/ภายใน ที่เก็บข้อมูลบนคลาวด์ ฯลฯ) จะไม่ถูกลบ</string>
+
+    <string name="increase_compatibility_message">ใช้ตัวเลือกนี้เฉพาะเมื่อแอปที่ลอกแบบมาขัดข้องเท่านั้น\n\nตัวเลือกนี้อาจเพิ่มขนาดแอปที่ลอกแบบมาอย่างมาก เนื่องจากมันรวมฐานรหัสต้นฉบับและที่ลอกแบบมา\n\nอย่า\' อย่าใช้ตัวเลือกนี้กับแอปขนาดใหญ่ เนื่องจากอาจสร้างไฟล์ DEX ที่มีขนาดใหญ่เกินไป</string>
+    <string name="increase_compatibility_title">เพิ่มความเข้ากันได้</string>
+
+    <string name="individual_settings_title">การตั้งค่าการโคลนแต่ละรายการ</string>
+
+    <string name="install_app_label">ติดตั้งแอป</string>
+    <string name="install_apps_label">ติดตั้งแอป</string>
+    <string name="install_automatically_message">ตอนนี้คุณจะถูกเปลี่ยนเส้นทางไปยังการตั้งค่าการเข้าถึงของ Android ซึ่งคุณสามารถเปิดหรือปิดบริการการเข้าถึง <b>%s</b> ได้</string>
+    <string name="install_automatically_title">ติดตั้งอัตโนมัติ</string>
+    <string name="install_create_shortcuts_summary">เพิ่มตัวโคลนที่ติดตั้งในหน้าจอหลักของคุณ</string>
+    <string name="install_create_shortcuts_summary2">อาจสร้างไอคอนซ้ำใน Launcher ของ Android 8.0 ขึ้นไป</string>
+    <string name="install_create_shortcuts_title">สร้างทางลัด</string>
+    <string name="install_immediately_summary">ข้ามกล่องโต้ตอบยืนยันการติดตั้งและแจ้งการติดตั้งแอปทันทีหลังการโคลน</string>
+    <string name="install_immediately_title">ติดตั้งทันที</string>
+    <string name="install_notifications_title">การติดตั้งแอป</string>
+    <string name="install_to_sd_card_summary">ระบุว่าควรติดตั้งแอปในการ์ด SD ภายนอก</string>
+    <string name="install_to_sd_card_title">ติดตั้งลงในการ์ด SD</string>
+    <string name="install_update_available_message">คุณต้องการอัปเดตตัวโคลนก่อนที่จะติดตั้งหรือไม่</string>
+    <string name="install_update_available_title">มีการอัปเดต</string>
+    <string name="install_using_root_summary">ติดตั้งแอปโดยอัตโนมัติโดยใช้การเข้าถึงรูท มีประโยชน์สำหรับการโคลนเป็นชุดเมื่อคุณต้องการติดตั้งหรืออัปเดตแอปจำนวนมาก</string>
+    <string name="install_using_root_title">ติดตั้งโดยใช้รูท</string>
+
+    <string name="installed_app_different_from_label">แตกต่างจากแอปที่ติดตั้ง</string>
+    <string name="installed_app_same_as_label">เหมือนกับแอปที่ติดตั้ง</string>
+    <string name="installed_title">ติดตั้งแล้ว</string>
+
+    <string name="installing_app_message">กำลังติดตั้ง %s…</string>
+    <string name="installing_app_n_of_m_title">กำลังติดตั้งแอป %1$d จาก %2$d</string>
+    <string name="installing_app_title">กำลังติดตั้งแอป</string>
+
+    <string name="interpreted_mode_summary">ปิดใช้งานการรวบรวมแบบล่วงหน้า (AOT) หรือแบบทันเวลาพอดี (JIT) บน Android 5.0/6.0 สิ่งนี้จะช่วยลดเวลาในการติดตั้ง มีประโยชน์เมื่อทดลองกับการตั้งค่าการโคลนแบบต่างๆ</string>
+    <string name="interpreted_mode_title">โหมดตีความ</string>
+
+    <string name="invalid_archive_error">ขออภัย แอปนี้ไม่สามารถลอกแบบได้\n\nที่เก็บถาวรของแอปไม่ถูกต้องและอาจถูกทำให้ยุ่งเหยิงเพื่อป้องกันการคัดลอก</string>
+    <string name="invalid_date_message">วันที่อุปกรณ์ของคุณไม่ถูกต้อง ปรับนาฬิกาของคุณแล้วลองอีกครั้ง</string>
+    <string name="invalid_date_title">วันที่ไม่ถูกต้อง</string>
+    <string name="invalid_device_id_message">พบตัวระบุอุปกรณ์ที่ไม่ถูกต้อง ปิดใช้งานแอปที่อาจขัดขวางตัวระบุอุปกรณ์</string>
+    <string name="invalid_file_message">ไฟล์ไม่ถูกต้อง</string>
+    <string name="invalid_file_title">ไฟล์ไม่ถูกต้อง</string>
+    <string name="invalid_font_file_message">ไฟล์ฟอนต์ไม่ถูกต้อง</string>
+
+    <string name="invert_colors_dark_mode_schedule_message">ต้องรีสตาร์ทแอปเพื่อให้กำหนดการมีผล</string>
+    <string name="invert_colors_dark_mode_summary">กลับสีทั้งหมดยกเว้นรูปภาพ & วิดีโอ สามารถใช้แปลงแอปเป็นโหมดมืดได้</string>
+    <string name="invert_colors_dark_mode_title">สลับสี / โหมดมืด</string>
+    <string name="invert_toasts_summary">เพิ่มความคมชัดของข้อความอวยพรบนพื้นหลังสีอ่อนสำหรับ Android 8.1+</string>
+    <string name="invert_toasts_title">กลับขนมปังปิ้ง</string>
+
+    <string name="issue_comments_label">ความคิดเห็น</string>
+    <string name="issue_crash_start">หยุดทำงานเมื่อเริ่มต้นแอปที่ลอกแบบมา</string>
+    <string name="issue_crash_use">ขัดข้องเมื่อใช้แอปที่ลอกแบบมา</string>
+    <string name="issue_error_install">เกิดข้อผิดพลาดขณะติดตั้งแอปที่คัดลอกมา</string>
+    <string name="issue_error_start">เกิดข้อผิดพลาดเมื่อเริ่มแอปที่ลอกแบบมา</string>
+    <string name="issue_error_use">เกิดข้อผิดพลาดขณะใช้แอปที่ลอกแบบมา</string>
+    <string name="issue_icon_not_changed_correctly">เปลี่ยนไอคอนไม่ถูกต้อง</string>
+    <string name="issue_incorrect_functionality">การทำงานไม่ถูกต้อง</string>
+    <string name="issue_issue_label">ปัญหา</string>
+    <string name="issue_missing_functionality">ไม่มีฟังก์ชันการทำงาน</string>
+    <string name="issue_must_keep_app_label">ต้องเก็บป้ายกำกับแอปไว้</string>
+    <string name="issue_other_problem">ปัญหาอื่นๆ</string>
+    <string name="issue_package_name_label">ชื่อแพ็คเกจ</string>
+    <string name="issue_report_error_message">รายงานปัญหาแอปไม่สำเร็จ ตรวจสอบการเชื่อมต่อของคุณ</string>
+    <string name="issue_report_label">รายงานปัญหาแอป</string>
+    <string name="issue_report_success_message">ขอบคุณ มีการรายงานปัญหาแอป</string>
+    <string name="issue_reported_message">ดูเหมือนว่า %s ไม่สามารถโคลนได้ มีการรายงานปัญหาต่อไปนี้:</string>
+    <string name="issue_version_code_label">รหัสเวอร์ชัน</string>
+    <string name="issue_version_name_label">ชื่อเวอร์ชั่น</string>
+
+    <string name="job_scheduling_blocked_notification_title" tools:keep="@string/job_scheduling_blocked_notification_title">กำหนดการงานถูกปิดกั้น</string>
+    <string name="job_scheduling_delay" tools:keep="@string/job_scheduling_delay">ล่าช้า: %d วินาที</string>
+    <string name="job_scheduling_disable_label">ปิดใช้งานการจัดตารางงาน</string>
+    <string name="job_scheduling_interval" tools:keep="@string/job_scheduling_interval">ช่วงเวลา: %d วินาที</string>
+    <string name="job_scheduling_interval_multiplier_label">ตัวคูณช่วงเวลา</string>
+    <string name="job_scheduling_monitor_label">การตรวจสอบการจัดตารางงาน</string>
+    <string name="job_scheduling_monitor_message">จอภาพการจัดตารางเวลางานจะแสดงการแจ้งเตือนทุกครั้งที่แอปกำหนดเวลางานโดยใช้ JobScheduler หรือ AlarmManager</string>
+    <string name="job_scheduling_notification_title" tools:keep="@string/job_scheduling_notification_title">กำหนดงาน</string>
+    <string name="job_scheduling_summary">ใช้ตัวเลือกนี้เพื่อเปลี่ยนความถี่ของงานเบื้องหลังที่กำหนดเวลาไว้หรือปิดใช้งานทั้งหมด</string>
+    <string name="job_scheduling_title">กำหนดการงาน</string>
+
+    <string name="joystick_pointer_show_initially_label">แสดงในตอนแรก</string>
+    <string name="joystick_pointer_summary">ควบคุมแอปแบบสัมผัสอย่างเดียวผ่านตัวชี้แบบกากบาทโดยใช้ D-pad กดปุ่มตรงกลางเพื่อเรียกคลิก กดค้างเพื่อแสดง/ซ่อนตัวชี้แบบเล็ง</string>
+    <string name="joystick_pointer_title">ตัวชี้จอยสติ๊ก</string>
+
+    <string name="keep_screen_on_summary">เปิดหน้าจอค้างไว้ขณะที่แอปอยู่เบื้องหน้า ซึ่งจะส่งผลต่อการใช้แบตเตอรี่ของคุณ</string>
+    <string name="keep_screen_on_title">เปิดหน้าจอค้างไว้</string>
+
+    <string name="key_mapper_hint">กดปุ่ม</string>
+    <string name="key_mapper_message">ป้อนการจับคู่คีย์โดยใช้แป้นพิมพ์ฮาร์ดแวร์หรือกดแป้น D-pad / รีโมทคอนโทรล</string>
+    <string name="key_mapper_summary">อนุญาตให้ตั้งโปรแกรมแป้นพิมพ์ฮาร์ดแวร์หรือแป้น D-pad / รีโมทคอนโทรลใหม่ได้</string>
+    <string name="key_mapper_title">คีย์แมปเปอร์</string>
+
+    <string name="keyboard_adjust_nothing_label">ไม่ได้ปรับอะไรเลย</string>
+    <string name="keyboard_adjust_pan_label">ปรับการเลื่อน</string>
+    <string name="keyboard_adjust_resize_label">ปรับขนาด</string>
+    <string name="keyboard_adjust_summary">บังคับให้แอปปรับขนาดหรือแพนเมื่อเปิดแป้นพิมพ์</string>
+    <string name="keyboard_adjust_title">ปรับแต่งคีย์บอร์ด</string>
+
+    <string name="kiosk_mode_notification_message" tools:keep="@string/kiosk_mode_notification_message">แตะเพื่อเริ่มโหมดคีออสก์</string>
+    <string name="kiosk_mode_start_immediately">เริ่มทันที</string>
+    <string name="kiosk_mode_start_via_notification">เริ่มผ่านการแจ้งเตือน</string>
+    <string name="kiosk_mode_summary">การดำเนินการนี้อาจไม่ได้ผล 100% ทั้งนี้ขึ้นอยู่กับเวอร์ชันของ Android</string>
+    <string name="kiosk_mode_title">โหมดคีออสก์</string>
+
+    <string name="known_problems_message">ปัญหาที่ทราบเมื่อทำการโคลน %s:</string>
+
+    <string name="label_activated">เปิดใช้งาน</string>
+    <string name="label_add">เพิ่ม</string>
+    <string name="label_add_item">เพิ่มรายการ</string>
+    <string name="label_alignment_bottom">ด้านล่าง</string>
+    <string name="label_alignment_center">กึ่งกลาง</string>
+    <string name="label_alignment_left">ซ้าย</string>
+    <string name="label_alignment_right">ขวา</string>
+    <string name="label_alignment_top">บน</string>
+    <string name="label_all_apps">แอปทั้งหมด</string>
+    <string name="label_allow">อนุญาต</string>
+    <string name="label_android_permissions">สิทธิ์ของ Android</string>
+    <string name="label_app_cloner_on_twitter">\@AppCloner บน Twitter</string>
+    <string name="label_app_icon">ไอคอนแอป</string>
+    <string name="label_append_clone_number_to_name">ต่อท้ายหมายเลขโคลนต่อท้ายชื่อ</string>
+    <string name="label_auto">อัตโนมัติ</string>
+    <string name="label_back">ย้อนกลับ</string>
+    <string name="label_background_color">สีพื้นหลัง</string>
+    <string name="label_block">บล็อก</string>
+    <string name="label_border">เส้นขอบ</string>
+    <string name="label_border_bottom">เส้นขอบด้านล่าง</string>
+    <string name="label_border_left">เส้นขอบด้านซ้าย</string>
+    <string name="label_border_right">เส้นขอบด้านขวา</string>
+    <string name="label_border_top">เส้นขอบด้านบน</string>
+    <string name="label_buy_now">ซื้อเลย</string>
+    <string name="label_cancel">ยกเลิก</string>
+    <string name="label_cancelling">กำลังยกเลิก...</string>
+    <string name="label_change_icon_color">เปลี่ยนสีไอคอน</string>
+    <string name="label_clear">ล้าง</string>
+    <string name="label_clear_highlights">ล้างไฮไลท์</string>
+    <string name="label_clear_image">ลบรูปภาพ</string>
+    <string name="label_clear_settings" tools:keep="@string/label_clear_settings">ล้างการตั้งค่า</string>
+    <string name="label_click">คลิก</string>
+    <string name="label_clones">โคลน</string>
+    <string name="label_code">รหัส</string>
+    <string name="label_collapse_all">ยุบทั้งหมด</string>
+    <string name="label_color_black_white">ดำ / ขาว</string>
+    <string name="label_color_blue">สีน้ำเงิน</string>
+    <string name="label_color_green">สีเขียว</string>
+    <string name="label_color_red">สีแดง</string>
+    <string name="label_color_wheel">วงล้อสี</string>
+    <string name="label_comment">แสดงความคิดเห็น</string>
+    <string name="label_confirm_password">ยืนยันรหัสผ่าน</string>
+    <string name="label_connected">เชื่อมต่อแล้ว</string>
+    <string name="label_continue">ดำเนินการต่อ</string>
+    <string name="label_contrast">ความคมชัด</string>
+    <string name="label_copy">คัดลอก</string>
+    <string name="label_copy_class">คัดลอกคลาส</string>
+    <string name="label_copy_identifier">ตัวระบุการคัดลอก</string>
+    <string name="label_copy_settings">การตั้งค่าการคัดลอก</string>
+    <string name="label_copy_text">คัดลอกข้อความ</string>
+    <string name="label_custom">กำหนดเอง</string>
+    <string name="label_custom_error_message">ข้อความแสดงข้อผิดพลาดที่กำหนดเอง</string>
+    <string name="label_default_language">ค่าเริ่มต้น</string>
+    <string name="label_delay">ดีเลย์</string>
+    <string name="label_delete">ลบ</string>
+    <string name="label_devices_remaining_plural_one">เหลืออีก %d อุปกรณ์</string>
+    <string name="label_devices_remaining_plural_other">เหลืออีก %d อุปกรณ์</string>
+    <string name="label_direction">ทิศทาง</string>
+    <string name="label_direction_down">ลง</string>
+    <string name="label_direction_left">ไปทางซ้าย</string>
+    <string name="label_direction_right">ไปทางขวา</string>
+    <string name="label_direction_up">ขึ้นไป</string>
+    <string name="label_disable">ปิดการใช้งาน</string>
+    <string name="label_disabled">ปิดการใช้งาน</string>
+    <string name="label_disallow">ไม่อนุญาต</string>
+    <string name="label_disconnected">ตัดการเชื่อมต่อแล้ว</string>
+    <string name="label_discount">ส่วนลด %d%%</string>
+    <string name="label_done">เสร็จสิ้น</string>
+    <string name="label_dont_show_again">ไม่ต้องแสดงอีก</string>
+    <string name="label_dont_show_again_for_this_app">ไม่ต้องแสดงแอปนี้อีก</string>
+    <string name="label_download_and_install">ดาวน์โหลด & ติดตั้ง</string>
+    <string name="label_download_from">ดาวน์โหลดจาก %s</string>
+    <string name="label_downloading_apk">กำลังดาวน์โหลด APK…</string>
+    <string name="label_duration">ระยะเวลา</string>
+    <string name="label_duration_long">ยาว</string>
+    <string name="label_duration_short">สั้น</string>
+    <string name="label_edit">แก้ไข</string>
+    <string name="label_edit_text">แก้ไขข้อความ</string>
+    <string name="label_effect_sepia">ซีเปีย</string>
+    <string name="label_enable">เปิดใช้งาน</string>
+    <string name="label_enabled">เปิดใช้งาน</string>
+    <string name="label_end_time">เวลาสิ้นสุด</string>
+    <string name="label_enter_a_string" tools:keep="@string/label_enter_a_string">ป้อนสตริง</string>
+    <string name="label_exclude">ไม่รวม</string>
+    <string name="label_exclude_web_views">ไม่รวมการดูเว็บ</string>
+    <string name="label_expand">ขยาย</string>
+    <string name="label_expand_all">ขยายทั้งหมด</string>
+    <string name="label_external_storage">ที่เก็บข้อมูลภายนอก</string>
+    <string name="label_filter">ตัวกรอง</string>
+    <string name="label_find_next">ค้นหาต่อไป</string>
+    <string name="label_find_prev">ค้นหาก่อนหน้า</string>
+    <string name="label_focus">โฟกัส</string>
+    <string name="label_forward">ส่งต่อ</string>
+    <string name="label_get_companion_app">ติดตั้งแอปที่ใช้ร่วมกัน</string>
+    <string name="label_go_to_bottom">ไปที่ด้านล่างสุด</string>
+    <string name="label_go_to_top">ไปที่ด้านบนสุด</string>
+    <string name="label_got_it">เข้าใจแล้ว</string>
+    <string name="label_height">ความสูง</string>
+    <string name="label_help">ความช่วยเหลือ</string>
+    <string name="label_hex_code">รหัสเลขฐานสิบหก</string>
+    <string name="label_hidden">ซ่อน</string>
+    <string name="label_hide">ซ่อน</string>
+    <string name="label_high">สูง</string>
+    <string name="label_highlight">ไฮไลท์</string>
+    <string name="label_horizontal_alignment">การจัดตำแหน่งตามแนวนอน</string>
+    <string name="label_hue">สี</string>
+    <string name="label_identifier" tools:keep="@string/label_identifier">ตัวระบุ</string>
+    <string name="label_ignore">ละเว้น</string>
+    <string name="label_ignore_case">ละเว้นตัวพิมพ์</string>
+    <string name="label_include">รวม</string>
+    <string name="label_install">ติดตั้ง</string>
+    <string name="label_install_all">ติดตั้งทั้งหมด</string>
+    <string name="label_install_this_version">ติดตั้งเวอร์ชันนี้</string>
+    <string name="label_inverse">ผกผัน</string>
+    <string name="label_latitude">ละติจูด</string>
+    <string name="label_launch">เปิด</string>
+    <string name="label_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="label_lightness">ความสว่าง</string>
+    <string name="label_load_file">โหลดไฟล์</string>
+    <string name="label_load_image">โหลดรูปภาพ</string>
+    <string name="label_long_press">กดค้าง</string>
+    <string name="label_long_press_action">กดค้าง</string>
+    <string name="label_longitude">ลองจิจูด</string>
+    <string name="label_low">ต่ำ</string>
+    <string name="label_margin">ระยะขอบ</string>
+    <string name="label_maybe_later">อาจจะภายหลัง</string>
+    <string name="label_medium">ปานกลาง</string>
+    <string name="label_message" tools:keep="@string/label_message">ข้อความ</string>
+    <string name="label_minus">เครื่องหมายลบ</string>
+    <string name="label_mode">โหมด</string>
+    <string name="label_more">เพิ่มเติม</string>
+    <string name="label_n_of_m">%1$d จาก %2$d</string>
+    <string name="label_name">ชื่อ</string>
+    <string name="label_next">ถัดไป</string>
+    <string name="label_no_change">ไม่มีการเปลี่ยนแปลง</string>
+    <string name="label_no_thanks">ไม่ ขอบคุณ</string>
+    <string name="label_normal">ปกติ</string>
+    <string name="label_not_recommended">ไม่แนะนำ</string>
+    <string name="label_nothing_selected">(ไม่ได้เลือกอะไรไว้)</string>
+    <string name="label_opacity">ความทึบ</string>
+    <string name="label_open_in_browser">เปิดในเบราว์เซอร์</string>
+    <string name="label_optional_label">ป้ายกำกับเผื่อเลือก</string>
+    <string name="label_options">ตัวเลือก</string>
+    <string name="label_options_found_for">พบตัวเลือกสำหรับ \'%s\'</string>
+    <string name="label_password">รหัสผ่าน</string>
+    <string name="label_paste">วาง</string>
+    <string name="label_paste_settings">วางการตั้งค่า</string>
+    <string name="label_pause">หยุดชั่วคราว</string>
+    <string name="label_ please_select">[โปรดเลือก]</string>
+    <string name="label_ please_wait">โปรดรอสักครู่...</string>
+    <string name="label_plus">บวก</string>
+    <string name="label_purchases">ซื้อ</string>
+    <string name="label_qr_code">คิวอาร์โค้ด</string>
+    <string name="label_random">สุ่ม</string>
+    <string name="label_randomize">สุ่ม</string>
+    <string name="label_read_blog">อ่านบล็อก</string>
+    <string name="label_recommended">(แนะนำ)</string>
+    <string name="label_redo">ทำซ้ำ</string>
+    <string name="label_regular_expression">นิพจน์ปกติ</string>
+    <string name="label_reload">โหลดซ้ำ</string>
+    <string name="label_replace">แทนที่</string>
+    <string name="label_replace_everything">(ทุกอย่าง)</string>
+    <string name="label_replace_in_actions">แทนที่ในการดำเนินการ</string>
+    <string name="label_replace_in_content">แทนที่ในเนื้อหา</string>
+    <string name="label_replace_in_messages">แทนที่ในข้อความ</string>
+    <string name="label_replace_in_title">แทนที่ในชื่อเรื่อง</string>
+    <string name="label_replace_no_replacements">(ไม่มีการแทนที่)</string>
+    <string name="label_replace_nothing">(ไม่มีอะไร)</string>
+    <string name="label_replace_replace">แทนที่</string>
+    <string name="label_replace_text">(ข้อความ)</string>
+    <string name="label_replace_with">ด้วย</string>
+    <string name="label_reset">รีเซ็ต</string>
+    <string name="label_reset_settings">รีเซ็ตการตั้งค่า</string>
+    <string name="label_restart_clone">รีสตาร์ทการโคลน</string>
+    <string name="label_restore_file">กู้คืนไฟล์</string>
+    <string name="label_saturation">ความอิ่มสี</string>
+    <string name="label_save">บันทึก</string>
+    <string name="label_save_file">บันทึกไฟล์</string>
+    <string name="label_save_settings">บันทึกการตั้งค่า</string>
+    <string name="label_scale_mode_center_crop">ครอบตัดตรงกลาง</string>
+    <string name="label_scale_mode_center_inside">ตรงกลางด้านใน</string>
+    <string name="label_schedule">กำหนดการ</string>
+    <string name="label_search">ค้นหา</string>
+    <string name="label_search_apps">ค้นหาแอป</string>
+    <string name="label_search_in_files">ค้นหาในไฟล์</string>
+    <string name="label_search_names">ค้นหาชื่อ</string>
+    <string name="label_search_on_apkmirror">ค้นหาใน apkmirror.com</string>
+    <string name="label_search_on_apkpure">ค้นหาใน apkpure.com</string>
+    <string name="label_search_on_the_web">ค้นหาบนเว็บ</string>
+    <string name="label_search_options">ตัวเลือกการค้นหา</string>
+    <string name="label_search_results">ผลการค้นหา</string>
+    <string name="label_search_strings">สตริงการค้นหา</string>
+    <string name="label_searching">กำลังค้นหา...</string>
+    <string name="label_security_settings" tools:keep="@string/label_security_settings">การตั้งค่าความปลอดภัย</string>
+    <string name="label_select">เลือก</string>
+    <string name="label_select_all">เลือกทั้งหมด</string>
+    <string name="label_select_app">เลือกแอป</string>
+    <string name="label_select_file">เลือกไฟล์</string>
+    <string name="label_select_icon_pack">เลือกชุดไอคอน</string>
+    <string name="label_send">ส่ง</string>
+    <string name="label_send_feedback">ส่งความคิดเห็น</string>
+    <string name="label_set_badge">ตั้งหมายเลขจำลองเป็นป้าย</string>
+    <string name="label_set_color">ตั้งค่าสี</string>
+    <string name="label_set_values_individually">ตั้งค่าทีละรายการ</string>
+    <string name="label_settings">การตั้งค่า</string>
+    <string name="label_share">แบ่งปัน</string>
+    <string name="label_shortcut_name" tools:keep="@string/label_shortcut_name">ชื่อทางลัด</string>
+    <string name="label_show">แสดง</string>
+    <string name="label_show_all" tools:keep="@string/label_show_all">แสดงทั้งหมด</string>
+    <string name="label_show_all_apps">แสดงแอปทั้งหมด</string>
+    <string name="label_show_always">แสดงตลอดเวลา</string>
+    <string name="label_show_app_info">แสดงข้อมูลแอป</string>
+    <string name="label_show_code">แสดงรหัส</string>
+    <string name="label_show_descriptions">แสดงคำอธิบาย</string>
+    <string name="label_show_password">แสดงรหัสผ่าน</string>
+    <string name="label_show_system_apps">แสดงแอประบบ</string>
+    <string name="label_silent">เงียบ</string>
+    <string name="label_size">ขนาด</string>
+    <string name="label_size_huge">ใหญ่</string>
+    <string name="label_size_large">ใหญ่</string>
+    <string name="label_size_medium">ปานกลาง</string>
+    <string name="label_size_small">เล็ก</string>
+    <string name="label_snooze" tools:keep="@string/label_snooze">เลื่อนการเตือน</string>
+    <string name="label_specify_password">ระบุรหัสผ่าน</string>
+    <string name="label_star_unstar">ติดดาว / ไม่ติดดาว</string>
+    <string name="label_start_time">เวลาเริ่มต้น</string>
+    <string name="label_stealth_mode">โหมดซ่อนตัว</string>
+    <string name="label_take_me_there">พาฉันไปที่นั่น</string>
+    <string name="label_test">ทดสอบ</string>
+    <string name="label_text">ข้อความ</string>
+    <string name="label_text_format_bold">ตัวหนา</string>
+    <string name="label_text_format_bulleted_list">รายการหัวข้อย่อย</string>
+    <string name="label_text_format_create_link">สร้างลิงค์</string>
+    <string name="label_text_format_italic">ตัวเอียง</string>
+    <string name="label_text_format_quote">ใบเสนอราคา</string>
+    <string name="label_text_format_remove_formatting">ลบการจัดรูปแบบ</string>
+    <string name="label_text_format_underline">ขีดเส้นใต้</string>
+    <string name="label_this_device">อุปกรณ์นี้</string>
+    <string name="label_toggle">สลับ</string>
+    <string name="label_try_again">ลองอีกครั้ง</string>
+    <string name="label_try_anyway">ลองต่อไป</string>
+    <string name="label_undo">เลิกทำ</string>
+    <string name="label_uninstall">ถอนการติดตั้ง</string>
+    <string name="label_unknown">ไม่รู้จัก</string>
+    <string name="label_unselect">ยกเลิกการเลือก</string>
+    <string name="label_update">อัปเดต</string>
+    <string name="label_update_all">อัปเดตทั้งหมด</string>
+    <string name="label_url">URL</string>
+    <string name="label_use">ใช้</string>
+    <string name="label_username">ชื่อผู้ใช้</string>
+    <string name="label_value">ค่า</string>
+    <string name="label_vertical_alignment">การจัดตำแหน่งแนวตั้ง</string>
+    <string name="label_very_high">สูงมาก</string>
+    <string name="label_very_low">ต่ำมาก</string>
+    <string name="label_view_patch">ดูแพทช์</string>
+    <string name="label_width" tools:keep="@string/label_width">ความกว้าง</string>
+
+    <string name="language_message">หากแอปไม่สนับสนุนภาษาที่เลือก ระบบจะใช้ภาษาเริ่มต้นของระบบ\n\nตัวเลือกนี้ใช้ไม่ได้กับ Facebook</string>
+    <string name="language_title">ภาษา</string>
+
+    <string name="large_heap_support_summary">มีประโยชน์หากแอปต้องการหน่วยความจำ RAM มากกว่า</string>
+    <string name="large_heap_support_title">รองรับฮีปขนาดใหญ่</string>
+
+    <string name="larger_aspect_ratios_summary">อนุญาตให้แอปใช้พื้นที่เต็มหน้าจอบนอุปกรณ์ที่มีอัตราส่วนภาพ 2:1 หรือสูงกว่า เช่น Samsung Galaxy S8 หรือ LG G6</string>
+    <string name="larger_aspect_ratios_title">อัตราส่วนภาพที่ใหญ่ขึ้น</string>
+
+    <string name="launch_app_when_storage_mounted_title">เปิดแอปเมื่อติดตั้งที่เก็บข้อมูลแล้ว</string>
+    <string name="launch_from_browser_link_preview_title">การแสดงตัวอย่างลิงก์:</string>
+    <string name="launch_from_browser_message">ป้อนชื่อเฉพาะ ซึ่งจะใช้เป็นโครงร่างและโฮสต์เพื่อสร้างลิงก์ของหน้าเว็บ คุณสามารถใช้ {num} แทนหมายเลขโคลนได้</string>
+    <string name="launch_from_browser_summary">อนุญาตให้เปิดแอปจากหน้าเว็บ</string>
+    <string name="launch_from_browser_title">เปิดจากเบราว์เซอร์</string>
+    <string name="launch_with_nfc_tag_title">เปิดแอปด้วยแท็ก NFC</string>
+    <string name="launch_with_usb_device_connect_usb_device_title">เชื่อมต่ออุปกรณ์ USB ของคุณ…</string>
+    <string name="launch_with_usb_device_title">เปิดแอปด้วยอุปกรณ์ USB</string>
+
+    <string name="layout_inspector_title">ตัวตรวจสอบเค้าโครง</string>
+
+    <string name="leanback_banner_image_invalid_image_message">ไฟล์ภาพไม่ถูกต้อง</string>
+    <string name="leanback_banner_image_summary">เลือกรูปภาพขนาด 320×180 พิกเซลเพื่อใช้เป็นแบนเนอร์สำหรับ Android TV launcher</string>
+    <string name="leanback_banner_image_title">รูปภาพแบนเนอร์ของ Android TV</string>
+    <string name="leanback_launcher_support_summary">แสดงแอปในตัวเรียกใช้งาน Android TV แม้ว่าจะไม่ได้ปรับให้เหมาะกับ Android TV ก็ตาม</string>
+    <string name="leanback_launcher_support_title">รองรับ Android TV launcher</string>
+
+    <string name="light_status_bar_summary">อนุญาตหรือป้องกันไม่ให้วาดแถบสถานะในลักษณะที่เข้ากันได้กับพื้นหลังของแถบสถานะที่มีแสง</string>
+    <string name="light_status_bar_title">แถบสถานะไฟ</string>
+
+    <string name="load_settings_from_cloned_apk_file_title">จากไฟล์ APK ที่คัดลอกมา</string>
+    <string name="load_settings_from_cloned_installed_app_title">จากตัวโคลนที่ติดตั้ง</string>
+    <string name="load_settings_from_file_title">จากไฟล์การตั้งค่า</string>
+    <string name="load_settings_label">โหลดการตั้งค่า</string>
+
+    <string name="local_activities_title">กิจกรรมในท้องถิ่น</string>
+    <string name="local_broadcasts_services_summary">เปิดใช้หากตัวโคลนโต้ตอบกันหรือแอปดั้งเดิม</string>
+    <string name="local_broadcasts_services_title">การออกอากาศในท้องถิ่น & บริการ</string>
+
+    <string name="location_permission_not_granted_message">ไม่ได้รับอนุญาตให้ระบุตำแหน่ง</string>
+
+    <string name="logcat_viewer_summary">แสดงเอาต์พุต logcat ของแอปภายในการแจ้งเตือน แตะเพื่อดูแบบเต็มหน้าจอ</string>
+    <string name="logcat_viewer_title">โปรแกรมดู Logcat</string>
+
+    <string name="login_behavior_default">ค่าเริ่มต้น</string>
+    <string name="login_behavior_web_only">เว็บฟอร์ม (แนะนำ)</string>
+    <string name="login_behavior_web_only_alt">เว็บฟอร์ม (ทางเลือก)</string>
+
+    <string name="long_press_back_action_title">กดปุ่มย้อนกลับค้างไว้</string>
+    <string name="long_press_back_for_options_menu_summary">มีประโยชน์ใน Android 10 ซึ่งไม่รองรับแอปเก่าที่ใช้ปุ่มเมนูของฮาร์ดแวร์อีกต่อไป</string>
+    <string name="long_press_back_for_options_menu_title">กดค้างเพื่อดูเมนูตัวเลือก</string>
+    <string name="long_press_options_star_unstar_message">กดค้างที่ตัวเลือกเพื่อติดดาว / เลิกติดดาว</string>
+    <string name="long_press_timeout_title">หมดเวลากดค้าง</string>
+    <string name="long_press_to_copy_text_title">กดค้างเพื่อคัดลอกข้อความ</string>
+    <string name="long_press_to_reveal_password_title">กดค้างเพื่อแสดงรหัสผ่าน</string>
+
+    <string name="low_memory_mode_summary">เปิดใช้งานบนอุปกรณ์ระดับล่างหรือหากคุณพบข้อผิดพลาดของหน่วยความจำระหว่างการโคลน ทำให้การโคลนช้าลงมากแต่ใช้หน่วยความจำน้อยลง</string>
+    <string name="low_memory_mode_summary_enabled_message">เปิดใช้งานโหมดหน่วยความจำเหลือน้อย การโคลนอาจช้า</string>
+    <string name="low_memory_mode_title">โหมดหน่วยความจำเหลือน้อย</string>
+    <string name="low_on_internal_storage_message">พื้นที่เก็บข้อมูลภายในของคุณกำลังจะหมด หากการติดตั้งแอปล้มเหลว โปรดเพิ่มพื้นที่เก็บข้อมูลภายในและลองอีกครั้ง</string>
+    <string name="low_on_internal_storage_title">ที่เก็บข้อมูลภายในเหลือน้อย</string>
+
+    <string name="make_assist_app_message">ใน Android 6.0 และใหม่กว่า คุณต้องเลือกแอปช่วยเหลือด้วยตนเองผ่านการตั้งค่า > แอป > กำหนดค่าแอป > แอปเริ่มต้น > ช่วย & amp; การป้อนข้อมูลด้วยเสียง > แอปช่วยเหลือ</string>
+    <string name="make_assist_app_summary">เปิดแอปโดยการกดค้างหรือปัดขึ้นจากปุ่มโฮม</string>
+    <string name="make_assist_app_title">สร้างแอปช่วยเหลือ</string>
+    <string name="make_camera_app_summary">เปิดแอปโดยกดปุ่มเปิดปิดสองครั้ง ใช้งานได้กับอุปกรณ์ที่รองรับ เช่น อุปกรณ์ Nexus/Pixel เท่านั้น</string>
+    <string name="make_camera_app_title">สร้างแอปกล้องถ่ายรูป</string>
+    <string name="make_debuggable_title">ทำการดีบักได้</string>
+    <string name="make_home_app_summary">มีประโยชน์ในการเรียกใช้แอปในโหมดคีออสก์ เนื่องจากการกดหน้าแรกจะเป็นการเปิดแอป คุณอาจต้องตั้งค่าการโคลนเป็นแอปหน้าแรกเริ่มต้น</string>
+    <string name="make_home_app_title">สร้างแอปบ้าน</string>
+    <string name="make_test_only_message">คุณจะไม่สามารถติดตั้งตัวโคลนผ่าน App Cloner หรือผ่านตัวจัดการไฟล์ได้</string>
+    <string name="make_test_only_summary">สามารถติดตั้งแอปผ่าน \'adb install -t\' เท่านั้น</string>
+    <string name="make_test_only_title">ทำแบบทดสอบเท่านั้น</string>
+    <string name="make_watch_app_message1">การดำเนินการนี้จะสร้างแอปนาฬิกาแบบสแตนด์อโลนที่ต้องติดตั้งในนาฬิกา Wear OS 2.0+ ผ่าน adb <b>ไม่สามารถติดตั้งแอปนาฬิกาผ่านโทรศัพท์ของคุณ</b>
+    </string>
+    <string name="make_watch_app_message2">ระบบปฏิบัติการ Wear ไม่รองรับแอปที่ใช้มุมมองเว็บ</string>
+    <string name="make_watch_app_summary">แปลงแอปให้เป็นแอปนาฬิกา Wear OS</string>
+    <string name="make_watch_app_title">สร้างแอปนาฬิกา</string>
+    <string name="make_webviews_debuggable_summary">อนุญาตให้ใช้ Chrome DevTools เพื่อดีบักการดูเว็บจากระยะไกล</string>
+    <string name="make_webviews_debuggable_title">ทำให้ WebView สามารถดีบักได้</string>
+
+    <string name="manage_blocked_hosts_allowed_label">อนุญาต</string>
+    <string name="manage_blocked_hosts_blocked_label">ถูกปิดกั้น</string>
+    <string name="manage_blocked_hosts_export_hosts_file_label">ส่งออกไฟล์โฮสต์</string>
+    <string name="manage_blocked_hosts_hosts_title">โฮสต์</string>
+    <string name="manage_blocked_hosts_ignored_label">ละเว้น</string>
+    <string name="manage_blocked_hosts_title">จัดการโฮสต์ที่ถูกบล็อก</string>
+
+    <string name="manifest_editor_summary">อนุญาตให้แก้ไข AndroidManifest.xml ของแอป</string>
+    <string name="manifest_editor_title">ตัวแก้ไขรายการ</string>
+
+    <string name="mark_as_game_summary">ทำให้แอปปรากฏในรายการเกม</string>
+    <string name="mark_as_game_title">ทำเครื่องหมายว่าเป็นเกม</string>
+
+    <string name="message_added_to_manifest">สิ่งเหล่านี้จะถูกเพิ่มเป็น %s ในไฟล์ Manifest ของแอป</string>
+    <string name="message_are_you_sure">คุณแน่ใจหรือว่าต้องการดำเนินการนี้</string>
+    <string name="message_cannot_change_app_label">ไม่สามารถเปลี่ยนป้ายกำกับแอปสำหรับแอปนี้ได้ คุณยังสามารถเปลี่ยนชื่อไอคอนตัวเรียกใช้งานได้</string>
+    <string name="message_copied_message" tools:keep="@string/message_copied_message">คัดลอกข้อความแล้ว</string>
+    <string name="message_long_press_select_unselect">กดค้างเพื่อเลือก/ยกเลิกการเลือก</string>
+    <string name="message_missing_or_invalid">%s หายไปหรือไม่ถูกต้อง</string>
+    <string name="message_pasted_message" tools:keep="@string/message_pasted_message">วางข้อความแล้ว</string>
+    <string name="message_patches_applied_to_plural_one">%d patch ใช้กับ %s</string>
+    <string name="message_patches_applied_to_plural_other">%d แพตช์ที่ใช้กับ %s</string>
+    <string name="message_play_store_purchases_backed_up_plural_one">สำรองข้อมูลการซื้อใน Play Store %d รายการ</string>
+    <string name="message_play_store_purchases_backed_up_plural_other">สำรองข้อมูลการซื้อใน Play Store %d รายการ</string>
+    <string name="message_press_again_to_exit">กดอีกครั้งเพื่อออก</string>
+    <string name="message_provide_list_of_names">ระบุรายชื่อ</string>
+    <string name="message_rate_companion_app">เพลิดเพลินกับ App Cloner ไหม คุณช่วยสละเวลาสักครู่เพื่อให้คะแนนแอปที่แสดงร่วมบน Google Play ได้ไหม</string>
+    <string name="message_terms_of_use_privacy_policy">โดยการใช้แอปนี้ แสดงว่าคุณยอมรับ [a href="https://appcloner.app/terms/"]ข้อกำหนดการใช้งาน[/a] และ [a href="https:// appcloner.app/privacy/"]นโยบายความเป็นส่วนตัว[/a]</string>
+
+    <string name="mic_mute_error_message" tools:keep="@string/mic_mute_error_message">ปิดเสียงไมค์ไม่สำเร็จ</string>
+    <string name="mic_mute_success_message" tools:keep="@string/mic_mute_success_message">ปิดเสียงไมค์</string>
+    <string name="mic_unmute_error_message" tools:keep="@string/mic_unmute_error_message">เปิดเสียงไมค์ไม่สำเร็จ</string>
+    <string name="mic_unmute_success_message" tools:keep="@string/mic_unmute_success_message">เปิดเสียงไมค์แล้ว</string>
+
+    <string name="milliseconds_label">มิลลิวินาที</string>
+
+    <string name="min_sdk_version_title">เวอร์ชัน SDK ขั้นต่ำ</string>
+    <string name="min_sdk_version_warning_message">การลด minSdkVersion ของ manifest\ อาจทำให้การโคลนล้มเหลว</string>
+
+    <string name="minimize_on_back_app_minimized_message" tools:keep="@string/minimize_on_back_app_minimized_message">ย่อขนาดแอป</string>
+    <string name="minimize_on_back_summary">ควบคุมว่าแอปจะย่อเล็กสุดหรือเสร็จสิ้นเมื่อกด Back</string>
+    <string name="minimize_on_back_title">ย่อด้านหลัง</string>
+
+    <string name="minutes_label">นาที</string>
+    <string name="minutes_plural_one" tools:ignore="PluralsCandidate">%d นาที</string>
+    <string name="minutes_plural_other" tools:ignore="PluralsCandidate">%d นาที</string>
+
+    <string name="mock_ethernet_connection_title">จำลองการเชื่อมต่ออีเธอร์เน็ต</string>
+    <string name="mock_mobile_connection_title">จำลองการเชื่อมต่อมือถือ</string>
+    <string name="mock_wifi_connection_title">จำลองการเชื่อมต่อ Wi-Fi</string>
+
+    <string name="modify_views_modification_label">การปรับเปลี่ยน</string>
+    <string name="modify_views_modify_parent_0_label">แก้ไขมุมมองเอง</string>
+    <string name="modify_views_modify_parent_1_label">แก้ไขพาเรนต์ของมุมมอง</string>
+    <string name="modify_views_modify_parent_2_label">แก้ไข parent\'s parent</string>
+    <string name="modify_views_modify_parent_3_label">แก้ไขพาเรนต์ที่ 3 ขึ้น</string>
+    <string name="modify_views_modify_parent_4_label">แก้ไขพาเรนต์ที่ 4 ขึ้นไป</string>
+    <string name="modify_views_modify_parent_5_label">แก้ไขพาเรนต์ที่ 5 ขึ้นไป</string>
+    <string name="modify_views_parent_label">มุมมองหลัก</string>
+    <string name="modify_views_search_by_label">ค้นหาโดย</string>
+    <string name="modify_views_search_by_view_class_label">ดูชั้นเรียน</string>
+    <string name="modify_views_search_by_view_identifier_label">ดูตัวระบุ</string>
+    <string name="modify_views_search_by_view_text_label">ดูข้อความ (มี)</string>
+    <string name="modify_views_summary">อนุญาตให้เน้น แสดง ซ่อน เปิดหรือปิดใช้งานมุมมองตามข้อความ คลาส หรือตัวระบุ ใช้ไม่ได้กับเกมหรือมุมมองเว็บ</string>
+    <string name="modify_views_title">แก้ไขมุมมอง</string>
+    <string name="modify_views_use_layout_inspector_message">ใช้ \'%1$s\' (%2$s) เพื่อค้นหาคลาสมุมมองและตัวระบุ</string>
+
+    <string name="multi_window_info">เมื่อสร้างการโคลนแบบหลายหน้าต่างสำหรับอุปกรณ์ Samsung ตรวจสอบให้แน่ใจว่าแต่ละการโคลนมีชื่อต่างกัน\n\nไม่เช่นนั้นจะมีเพียงหนึ่งการโคลนเท่านั้นที่แสดงในถาดแอพแบบหลายหน้าต่าง</string>
+    <string name="multi_window_no_pause_summary">มีประโยชน์สำหรับโหมดหลายหน้าต่างใน Android 7.0 เมื่อแอปหยุดเล่นวิดีโอชั่วคราวหลังจากเลือกหน้าต่างอื่น</string>
+    <string name="multi_window_no_pause_title">หลายหน้าต่างไม่หยุดชั่วคราว</string>
+    <string name="multi_window_summary">เปิดใช้งานการสนับสนุนหลายหน้าต่างบนอุปกรณ์ Samsung, อุปกรณ์ LG บางรุ่น และ Android 7.0</string>
+    <string name="multi_window_title">รองรับหลายหน้าต่าง</string>
+
+    <string name="mute_for_text_on_screen_message">ระบุรายการสตริงที่คั่นด้วยเครื่องหมายจุลภาคเพื่อค้นหาบนหน้าจอ สตริงไม่คำนึงถึงขนาดตัวพิมพ์</string>
+    <string name="mute_for_text_on_screen_title">ปิดเสียงข้อความบนหน้าจอ</string>
+    <string name="mute_mic_summary">ปิดเสียงไมโครโฟนขณะที่การโคลนกำลังทำงาน</string>
+    <string name="mute_mic_title">ปิดเสียงไมค์</string>
+    <string name="mute_on_start_muted_error_message" tools:keep="@string/mute_on_start_muted_error_message">ปิดเสียงไม่สำเร็จ</string>
+    <string name="mute_on_start_muted_message" tools:keep="@string/mute_on_start_muted_message">ปิดเสียง</string>
+    <string name="mute_on_start_summary">ปิดเสียงสื่อเมื่อเริ่มแอป</string>
+    <string name="mute_on_start_title">ปิดเสียงเมื่อเริ่มต้น</string>
+    <string name="mute_on_start_unmuted_error_message" tools:keep="@string/mute_on_start_unmuted_error_message">เปิดเสียงไม่สำเร็จ</string>
+    <string name="mute_on_start_unmuted_message" tools:keep="@string/mute_on_start_unmuted_message">ยกเลิกการปิดเสียง</string>
+    <string name="mute_ while_in_foreground_summary">ปิดเสียงในขณะที่แสดงแอปที่จำลองขึ้นมา เปิดเสียงเมื่อเปลี่ยนไปใช้แอปอื่น</string>
+    <string name="mute_ while_in_foreground_title">ปิดเสียงขณะอยู่เบื้องหน้า</string>
+
+    <string name="native_libraries_message1">แอปนี้ใช้ไลบรารีเนทีฟ</string>
+    <string name="native_libraries_message1b">หากการโคลนล้มเหลว ให้ลองเปิดใช้งาน \'%s\'</string>
+    <string name="native_libraries_message2">โดยปกติแล้ว ไลบรารีเนทีฟจะถูกประมวลผลในระหว่างกระบวนการโคลนด้วย อย่างไรก็ตาม บางครั้งสิ่งนี้อาจทำให้เกิดข้อขัดข้อง</string>
+    <string name="native_libraries_message3">หากคุณเห็นการแจ้งเตือนข้อขัดข้องที่ขอให้คุณเปิดใช้งาน \'%1$s\' หรือหากการโคลนล้มเหลวโดยไม่มีข้อความใดๆ คุณควรไปที่ %2$s เปิดใช้งาน \'% 1$s\' แล้วโคลนแอปอีกครั้ง</string>
+    <string name="native_libraries_title">เนทีฟไลบรารี่</string>
+
+    <string name="navigation_bar_color_title">สีของแถบนำทาง</string>
+    <string name="navigation_drawer_close">ปิดลิ้นชัก</string>
+    <string name="navigation_drawer_open">เปิดลิ้นชัก</string>
+
+    <string name="need_more_clones_message">ต้องการโคลนเพิ่มเติม? คุณสามารถอัปเกรดจำนวนโคลนสูงสุดผ่านการบริจาค</string>
+
+    <string name="new_identity_generated_message">ข้อมูลประจำตัวใหม่ถูกสร้างขึ้น</string>
+    <string name="new_identity_generating_message">กำลังสร้างข้อมูลประจำตัวใหม่...</string>
+    <string name="new_identity_notification_action_title">ข้อมูลประจำตัวใหม่ & ลบข้อมูลแอป</string>
+    <string name="new_identity_notification_message" tools:keep="@string/new_identity_notification_message">แตะเพื่อออกจากแอปและสร้างข้อมูลประจำตัวใหม่</string>
+    <string name="new_identity_summary">1 คลิกสุ่มรหัส Android, IMEI, IMSI, รหัสโฆษณาของ Google, ที่อยู่ MAC & สร้างอุปกรณ์ประกอบฉาก / ซ่อน SIM & ข้อมูลผู้ประกอบการ แสดงการแจ้งเตือนเพื่อสร้างข้อมูลประจำตัวใหม่ขณะรันไทม์</string>
+    <string name="new_identity_title">ข้อมูลประจำตัวใหม่</string>
+    <string name="new_version_message1">App Cloner (%s) เวอร์ชันใหม่พร้อมใช้งานแล้ว</string>
+    <string name="new_versio n_message2">แตะเพื่ออัปเดต</string>
+
+    <string name="no_app_icon_message">ไม่มีไอคอนแอป</string>
+    <string name="no_background_services_stopped_message" tools:keep="@string/no_background_services_stopped_message">บริการพื้นหลัง %s ที่หยุดทำงาน</string>
+    <string name="no_background_services_summary">หยุดบริการพื้นหลังโดยอัตโนมัติเมื่อออกจากแอป และป้องกันไม่ให้รีสตาร์ท ซึ่งช่วยลดการใช้ทรัพยากรและการใช้แบตเตอรี่ ห้ามใช้สำหรับแอปส่งข้อความ</string>
+    <string name="no_background_services_title">ไม่มีบริการเบื้องหลัง</string>
+    <string name="no_kill_summary">ป้องกันไม่ให้แอปหยุดทำงานเอง อาจช่วยได้ในบางแอปที่ตรวจพบการโคลน</string>
+    <string name="no_kill_title">ไม่มีการฆ่า</string>
+    <string name="no_permissions_message">แอปนี้ไม่ได้ใช้การอนุญาตใดๆ</string>
+    <string name="no_relayout_on_rotation_summary">อาจช่วยได้หากแอปสูญเสียสถานะปัจจุบันหรือข้อมูลที่ป้อนเมื่อการวางแนวหน้าจอหรือขนาดเปลี่ยนไป</string>
+    <string name="no_relayout_on_rotation_title">ไม่มีรีเลย์ขณะหมุน</string>
+
+    <string name="not_unlocked_message_1">การซื้อในแอป Play Store จะเชื่อมโยงกับบัญชี Google ส่วนตัวของคุณและไม่มีวันหมดอายุ</string>
+    <string name="not_unlocked_message_2">หากคุณซื้อรุ่นพรีเมียมของ %s แต่หลังจากซื้ออุปกรณ์ใหม่หรือรีเซ็ตเป็นค่าเริ่มต้นจากโรงงาน รุ่นพรีเมียมของคุณไม่ปลดล็อกโดยอัตโนมัติ อาจเกี่ยวข้องกับ Play ที่รู้จักกันมานาน จัดเก็บข้อผิดพลาดกับหลายบัญชี</string>
+    <string name="not_unlocked_message_3">ตรวจสอบให้แน่ใจว่าบัญชี Google ที่คุณใช้ในการซื้อเป็นบัญชีหลัก (แรก) การรีบูตอุปกรณ์อาจช่วยได้เช่นกัน มิฉะนั้น โปรดลองถอนการติดตั้งและติดตั้ง %s ใหม่อีกครั้ง</string>
+    <string name="not_unlocked_title">พรีเมี่ยมไม่ได้ปลดล็อค?</string>
+
+    <string name="notification_allow_when_running_title">อนุญาตการแจ้งเตือนเมื่อแอปกำลังทำงาน</string>
+    <string name="notification_block_all_notifications_title">ปิดกั้นการแจ้งเตือนทั้งหมด</string>
+    <string name="notification_block_all_toasts_title">บล็อกขนมปังปิ้งทั้งหมด</string>
+    <string name="notification_categories_default_name">ชื่อหมวดหมู่</string>
+    <string name="notification_categories_keywords_label">คำหลัก (คั่นด้วยเครื่องหมายจุลภาค)</string>
+    <string name="notification_categories_none_defined_label">ไม่ได้กำหนด</string>
+    <string name="notification_categories_title">หมวดการแจ้งเตือน</string>
+    <string name="notification_color_title">สีของการแจ้งเตือน</string>
+    <string name="notification_dots_summary">แสดงตัวบ่งชี้ที่ด้านบนของไอคอน Launcher เมื่อใดก็ตามที่แอปโคลนมีการแจ้งเตือนที่ใช้งานอยู่ โปรดทราบว่า Android 8.0+ มีจุดแจ้งเตือนอยู่แล้ว</string>
+    <string name="notification_dots_title">จุดแจ้งเตือน</string>
+    <string name="notification_filter_dialog_message">ระบุรายการคำหรือสตริงย่อยที่ใช้เครื่องหมายจุลภาคเพื่อบล็อกการแจ้งเตือน คำต่างๆ ไม่คำนึงถึงขนาดตัวพิมพ์</string>
+    <string name="notification_filter_summary">บล็อกการแจ้งเตือนที่มีคำเฉพาะเจาะจง</string>
+    <string name="notification_filter_title">ตัวกรองการแจ้งเตือน</string>
+    <string name="notification_heads_up_title">การแจ้งเตือนล่วงหน้า</string>
+    <string name="notification_lights_color_label">ไฟ LED สี</string>
+    <string-array name="notification_lights_color_labels">
+        <item>ไม่มีการเปลี่ยนแปลง</item>
+        <item>สีขาว</item>
+        <item>สีแดง</item>
+        <item>สีเหลือง</item>
+        <item>สีเขียว</item>
+        <item>สีฟ้า</item>
+        <item>สีฟ้า</item>
+        <item>สีม่วงแดง</item>
+    </string-array>
+    <string name="notification_lights_message">ตัวเลือกรูปแบบ LED และสีอาจไม่ได้รับการสนับสนุนบนอุปกรณ์ทั้งหมด ฮาร์ดแวร์จะทำการประมาณอย่างดีที่สุด</string>
+    <string name="notification_lights_pattern_label">รูปแบบ LED</string>
+    <string-array name="notification_lights_pattern_labels">
+        <item>ไม่มีการเปลี่ยนแปลง</item>
+        <item>เปิด</item>
+        <item>แฟลช (ช้า)</item>
+        <item>แฟลช (ขนาดกลาง)</item>
+        <item>แฟลช (เร็ว)</item>
+        <item>ปิด</item>
+    </string-array>
+    <string name="notification_lights_title">ไฟแจ้งเตือน</string>
+    <string name="notification_local_only_summary">ป้องกันไม่ให้ส่งการแจ้งเตือนไปยังอุปกรณ์อื่นๆ เช่น นาฬิกาอัจฉริยะของคุณ</string>
+    <string name="notification_local_only_title">การแจ้งเตือนเฉพาะที่</string>
+    <string name="notification_no_ongoing_title">ไม่มีการแจ้งเตือนอย่างต่อเนื่อง</string>
+    <string name="notification_priority_default_label">ค่าเริ่มต้น</string>
+    <string name="notification_priority_high_label">สูง</string>
+    <string name="notification_priority_low_label">ต่ำ</string>
+    <string name="notification_priority_max_label">สูงสุด</string>
+    <string name="notification_priority_min_label">ขั้นต่ำ</string>
+    <string name="notification_priority_summary">ตั้งค่าเป็นค่าต่ำสุดเพื่อปิดใช้งานการแจ้งเตือนล่วงหน้า</string>
+    <string name="notification_priority_title">ลำดับความสำคัญของการแจ้งเตือน</string>
+    <string name="notification_quiet_time_title">เวลาเงียบ</string>
+    <string name="notification_remove_actions_summary">ลบการดำเนินการหลัก ปุ่มการดำเนินการ และการดำเนินการตอบกลับโดยตรงของการแจ้งเตือน</string>
+    <string name="notification_remove_actions_title">ลบการแจ้งเตือน</string>
+    <string name="notification_remove_icon_title">ลบไอคอนการแจ้งเตือน</string>
+    <string name="notification_remove_people_summary">ลบการอ้างอิงถึงผู้ส่งและผู้ติดต่อออกจากการแจ้งเตือน</string>
+    <string name="notification_remove_people_title">ลบคนแจ้งเตือน</string>
+    <string name="notification_replace_icon_title">แทนที่ไอคอนการแจ้งเตือน</string>
+    <string name="notification_show_time_title">แสดงเวลาแจ้งเตือน</string>
+    <string name="notification_snooze_summary">เพิ่มปุ่มเลื่อนการทำงานเพื่อซ่อนการแจ้งเตือนในช่วงเวลาหนึ่ง</string>
+    <string name="notification_snooze_title">เลื่อนการแจ้งเตือน</string>
+    <string name="notification_sound_custom_label">กำหนดเอง</string>
+    <string name="notification_sound_default_label">ค่าเริ่มต้น</string>
+    <string name="notification_sound_no_change_label">ไม่มีการเปลี่ยนแปลง</string>
+    <string name="notification_sound_select_message">เลือกไฟล์ MP3/OGG</string>
+    <string name="notification_sound_silence_label">ปิดเสียง</string>
+    <string name="notification_sound_title">เสียงแจ้งเตือน</string>
+    <string name="notification_timeout_summary">ซ่อนการแจ้งเตือนหลังจากเวลาที่กำหนด</string>
+    <string name="notification_timeout_title">หมดเวลาการแจ้งเตือน</string>
+    <string-array name="notification_vibration_labels">
+        <item>ไม่มีการเปลี่ยนแปลง</item>
+        <item>ค่าเริ่มต้น</item>
+        <item>ความเงียบ</item>
+        <item>สั้นมาก</item>
+        <item>สั้น</item>
+        <item>ยาว</item>
+        <item>ยาวมาก</item>
+    </string-array>
+    <string name="notification_vibration_title">การสั่นของการแจ้งเตือน</string>
+    <string-array name="notification_visibility_labels">
+        <item>ไม่มีการเปลี่ยนแปลง</item>
+        <item>สาธารณะ</item>
+        <item>ส่วนตัว</item>
+    </string-array>
+    <string name="notification_visibility_message">การตั้งค่าการแจ้งเตือนของ Android อาจแทนที่ตัวเลือกนี้\n\nตรวจสอบให้แน่ใจว่าได้เลือก <b>ซ่อนเนื้อหาการแจ้งเตือนที่ละเอียดอ่อน</b> ภายใต้ <b>การตั้งค่า</b> ><b>เสียง & ; การแจ้งเตือน</b> ><b>เมื่ออุปกรณ์ถูกล็อก</b></string>
+    <string name="notification_visibility_title">การแสดงการแจ้งเตือน</string>
+
+    <string name="obb_message">แอปนี้ใช้ไฟล์สำหรับขยาย ซึ่งเป็นไฟล์ทรัพยากรเพิ่มเติมที่เกมมักใช้ในการจัดเก็บกราฟิกหรือไฟล์มีเดีย\n\nแอปที่ลอกแบบมาจะไม่สามารถดาวน์โหลดไฟล์เหล่านี้ได้เองจาก Google Play Store และอาจไม่ทำงานหากไม่มีพวกเขา\n\nคุณสามารถคัดลอกไฟล์เหล่านี้ด้วยตนเองก่อนที่จะเรียกใช้การโคลน (คุณสามารถค้นหาได้ใน <b>%s</b>) หรือคุณสามารถอัปเกรดเป็นเวอร์ชันพรีเมียม ของ App Cloner เพื่อคัดลอกไฟล์ขยายโดยอัตโนมัติระหว่างกระบวนการโคลน</string>
+    <string name="obb_not_deleted_message">ไม่สามารถลบไฟล์สำหรับขยายที่คัดลอกไว้</string>
+    <string name="obb_title">ไฟล์ขยาย</string>
+
+    <string name="onboarding_label_finish">เสร็จสิ้น</string>
+    <string name="onboarding_label_skip">ข้าม</string>
+    <string name="onboarding_message_1_new">App Cloner ให้คุณสร้าง & ติดตั้งแอพ Android หลายชุด เป็นแอปหลายบัญชีเพียงแอปเดียวที่สร้างโคลน APK ที่แท้จริง เป็นอิสระ และสามารถติดตั้งได้</string>
+    <string name="onboarding_message_2">บางแอปตรวจพบ & ป้องกันการโคลน Google & การลงชื่อเข้าใช้ Play Games ไม่ทำงาน เนื่องจากแอปใหม่ได้รับการลงชื่อด้วยใบรับรองอื่น</string>
+    <string name="onboarding_message_3">ใช้ตัวเลือก \'รายงานปัญหาแอป\' เพื่อรายงานความเข้ากันไม่ได้ เยี่ยมชม @AppCloner บน Twitter สำหรับข่าวสารหรือความช่วยเหลือ</string>
+    <string name="onboarding_message_4">ในการอัปเดตแอปที่ลอกแบบมา ให้ใช้ตัวเลือก \'อัปเดตโคลน\' และติดตั้งการโคลนใหม่เหนือการลอกแบบเก่า สิ่งนี้จะเก็บข้อมูล & amp; ของแอปที่โคลนไว้ การตั้งค่า</string>
+    <string name="onboarding_message_5">อัปเกรดเป็นเวอร์ชันพรีเมียมสำหรับตัวเลือกมากมายในการปรับแต่งหรือปรับแต่งแอปที่โคลนให้เป็นส่วนตัว หรือสร้างการโคลนเพิ่มเติม</string>
+    <string name="onboarding_title_1">ยินดีต้อนรับสู่ App Cloner</string>
+    <string name="onboarding_title_2">ไม่สามารถโคลนแอปทั้งหมดได้</string>
+    <string name="onboarding_title_3">รายงานความเข้ากันไม่ได้</string>
+    <string name="onboarding_title_4">ไม่มีการอัปเดตอัตโนมัติ</string>
+    <string name="onboarding_title_5">ใช้งานแบบพรีเมียม</string>
+
+    <string name="ongoing_notifications_title">การแจ้งเตือนที่กำลังดำเนินอยู่</string>
+
+    <string name="only_use_option_if_you_know_message">ใช้ตัวเลือกนี้เฉพาะเมื่อคุณรู้ว่ากำลังทำอะไรอยู่</string>
+
+    <string name="open_links_with_clone_itself_title">(ตัวโคลนเอง)</string>
+    <string name="open_links_with_title">เปิดลิงก์ด้วย</string>
+
+    <string name="option_32_bit_message_1">ตัวเลือกนี้ใช้ไม่ได้กับแอป 64 บิตเท่านั้น</string>
+    <string name="option_32_bit_message_2">โปรดปิดใช้งานตัวเลือกนี้หากคุณได้รับคำเตือนเกี่ยวกับโหมดปลอดภัยที่กำลังเปิดใช้งาน</string>
+    <string name="option_32_bit_message_3">หรืออีกทางหนึ่ง ลองค้นหาแอปเวอร์ชันสแตนด์อโลน 32 บิตบน apkmirror.com หรือ apkpure.com</string>
+    <string name="option_incompatible_option_message">ตัวเลือก \'%1$s\' ถูกปิดใช้งานเนื่องจากใช้ตัวเลือก \'%2$s\'</string>
+    <string name="option_may_not_work_on_all_devices_message">ตัวเลือกนี้อาจใช้ไม่ได้กับทุกอุปกรณ์</string>
+    <string name="option_native_networking_warning_message">ตัวเลือกนี้ใช้ไม่ได้กับการเชื่อมต่อเครือข่ายแบบเนทีฟตามที่ใช้โดยเว็บเบราว์เซอร์ มุมมองเว็บ และแอปสตรีมเสียง/วิดีโอส่วนใหญ่</string>
+    <string name="option_not_enabled_for_this_clone_message">ไม่ได้เปิดใช้งานตัวเลือก %s สำหรับการโคลนนี้</string>
+    <string name="option_not_supported_android_70_message">ขออภัย ขออภัย ตัวเลือกนี้หยุดทำงานใน Android 7.0</string>
+    <string name="option_not_supported_on_message">ไม่รองรับตัวเลือกนี้ใน %s</string>
+    <string name="option_not_supported_on_samsung_devices_message" tools:keep="@string/option_not_supported_on_samsung_devices_message">อุปกรณ์ Samsung ไม่รองรับตัวเลือกนี้</string>
+    <string name="option_not_supported_on_your_device_message">อุปกรณ์ของคุณไม่รองรับตัวเลือกนี้</string>
+    <string name="option_not_work_with_vpn_message">ตัวเลือกนี้ใช้ไม่ได้เมื่อเปิดใช้งานเครือข่าย VPN</string>
+    <string name="option_requires_android_message">ตัวเลือกนี้ต้องใช้ Android %s หรือใหม่กว่า</string>
+    <string name="option_requires_google_play_services" tools:keep="@string/option_requires_google_play_services">ตัวเลือกนี้ต้องติดตั้งบริการ Google Play</string>
+    <string name="option_requires_premium_subscription_version_message">นี่คือตัวเลือกม็อดใหม่ที่เพิ่มเข้ามาใน App Cloner 2.x และต้องมีการสมัครสมาชิกแบบพรีเมียม\n\nการสมัครสมาชิกแบบพรีเมียมยังมีตัวเลือกการม็อดแบบพรีเมียมที่เพิ่มใน App Cloner 1.x</string>
+    <string name="option_requires_premium_version_message">ตัวเลือกนี้มีให้ในเวอร์ชันพรีเมียม</string>
+    <string name="option_sould_be_used_with_message">ควรใช้ตัวเลือกนี้ร่วมกับตัวเลือก <b>%s</b></string>
+    <string name="option_test_app_message">คุณสามารถทดสอบตัวเลือกนี้ได้เมื่อทำการโคลนแอป <b>{{TEST_APP}}</b> ซึ่งมีตัวเลือกการดัดแปลงทั้งหมดสำหรับการทดสอบ</string>
+    <string name="option_unavailable_message">ตัวเลือก <b>%s</b> ไม่พร้อมใช้งาน</string>
+
+    <string name="options_incompatible_android_version_message">ตัวเลือกต่อไปนี้ใช้ไม่ได้กับเวอร์ชัน Android ของคุณ (%s):</string>
+    <string name="options_incompatible_android_version_title">เวอร์ชัน Android ที่เข้ากันไม่ได้</string>
+    <string name="options_incompatible_system_abis_message">ตัวเลือกต่อไปนี้เข้ากันไม่ได้กับสถาปัตยกรรมระบบของคุณ (%s):</string>
+    <string name="options_incompatible_system_abis_title">สถาปัตยกรรมที่เข้ากันไม่ได้</string>
+    <string name="options_read_only_clones_message">ตัวเลือกเป็นแบบอ่านอย่างเดียวสำหรับการโคลน</string>
+    <string name="options_read_only_clones_message2">เนื่องจากโคลนถูกเซ็นชื่อโดยใช้ใบรับรองและไม่สามารถแก้ไขได้</string>
+    <string name="options_read_only_clones_message3">หากต้องการเปลี่ยนการตั้งค่าการโคลน โปรดทำการโคลนแอปอีกครั้งและติดตั้งการโคลนใหม่ทับการโคลนเก่า คุณจะไม่สูญเสียการตั้งค่าแอปหรือไฟล์</string>
+
+    <string name="order_number_copied_message" tools:keep="@string/order_number_copied_message">หมายเลขคำสั่งซื้อถูกคัดลอกไปยังคลิปบอร์ดแล้ว</string>
+
+    <string name="original_apks_add_from_apkmirror">จาก apkmirror.com</string>
+    <string name="original_apks_add_from_apkpure">จาก apkpure.com</string>
+    <string name="original_apks_add_from_directory">จากไดเรกทอรี</string>
+    <string name="original_apks_add_from_file">จากไฟล์</string>
+    <string name="original_apks_add_from_installed_app">จากแอปที่ติดตั้ง</string>
+    <string name="original_apks_add_from_url">จาก URL</string>
+    <string name="original_apks_add_from_web">จากหน้าเว็บ</string>
+    <string name="original_apks_empty_title">เพิ่มไฟล์ APK เพื่อโคลนที่นี่</string>
+    <string name="original_apks_no_apks_found_error_message">ไม่พบไฟล์ APK</string>
+    <string name="original_app_not_installed_message">ไม่ได้ติดตั้งแอปต้นฉบับ</string>
+    <string name="original_apps_empty_title">แอปดั้งเดิมที่ติดตั้งแสดงอยู่ที่นี่</string>
+
+    <string name="out_of_memory_error_message">หน่วยความจำเต็มระบบขณะทำการโคลน\n\nแอปอาจมีขนาดใหญ่เกินไปที่จะโคลนในอุปกรณ์ของคุณ</string>
+    <string name="out_of_memory_low_memory_mode_error_message">ระบบมีหน่วยความจำไม่เพียงพอขณะทำการโคลน\n\nลองอีกครั้งหลังจากรีสตาร์ท App Cloner และเปิดใช้งานโหมดหน่วยความจำเหลือน้อยในการตั้งค่า</string>
+
+    <string name="overlay_apps_install_info_message">แอปโอเวอร์เลย์ (แชทเฮด ตัวกรองแสงสีฟ้า หรือวิดเจ็ตแบบลอย) อาจรบกวนการติดตั้งแอป หากปุ่มติดตั้งไม่ทำงาน คุณอาจต้องปิดใช้งานแอปเหล่านี้ชั่วคราว</string>
+    <string name="overlay_apps_install_info_title">ข้อมูลเกี่ยวกับแอปซ้อนทับ</string>
+
+    <string name="override_bind_address_any_interface">อินเทอร์เฟซใดก็ได้ (0.0.0.0)</string>
+    <string name="override_bind_address_local_interface">อินเทอร์เฟซภายในเครื่อง (127.0.0.1)</string>
+    <string name="override_bind_address_title">แทนที่ที่อยู่ผูก</string>
+    <string name="override_shared_preferences_summary">แทนที่ค่ากำหนดเฉพาะที่ใช้ร่วมกัน</string>
+    <string name="override_shared_preferences_title">แทนที่ค่ากำหนด</string>
+
+    <string name="package_name_check_workaround_summary">อาจช่วยในการโคลนแอพที่ยืนยันชื่อแพ็คเกจของตัวเองและไม่สามารถเริ่มได้</string>
+    <string name="package_name_check_workaround_title">วิธีแก้ปัญหาเบื้องต้นในการตรวจสอบชื่อแพ็คเกจ</string>
+
+    <string name="padding_bottom_label">ช่องว่างด้านล่าง</string>
+    <string name="padding_left_label">ช่องว่างภายในด้านซ้าย</string>
+    <string name="padding_right_label">ช่องว่างภายในด้านขวา</string>
+    <string name="padding_top_label">ช่องว่างด้านบนสุด</string>
+
+    <string name="palm_rejection_message">ระบุความกว้างของแถบที่มองไม่เห็นตามขอบด้านซ้ายและขวาที่ควรปิดใช้งานกิจกรรมการสัมผัส ความกว้างเป็นเปอร์เซ็นต์ของความกว้างหน้าจอโดยรวม</string>
+    <string name="palm_rejection_summary">มีประโยชน์สำหรับการแสดงผลแบบโค้งหรือน้ำตก หลีกเลี่ยงการแตะองค์ประกอบ UI ตามขอบโดยไม่ตั้งใจเมื่อถือโทรศัพท์ไว้ในมือ</string>
+    <string name="palm_rejection_title">ฝ่ามือปฏิเสธ</string>
+
+    <string name="password_protect_app_ask_only_once">ถามเพียงครั้งเดียวหลังการติดตั้ง</string>
+    <string name="password_protect_app_select_decoy_app_label">เลือกแอปล่อ</string>
+    <string name="password_protect_app_specify_decoy_password_label">ระบุรหัสผ่านล่อ</string>
+    <string name="password_protect_app_specify_decoy_password_message">คุณสามารถระบุรหัสผ่านล่อ ซึ่งถ้าป้อนจะเป็นการเริ่มแอปหลอกที่เลือกแทนแอปที่ลอกแบบมา โปรดทราบว่าจะต้องติดตั้งแอปล่อ แต่สามารถโคลนได้ด้วยไอคอนตัวเรียกใช้งานที่ซ่อนอยู่</string>
+    <string name="password_protect_app_title">แอปป้องกันด้วยรหัสผ่าน</string>
+    <string name="password_protect_app_warning">โหมดซ่อนตัวแสดงข้อความแสดงข้อผิดพลาดที่คุณสามารถกดค้างสองครั้งเพื่อแสดงรหัสผ่านที่ป้อน\n\nแอปจะยังคงปลดล็อกอยู่ในขณะที่ทำงาน การออกจากแอปผ่านทาง Back หรือ Home อาจไม่ยุติทันที คุณควรยุติแอปผ่านหน้าจอล่าสุดหรือตัวจัดการงานแทน</string>
+    <string name="password_protect_exit_app_if_password_incorrect_label">ออกจากแอปหากรหัสผ่านไม่ถูกต้อง</string>
+
+    <string name="payment_email_enter_email_address_hint">ที่อยู่อีเมล</string>
+    <string name="payment_email_message1">โปรดเลือกบัญชี Google หรือป้อนที่อยู่อีเมลเพื่อให้สามารถกู้คืนการซื้อได้</string>
+    <string name="payment_email_message2">รหัสยืนยันจะถูกส่งไปยังที่อยู่อีเมลนี้</string>
+    <string name="payment_email_select_google_account_label">เลือกบัญชี Google</string>
+    <string name="payment_email_summary">เลือกหรือยืนยันอีเมลของคุณเพื่อกู้คืนการซื้อ PayPal และการเข้ารหัสที่มีอยู่</string>
+    <string name="payment_email_summary_new">เลือกหรือยืนยันอีเมลของคุณเพื่อสำรองและกู้คืนการซื้อของคุณ</string>
+    <string name="payment_email_title">อีเมลการชำระเงิน</string>
+    <string name="payment_email_use_email_address_label">ใช้ที่อยู่อีเมล</string>
+    <string name="payment_method_bitcoin_cash_summary">คุณยังสามารถซื้อ App Cloner โดยใช้ Bitcoin Cash (BCH) สิ่งนี้มีประโยชน์จากค่าธรรมเนียมการทำธุรกรรมที่ต่ำกว่าเมื่อเทียบกับ Bitcoin</string>
+    <string name="payment_method_bitcoin_cash_title">เงินสด Bitcoin</string>
+    <string name="payment_method_bitcoin_summary">คุณสามารถซื้อ App Cloner โดยใช้ Bitcoin (BTC)</string>
+    <string name="payment_method_bitcoin_title">บิตคอยน์</string>
+    <string name="payment_method_cannot_be_used_for_message">ไม่สามารถใช้วิธีการชำระเงิน %1$s สำหรับ %2$s ได้\n\nโปรดเลือกวิธีการชำระเงินอื่น</string>
+    <string name="payment_method_discount_message" tools:keep="@string/payment_method_discount_message">ส่วนลดสำหรับ %s</string>
+    <string name="payment_method_ethereum_summary">คุณสามารถซื้อ App Cloner โดยใช้ Ether (ETH) ได้</string>
+    <string name="payment_method_ethereum_title">อีเธอเรียม</string>
+    <string name="payment_method_google_play_store_summary">การซื้อใน Google Play Store ทำได้ผ่าน <b>App Cloner Premium & ส่วนเสริม</b> แอปร่วม</string>
+    <string name="payment_method_google_play_store_title">Google Play สโตร์</string>
+    <string name="payment_method_litecoin_summary">คุณสามารถซื้อ App Cloner โดยใช้ Litecoin (LTC) ได้</string>
+    <string name="payment_method_litecoin_title">Litecoin</string>
+    <string name="payment_method_pay_pal_summary1">ใช้ PayPal.com คุณยังสามารถซื้อโดยใช้ยอดคงเหลือใน PayPal ของคุณได้อีกด้วย</string>
+    <string name="payment_method_pay_pal_summary2">การซื้อสามารถกู้คืนได้และจะไม่ได้รับผลกระทบจากการระงับ Google Play</string>
+    <string name="payment_method_pay_pal_title">เพย์พาล & บัตรเครดิต</string>
+    <string name="payment_method_title">วิธีการชำระเงิน</string>
+
+    <string name="pen_events_pen_button_pressed_event_action_title">การทำงานของปุ่ม S-Pen (*)</string>
+    <string name="pen_events_pen_button_pressed_event_message">(*) ต้องเปิดใช้งาน \'คำสั่งทางอากาศ\'</string>
+    <string name="pen_events_pen_detached_event_action_title">การทำงานของเหตุการณ์ที่แยก S-Pen ออก</string>
+    <string name="pen_events_pen_inserted_event_action_title">การกระทำของเหตุการณ์ที่แทรก S-Pen</string>
+    <string name="pen_events_summary">อนุญาตให้เริ่มหรือออกจากแอปเมื่อถอดหรือเสียบ Samsung S-Pen</string>
+    <string name="pen_events_title">กิจกรรม S-Pen</string>
+
+    <string name="pending_installs_empty_title">ไฟล์ APK ที่สร้างซึ่งยังไม่ได้ติดตั้งจะปรากฏที่นี่</string>
+    <string name="pending_updates_empty_title">โคลนที่ติดตั้งซึ่งสามารถอัปเดตได้จะปรากฏที่นี่</string>
+
+    <string name="permission_not_granted_message" tools:keep="@string/permission_not_granted_message">ไม่ได้รับอนุญาต</string>
+
+    <string name="permissions_other_label">สิทธิ์อื่นๆ</string>
+    <string name="permissions_warning_message">การนำสิทธิ์ของแอปออกอาจทำให้แอปขัดข้อง แอปมักจะคาดหวังว่าจะได้รับสิทธิ์ที่ประกาศไว้\n\nคุณสามารถทดลองและดูว่าสิทธิ์ใดที่จำเป็นและสิทธิ์ใดสามารถนำออกได้\n\nผู้ใช้ Android 6.0 ควรใช้การจัดการสิทธิ์อย่างเป็นทางการแทน เนื่องจากมีความเข้ากันได้แบบย้อนหลัง </string>
+
+    <string name="persistent_app_accessibility_service_message1">การใช้บริการการเข้าถึงเป็นวิธีการเดียวที่ไม่ปลอดภัยเพื่อให้แน่ใจว่าแอปจะยังคงใช้งานได้อยู่เสมอ</string>
+    <string name="persistent_app_accessibility_service_message2">คุณต้องเปิดใช้บริการการเข้าถึงด้วยตนเองหลังจากติดตั้งโคลนในครั้งแรก</string>
+    <string name="persistent_app_accessibility_service_title">สร้างบริการจำลองการเข้าถึง</string>
+    <string name="persistent_app_summary">เก็บแอปที่โคลนไว้ในหน่วยความจำ รวมถึงเมื่อแอปอยู่ในพื้นหลังด้วย</string>
+    <string name="persistent_app_title">แอปถาวร</string>
+    <string name="persistent_clipboard_title">คลิปบอร์ดถาวร</string>
+
+    <string name="phone_numbers_title">หมายเลขโทรศัพท์</string>
+
+    <string name="pick_color_title">เลือกสี</string>
+    <string name="pick_place_title">เลือกสถานที่</string>
+
+    <string name="picture_in_picture_support_message1">กดคีย์ฮาร์ดแวร์หรือปุ่ม D-pad/รีโมทคอนโทรลที่ควรใช้เพื่อเริ่มโหมด PIP</string>
+    <string name="picture_in_picture_support_message2">แอปเก่าอาจเข้ากันไม่ได้กับ PIP เนื่องจากไม่ได้เขียนโดยคำนึงถึง PIP การเล่นวิดีโออาจหยุดชั่วคราวเมื่อแอปหลุดโฟกัสเมื่อเข้าสู่โหมด PIP</string>
+    <string name="picture_in_picture_support_message3">ดูตัวเลือกการแสดงผล > หลายหน้าต่างไม่หยุดชั่วคราว</string>
+    <string name="picture_in_picture_support_notification_label">เริ่มโหมด PIP ผ่านการแจ้งเตือน (เช่น Android 8.0)</string>
+    <string name="picture_in_picture_support_start_notification_message" tools:keep="@string/picture_in_picture_support_start_notification_message">เริ่มโหมดภาพซ้อนภาพ</string>
+    <string name="picture_in_picture_support_summary">Android 7.0 ขึ้นไปเท่านั้น กำหนดคีย์ฮาร์ดแวร์หรือปุ่ม D-pad/รีโมทคอนโทรลเพื่อเริ่มโหมด PIP</string>
+    <string name="picture_in_picture_support_title">การสนับสนุนภาพซ้อนภาพ</string>
+
+    <string name=" please_see_for_details_message">โปรดดูรายละเอียดที่ %s</string>
+
+    <string name="popup_blocker_popup_blocked_message" tools:keep="@string/popup_blocker_popup_blocked_message">แตะเพื่อเปิดหน้าที่ %s ต่อไป</string>
+    <string name="popup_blocker_popup_blocked_title" tools:keep="@string/popup_blocker_popup_blocked_title">ป็อปอัปถูกปิดกั้น</string>
+    <string name="popup_blocker_summary">ป้องกันไม่ให้แอปเปิดหน้าเว็บ การแจ้งเตือนเบื้องหลังจะแสดงขึ้นโดยที่คุณยังคงสามารถเลือกเปิดหน้าเว็บได้</string>
+    <string name="popup_blocker_title">ตัวป้องกันป๊อปอัป</string>
+    <string name="popup_menu_apk_file_label">ไฟล์ APK</string>
+    <string name="popup_menu_app_data_label">ข้อมูลแอป</string>
+    <string name="popup_menu_app_label">แอป</string>
+
+    <string name="power_events_dock_undock_events_title">ใช้เหตุการณ์ท่าเรือ / ปลดท่าเรือ</string>
+    <string name="power_events_power_connected_event_action_title">การกระทำของเหตุการณ์ที่เชื่อมต่อกับพลังงาน</string>
+    <string name="power_events_power_disconnected_event_action_title">การกระทำของเหตุการณ์ไฟฟ้าดับ</string>
+    <string name="power_events_summary">อนุญาตให้เริ่มหรือออกจากแอปเมื่อเสียบหรือถอดที่ชาร์จ</string>
+    <string name="power_events_title">เหตุการณ์สำคัญ</string>
+
+    <string name="preferences_editor_changed_values_message">ค่าที่อัปเดตตั้งแต่ครั้งล่าสุดจะแสดงเป็นสีแดง</string>
+    <string name="preferences_editor_default_preferences_title">การตั้งค่าเริ่มต้น</string>
+    <string name="preferences_editor_items_category_title">รายการ</string>
+    <string name="preferences_editor_preferences_title">ค่ากำหนด</string>
+    <string name="preferences_editor_title">ตัวแก้ไขค่ากำหนด</string>
+
+    <string name="preferred_camera_app_summary">อนุญาตให้โคลนใช้แอปกล้องถ่ายรูปของบุคคลที่สามใน Android 11</string>
+    <string name="preferred_camera_app_title">แอพกล้องที่ต้องการ</string>
+    <string name="preferred_icon_pack_none_label">ไม่มี</string>
+    <string name="preferred_icon_pack_summary">จะใช้ไอคอนแอปจากชุดไอคอนที่เลือก หากมี</string>
+    <string name="preferred_icon_pack_title">ชุดไอคอนที่ต้องการ</string>
+
+    <string name="premium_options_enabled_message">คุณได้เปิดใช้งานตัวเลือกพรีเมียมตั้งแต่หนึ่งตัวเลือกขึ้นไปใน App Cloner เวอร์ชันฟรี ในการโคลนแอปนี้ คุณต้องรีเซ็ตการตั้งค่าการโคลนก่อน</string>
+    <string name="premium_options_enabled_title" tools:keep="@string/premium_options_enabled_title">ตัวเลือกพรีเมี่ยม</string>
+    <string name="premium_subscription_label">สมัครสมาชิกแบบพรีเมียม</string>
+    <string name="premium_subscription_required_message">จำเป็นต้องสมัครสมาชิกแบบพรีเมียม</string>
+    <string name="premium_title">พรีเมียม</string>
+    <string name="premium_version_features_title">คุณลักษณะของเวอร์ชันพรีเมียม</string>
+
+    <string name="preparing_files_message">กำลังเตรียมไฟล์...</string>
+
+    <string name="preserve_expansion_files_summary">ลองใช้ตัวเลือกนี้หากเกมมีปัญหาในการโหลดไฟล์ทรัพยากร</string>
+    <string name="preserve_expansion_files_title">รักษาไฟล์ขยาย</string>
+
+    <string name="press_back_again_to_exit_summary">หลีกเลี่ยงการปิดแอปโดยไม่ตั้งใจโดยกำหนดให้กดปุ่ม Back สองครั้ง</string>
+    <string name="press_back_again_to_exit_title">กด Back อีกครั้งเพื่อออก</string>
+    <string name="press_back_again_to_exit_toast_message" tools:keep="@string/press_back_again_to_exit_toast_message">กด Back อีกครั้งเพื่อออกจากแอป</string>
+
+    <string name="prevent_app_from_changing_volume_title">ป้องกันไม่ให้แอปเปลี่ยนระดับเสียง</string>
+    <string name="prevent_screenshots_summary">ป้องกันไม่ให้แอปปรากฏในภาพหน้าจอ</string>
+    <string name="prevent_screenshots_title">ป้องกันภาพหน้าจอ</string>
+
+    <string name="private_clipboard_message">คลิปบอร์ดส่วนตัวอนุญาตให้ใช้คลิปบอร์ดเฉพาะในบริบทของแอปที่คัดลอกมาเท่านั้น</string>
+    <string name="private_clipboard_title">คลิปบอร์ดส่วนตัว</string>
+
+    <string name="process_name_begin_with_lower_case_character_message">ชื่อกระบวนการต้องขึ้นต้นด้วยอักขระตัวพิมพ์เล็ก</string>
+    <string name="process_name_message1">สิ่งนี้ทำให้สามารถสร้างส่วนเสริมของคุณเอง ขยายการทำงานของการโคลน</string>
+    <string name="process_name_message2">โดยการลงนามโคลนโดยใช้ใบรับรองที่กำหนดเองและสร้างแอปของคุณเองโดยใช้ ID ผู้ใช้ ชื่อกระบวนการ และใบรับรองที่แชร์ร่วมกัน การโคลนและแอปของคุณจะทำงานในกระบวนการและ VM เดียวกัน</string >
+    <string name="process_name_message3">แต่ละแอปจะดำเนินการโดยใช้ตัวโหลดคลาสของตัวเอง ในการเข้าถึงคลาสของแอปที่ถูกโคลนผ่านการสะท้อน คุณต้องระบุเธรดทั้งหมด ค้นหาเธรดที่เรียกว่า \'ContextClassLoaderThread\' และใช้ตัวโหลดคลาสบริบทเพื่อโหลดคลาสของแอป</string>
+    <string name="process_name_summary">บังคับให้คอมโพเนนต์ของแอปทั้งหมดทำงานในกระบวนการที่มีชื่อ ด้วยตัวเลือก \'%s\' คุณสามารถสร้างแอปของคุณเองที่ทำงานในกระบวนการเดียวกับการโคลน</string>
+    <string name="process_name_title">ชื่อกระบวนการ</string>
+
+    <string name="prompt_keep_app_data_on_uninstall_title">แจ้งให้ถอนการติดตั้งข้อมูลแอปต่อไป</string>
+
+    <string name="proxy_host_hint">พร็อกซีโฮสต์</string>
+    <string name="proxy_port_hint">พอร์ต</string>
+
+    <string name="purchase_failed_message">การซื้อไม่สำเร็จ คุณยังไม่ถูกเรียกเก็บเงิน</string>
+    <string name="purchase_failed_to_start_browser_message1">ไม่สามารถเริ่มเว็บเบราว์เซอร์ได้ ตรวจสอบให้แน่ใจว่าได้ติดตั้งแอปเว็บเบราว์เซอร์แล้ว</string>
+    <string name="purchase_failed_to_start_browser_message2">หากต้องการดำเนินการซื้อต่อบนอุปกรณ์อื่น ให้ไปที่ที่อยู่นี้: %s</string>
+    <string name="purchase_google_billing_service_error_message">ไม่สามารถเชื่อมต่อกับบริการเรียกเก็บเงินของ Play Store</string>
+    <string name="purchase_in_app_billing_error_message">ข้อผิดพลาดในการกำหนดค่าการเรียกเก็บเงินในแอป</string>
+    <string name="purchase_share_link_message">สแกนคิวอาร์โค้ดเพื่อเปิดลิงก์และดำเนินการซื้อให้เสร็จสิ้น</string>
+    <string name="purchase_successful_message">การซื้อสำเร็จแล้ว\n\nขณะนี้คุณกำลังใช้ %s รุ่นพรีเมียม</string>
+    <string name="purchase_timeout_error_message" tools:keep="@string/purchase_timeout_error_message">กระบวนการซื้อดูเหมือนจะหมดเวลา โปรดตรวจสอบการกำหนดค่าบัญชีสำหรับการเรียกเก็บเงินของคุณ</string>
+    <string name="purchase_title">ซื้อ</string>
+
+    <string name="quick_settings_tile_summary">อนุญาตให้เปิดแอปผ่านไทล์การตั้งค่าด่วนที่กำหนดเอง Android 7.0 ขึ้นไปเท่านั้น</string>
+    <string name="quick_settings_tile_title">ไทล์การตั้งค่าด่วน</string>
+
+    <string name="random_android_id_title">สร้าง ID แบบสุ่มใหม่ในระหว่างขั้นตอนการโคลนแต่ละครั้ง</string>
+    <string name="random_value_message">สิ่งนี้จะสร้างค่าสุ่ม ซึ่งจะแตกต่างกันไปตามหมายเลขโคลนแต่ละหมายเลข การอัปเดตหรือจำลองแอปจะเก็บค่าสุ่มเหมือนเดิม</string>
+
+    <string name="randomize_build_props_summary">ป้องกันการเก็บลายนิ้วมือของอุปกรณ์โดยการสุ่มผู้ผลิต รุ่น อุปกรณ์ ฯลฯ</string>
+    <string name="randomize_build_props_title">สุ่มอุปกรณ์ประกอบฉาก</string>
+
+    <string name="rate_app_label" tools:keep="@string/rate_app_label">ให้คะแนน App Cloner</string>
+
+    <string name="read_blog_post_message">อ่านบล็อกโพสต์ %s</string>
+    <string name="read_xml_file_error_message">อ่านไฟล์ XML ไม่สำเร็จ</string>
+
+    <string name="reclone_cloning_error_message">โปรดรอจนกว่าการโคลนแอปปัจจุบันจะเสร็จสิ้น</string>
+    <string name="reclone_error_message">อัปเดตแอปล้มเหลว</string>
+    <string name="reclone_notification_message">อัปเดตแอปเดิมแล้ว แตะเพื่อโคลนใหม่</string>
+
+    <string name="redirect_external_storage_message_1">จะไม่ทำงานกับแอปที่ใช้เส้นทางของการ์ด SD แบบฮาร์ดโค้ด</string>
+    <string name="redirect_external_storage_message_2">คุณสามารถใช้ {NUM} เพื่อแทนที่หมายเลขโคลน</string>
+    <string name="redirect_external_storage_specify_path_name_label">ระบุชื่อพาธ (ไม่บังคับ)</string>
+    <string name="redirect_external_storage_summary">เปลี่ยนเส้นทางโฟลเดอร์จัดเก็บข้อมูลภายนอก รวมถึงโฟลเดอร์มาตรฐาน เช่น DCIM, Documents, Download เป็นต้น</string>
+    <string name="redirect_external_storage_title">เปลี่ยนเส้นทางที่จัดเก็บข้อมูลภายนอก</string>
+
+    <string name="remote_welcome_message_block_title">บล็อกการเข้าถึงแอปหากตั้งค่าช่องผู้เขียนเป็น <b>%s</b></string>
+    <string name="remote_welcome_message_message">ระบุ URL telegra.ph เพื่อระบุชื่อเรื่องและข้อความ</string>
+    <string name="remote_welcome_message_summary">แสดงข้อความต้อนรับที่ควบคุมจากระยะไกลเมื่อเริ่มแอป</string>
+    <string name="remote_welcome_message_title">ข้อความต้อนรับระยะไกล</string>
+    <string name="remote_welcome_message_url">URL ข้อความระยะไกล</string>
+
+    <string name="remove_app_cloner_branding_title">ลบการสร้างแบรนด์ App Cloner</string>
+    <string name="remove_device_locking_title">เอาการล็อกอุปกรณ์ออก</string>
+    <string name="remove_launcher_icon_info_message">คุณจะไม่สามารถเริ่มแอปนี้โดยตรงหรือผ่านตัวเรียกใช้งาน\n\nใช้ตัวเลือกนี้สำหรับบริการเบื้องหลังหรือแอปสำหรับดูเท่านั้น (ดูแอปที่ไม่ได้เปิดแอปร่วม บนโทรศัพท์)\n\nแอปดูและตัวเรียกใช้งาน Android TV จะไม่ได้รับผลกระทบจากการตั้งค่านี้</string>
+    <string name="remove_launcher_icon_info_message2">คุณยังคงเปิดใช้การโคลนผ่าน App Cloner ได้</string>
+    <string name="remove_launcher_icon_shortcuts_message">ทางลัดหน้าจอหลักที่มีอยู่อาจไม่ได้รับผลกระทบ คุณควรลบและสร้างใหม่ด้วยตนเอง</string>
+    <string name="remove_launcher_icon_shortcuts_title">ลบทางลัดไอคอนตัวเรียกใช้งาน</string>
+    <string name="remove_launcher_icon_summary">อนุญาตให้ลบไอคอน Launcher ของแอป หากคุณคิดว่าไม่จำเป็น</string>
+    <string name="remove_launcher_icon_title">ลบไอคอนตัวเรียกใช้งาน</string>
+    <string name="remove_permissions_title">ลบสิทธิ์</string>
+    <string name="remove_watch_app_summary">อนุญาตให้ติดตั้งแอปโดยไม่ต้องติดตั้งแอปนาฬิกาคู่หูด้วย</string>
+    <string name="remove_watch_app_title">ลบแอปนาฬิกา</string>
+    <string name="remove_widgets_title">ลบวิดเจ็ต</string>
+
+    <string name="replace_existing_file">แทนที่ไฟล์ %s ที่มีอยู่หรือไม่</string>
+    <string name="replace_launcher_icon_title">แทนที่ไอคอน</string>
+    <string name="replace_notification_text_title">แทนที่ข้อความแจ้งเตือน</string>
+    <string name="replace_original_app_message">ไม่สามารถอัปเดตแอปที่โคลนผ่าน Play Store ได้ หากต้องการติดตั้งเวอร์ชันล่าสุดจาก Play Store คุณต้องถอนการติดตั้งแอปที่ลอกแบบมาก่อน</string>
+    <string name="replace_original_app_title">แทนที่แอปเดิม</string>
+    <string name="replace_text_on_screen_additional_replacements_small_donation_required">จำเป็นต้องมีการบริจาคเล็กน้อยสำหรับการเปลี่ยนเพิ่มเติม</string>
+    <string name="replace_text_on_screen_summary">แทนที่ข้อความที่แสดงบนหน้าจอโดยอำเภอใจ ใช้ไม่ได้กับเกมหรือมุมมองเว็บ</string>
+    <string name="replace_text_on_screen_title">แทนที่ข้อความบนหน้าจอ</string>
+
+    <string name="request_all_permissions_summary">สำหรับแอปที่กำหนดเป้าหมายเป็น Android 6.0 ขึ้นไปเท่านั้น ขอสิทธิ์ที่ประกาศพร้อมกันทั้งหมดเมื่อแอปเริ่มทำงาน</string>
+    <string name="request_all_permissions_title">ขออนุญาตทั้งหมด</string>
+    <string name="request_ignore_battery_optimizations_summary">ตัวโคลนจะขอให้ผู้ใช้เพิ่มแอปในรายการที่อนุญาตพิเศษสำหรับการเพิ่มประสิทธิภาพแบตเตอรี่ \'ไม่ได้ปรับให้เหมาะสม\' นี่อาจจำเป็นสำหรับแอปรับส่งข้อความบางแอปเมื่อทำงานในพื้นหลัง</string>
+    <string name="request_ignore_battery_optimizations_title">ขอละเว้นการเพิ่มประสิทธิภาพแบตเตอรี่</string>
+
+    <string name="restore_all_files_label">กู้คืนไฟล์ทั้งหมด</string>
+    <string name="restore_all_files_message">คุณต้องการคืนค่าไฟล์ทั้งหมดหรือไม่</string>
+    <string name="restore_brightness_on_exit_label">คืนค่าความสว่างเมื่อออกจากแอป</string>
+    <string name="restore_state_on_exit_title">กู้คืนสถานะเมื่อออกจากแอป</string>
+
+    <string name="retrieve_purchases_activation_disabled_error_message">การซื้อหรือการบริจาคต่อไปนี้ถูกปิดใช้งานสำหรับอุปกรณ์นี้</string>
+    <string name="retrieve_purchases_activation_restricted_error_message">การซื้อหรือการบริจาคต่อไปนี้ถูกใช้บนอุปกรณ์ถึงจำนวนสูงสุดแล้ว และไม่สามารถเปิดใช้งานบนอุปกรณ์นี้ได้</string>
+    <string name="retrieve_purchases_activation_unknown_error_message">ไม่สามารถยืนยันการซื้อหรือการบริจาคต่อไปนี้</string>
+    <string name="retrieve_purchases_error_message">ไม่สามารถเรียกคืนสินค้าที่ซื้อได้</string>
+    <string name="retrieve_purchases_message">กำลังดึงข้อมูลที่ซื้อ...</string>
+    <string name="retrieve_purchases_title">ดึงข้อมูลการซื้อ</string>
+
+    <string name="root_not_available_message">การเข้าถึงรูทไม่พร้อมใช้งานหรือถูกปฏิเสธ</string>
+
+    <string name="rotate_icon_title">หมุนไอคอน</string>
+
+    <string name="rotation_lock_auto_label">ไม่มีการล็อก (อัตโนมัติ)</string>
+    <string name="rotation_lock_force_using_overlay">บังคับล็อคการหมุนโดยใช้การซ้อนทับ</string>
+    <string name="rotation_lock_landscape_label">ทิวทัศน์</string>
+    <string name="rotation_lock_portrait_label">แนวตั้ง</string>
+    <string name="rotation_lock_title">ล็อกการหมุน</string>
+
+    <string name="rtl_support_summary">เปิดหรือปิดการสนับสนุนรูปแบบจากขวาไปซ้ายในการโคลน</string>
+    <string name="rtl_support_title">รองรับ RTL</string>
+
+    <string name="runtime_options_info_message">ตัวเลือกการดัดแปลงรันไทม์ต่อไปนี้สามารถแก้ไขได้โดยไม่ต้องคัดลอกแอปใหม่ หากต้องการเปลี่ยนชื่อแอป ไอคอน หรือตัวเลือกอื่นๆ คุณต้องโคลนแอปเดิมใหม่</string>
+    <string name="runtime_options_message_1">ตัวเลือกรันไทม์ต่อไปนี้จะถูกส่งไปยังตัวโคลน:</string>
+    <string name="runtime_options_message_2">การเปลี่ยนแปลงใดๆ จะถูกเปลี่ยนกลับหากคุณล้างข้อมูลแอปของโคลน หากคุณถอนการติดตั้งและติดตั้งโคลนใหม่ หรือหากคุณอัปเดตโคลนด้วยการตั้งค่าโคลนใหม่ หากต้องการเปลี่ยนตัวเลือกอื่นๆ ที่ไม่ใช่รันไทม์ คุณจะต้องโคลนแอปใหม่</string>
+    <string name="runtime_options_no_clone_message">ไม่มีการติดตั้งการโคลน %1$s ด้วยหมายเลขการโคลน %2$d</string>
+    <string name="runtime_options_success_message">การตั้งค่าใหม่จะถูกนำไปใช้เมื่อเปิดใช้งาน %s ครั้งถัดไป</string>
+    <string name="runtime_options_success_title">ส่งการตั้งค่าการโคลนแล้ว</string>
+    <string name="runtime_options_title">ส่งการตั้งค่าไปที่การโคลน</string>
+    <string name="runtime_options_update_message">โปรดอัปเดตการโคลนเพื่อเปลี่ยนการตั้งค่าการโคลนปัจจุบัน</string>
+
+    <string name="safe_mode_enabled_message">คำเตือน: เซฟโหมดเปิดใช้งานโดยอัตโนมัติ ตัวเลือกการดัดแปลงอาจไม่ทำงานหรือการโคลนอาจล้มเหลว ลองโคลนแอปเวอร์ชัน 32 บิต</string>
+    <string name="safe_mode_summary">ใช้เมื่อการโคลนล้มเหลวเท่านั้น ตัวเลือกการดัดแปลงบางอย่างอาจไม่ทำงานในโหมดปลอดภัย</string>
+    <string name="safe_mode_title">เซฟโหมด</string>
+
+    <string name="save_settings_to_file_title">ไปยังไฟล์การตั้งค่า</string>
+
+    <string name="screen_saver_exit_app_label">ออกจากแอป</string>
+    <string name="screen_saver_mute_volume_label">ปิดเสียง</string>
+    <string name="screen_saver_summary">แสดงหน้าจอสีดำหรือออกจากแอปเมื่อไม่ได้โต้ตอบกับแอปในช่วงระยะเวลาหนึ่ง</string>
+    <string name="screen_saver_title">โปรแกรมรักษาหน้าจอ</string>
+
+    <string name="seconds_label">วินาที</string>
+    <string name="seconds_plural_one" tools:ignore="PluralsCandidate">%d วินาที</string>
+    <string name="seconds_plural_other" tools:ignore="PluralsCandidate">%d วินาที</string>
+
+    <string name="secret_dialer_code_message1">คุณสามารถเปิดใช้งานการโคลนได้โดยป้อนรหัสต่อไปนี้ในแอปโทรออกของคุณ:</string>
+    <string name="secret_dialer_code_message2">รหัสเลขหมายลับอาจใช้ไม่ได้กับอุปกรณ์หรือแอปเลขหมายทั้งหมด ตรวจสอบให้แน่ใจว่าได้เริ่มแอปด้วยตนเองหลังจากการติดตั้งครั้งแรก</string>
+    <string name="secret_dialer_code_summary">อนุญาตให้เปิดแอปผ่านรหัสที่ป้อนในแอปโทรออกโทรศัพท์ของคุณ มีประโยชน์เมื่อไอคอนตัวเรียกใช้งานถูกลบออก</string>
+    <string name="secret_dialer_code_title">รหัสเลขหมายลับ</string>
+
+    <string name="select_all_on_focus_summary">เลือกข้อความทั้งหมดเมื่อช่องป้อนข้อความได้รับการโฟกัส</string>
+    <string name="select_all_on_focus_title">เลือกทั้งหมดที่โฟกัส</string>
+
+    <string name="selected_plural_one" tools:ignore="PluralsCandidate">%d ที่เลือก</string>
+    <string name="selected_plural_other" tools:ignore="PluralsCandidate">%d ที่เลือก</string>
+
+    <string name="send_broadcast_on_start_component_name_title">ชื่อส่วนประกอบ</string>
+    <string name="send_broadcast_on_start_message1">ชื่อคอมโพเนนต์ต้องเป็นชื่อคอมโพเนนต์แบบเต็มของเครื่องรับออกอากาศ เช่น %s</string>
+    <string name="send_broadcast_on_start_message2">การออกอากาศจะถูกส่งเมื่อกระบวนการของแอปเริ่มต้นขึ้น</string>
+    <string name="send_broadcast_on_start_title">ส่งออกอากาศเมื่อเริ่มต้น</string>
+
+    <string name="set_brightness_on_start_title">ตั้งค่าความสว่างเมื่อเริ่มต้น</string>
+    <string name="set_clipboard_data_on_start_summary">เริ่มต้นข้อมูลคลิปบอร์ดเมื่อเริ่มแอป</string>
+    <string name="set_clipboard_data_on_start_title">ตั้งค่าข้อมูลคลิปบอร์ดเมื่อเริ่มต้น</string>
+    <string name="set_default_settings_for_all_apps_label">สำหรับทุกแอป</string>
+    <string name="set_default_settings_for_this_app_label">สำหรับแอปนี้</string>
+    <string name="set_default_settings_title">ตั้งค่าเริ่มต้น</string>
+    <string name="set_volume_on_start_title">ตั้งระดับเสียงเมื่อเริ่ม</string>
+
+    <string name="settings_category_about_title">เกี่ยวกับ</string>
+    <string name="settings_category_cloning_title">การโคลนนิ่ง</string>
+    <string name="settings_category_device_info_title">ข้อมูลอุปกรณ์</string>
+    <string name="settings_category_former_translators_title">อดีตนักแปล</string>
+    <string name="settings_category_general_title">ทั่วไป</string>
+    <string name="settings_category_installing_title">กำลังติดตั้ง</string>
+    <string name="settings_category_notification_title">การแจ้งเตือน</string>
+    <string name="settings_category_translators_title">นักแปล</string>
+    <string name="settings_copied_message">คัดลอกการตั้งค่าแล้ว</string>
+    <string name="settings_loaded_message">โหลดการตั้งค่าแล้ว</string>
+    <string name="settings_not_loaded_message">โหลดการตั้งค่าไม่สำเร็จ</string>
+    <string name="settings_not_saved_message">บันทึกการตั้งค่าไม่สำเร็จ</string>
+    <string name="settings_pasted_message">วางการตั้งค่าแล้ว</string>
+    <string name="settings_saved_message">บันทึกการตั้งค่าแล้ว</string>
+
+    <string name="shake_action_title">การเขย่า</string>
+    <string name="shake_sensitivity_title">ความไวในการสั่น</string>
+
+    <string name="share_app_label">แบ่งปันแอป</string>
+    <string name="share_app_text_new">ลองใช้ App Cloner ฟรีที่ %s App Cloner ให้คุณสร้าง & ติดตั้งแอพ Android หลายชุด เป็นแอปหลายบัญชีเพียงแอปเดียวที่สร้างโคลน APK ที่แท้จริง เป็นอิสระ และสามารถติดตั้งได้</string>
+    <string name="share_link_label">แชร์ลิงก์</string>
+
+    <string name="shared_user_id_message">เมื่อเปลี่ยน ID ผู้ใช้ที่ใช้ร่วมกันสำหรับโคลนที่มีอยู่ จะต้องถอนการติดตั้งแอปก่อน</string>
+    <string name="shared_user_id_summary">แอปที่มีรหัสผู้ใช้เดียวกันจะสามารถเข้าถึงข้อมูลของกันและกันได้ และหากต้องการ ให้เรียกใช้ในกระบวนการเดียวกัน ต้องลงนามในใบรับรองเดียวกัน</string>
+    <string name="shared_user_id_title">รหัสผู้ใช้ที่ใช้ร่วมกัน</string>
+
+    <string name="show_app_info_notification_title">แสดงการแจ้งเตือนข้อมูลแอป</string>
+    <string name="show_clone_settings_label">แสดงการตั้งค่าการโคลน</string>
+    <string name="show_in_power_menu_summary">อนุญาตให้เปิดแอปจากเมนูพลังงานของ Android 11</string>
+    <string name="show_in_power_menu_title">แสดงแอปในเมนูเปิด/ปิดเครื่อง</string>
+    <string name="show_ip_info_summary">แสดงที่อยู่ IP ปัจจุบันและตำแหน่งทางภูมิศาสตร์เป็นการแจ้งเตือน มีประโยชน์ในการตรวจสอบการเชื่อมต่อ VPN หรือพร็อกซี</string>
+    <string name="show_ip_info_title">แสดงข้อมูล IP</string>
+    <string name="show_ip_info_your_ip_error_message" tools:keep="@string/show_ip_info_your_ip_error_message">ไม่สามารถรับที่อยู่ IP</string>
+    <string name="show_ip_info_your_ip_message" tools:keep="@string/show_ip_info_your_ip_message">IP ของคุณคือ %s</string>
+    <string name="show_notification_title">แสดงการแจ้งเตือน</string>
+    <string name="show_on_lock_screen_summary">มีประโยชน์เมื่อเปิดใช้งานการเริ่มอัตโนมัติ</string>
+    <string name="show_on_lock_screen_title">แสดงแอปในหน้าจอเมื่อล็อก</string>
+    <string name="show_on_secondary_display_message">ต้องเชื่อมต่อจอแสดงผลรองเพื่อให้ตัวเลือกนี้ทำงานได้ ไม่รองรับ Samsung DEX ตามค่าเริ่มต้น กิจกรรมแอพทั้งหมดจะถูกเปลี่ยนเส้นทางไปยังจอแสดงผลรอง หรือคุณอาจจำกัดเฉพาะบางกิจกรรมเท่านั้น</string>
+    <string name="show_on_secondary_display_summary">แสดงกิจกรรมของแอปทั้งหมดหรือบางส่วนบนจอแสดงผลรองหรือภายนอก</string>
+    <string name="show_on_secondary_display_title">แสดงบนจอแสดงผลรอง</string>
+    <string name="show_touches_summary">เปิดใช้ตัวเลือกนักพัฒนาซอฟต์แวร์ \'แสดงการสัมผัส\' ในขณะที่แอปเปิดอยู่</string>
+    <string name="show_touches_title">แสดงสัมผัส</string>
+
+    <string name="sign_as_system_app_summary">ลงนามแอปโดยใช้คีย์แพลตฟอร์ม AOSP และตั้งค่า android:sharedUserId=\"android.uid.system\" อาจใช้ไม่ได้กับอุปกรณ์/ROM ทั้งหมด โปรดใช้ความระมัดระวังเนื่องจากเป็นการให้สิทธิ์แก่ระบบของแอป!</string>
+    <string name="sign_as_system_app_title">ลงชื่อเป็นแอประบบ</string>
+
+    <string name="simple_notifications_summary">ลบรูปภาพและรูปแบบการแจ้งเตือนที่หลากหลาย</string>
+    <string name="simple_notifications_title">การแจ้งเตือนอย่างง่าย</string>
+
+    <string name="single_clones_title">โคลนเดียว</string>
+    <string name="single_notification_category_summary">แทนที่หมวดหมู่การแจ้งเตือนทั้งหมดด้วยหมวดหมู่เดียว ทำให้คุณควบคุมเสียงได้ง่ายขึ้น & การสั่นสะเทือน</string>
+    <string name="single_notification_category_title">หมวดหมู่การแจ้งเตือนเดียว</string>
+    <string name="single_notification_group_summary">จัดกลุ่มการแจ้งเตือนทั้งหมดเป็นกลุ่มเดียวที่ยุบได้</string>
+    <string name="single_notification_group_title">กลุ่มการแจ้งเตือนเดียว</string>
+
+    <string name="skip_dialogs_strings_title">ไม่ต้องแสดงกล่องโต้ตอบหากมีหนึ่งในสตริงเหล่านี้:</string>
+    <string name="skip_dialogs_title">ข้ามกล่องโต้ตอบ</string>
+    <string name="skip_native_libraries_summary">อาจช่วยได้ในกรณีที่แอปที่คัดลอกมาเกิดขัดข้อง ไม่ควรใช้โดยค่าเริ่มต้น</string>
+    <string name="skip_native_libraries_title">ข้ามไลบรารีดั้งเดิม</string>
+
+    <string name="sneeze_to_exit_summary">ใช้ไมค์เพื่อตรวจสอบระดับเสียงและออกจากแอปหากถึงเกณฑ์</string>
+    <string name="sneeze_to_exit_title">จามเพื่อออก</string>
+    <string name="sneeze_to_exit_title_volume_threshold_label">เกณฑ์ระดับเสียง</string>
+
+    <string name="socks_proxy_list_message">ระบุรายการพร็อกซี SOCKS5 บรรทัดละหนึ่งรายการในรูปแบบ %s</string>
+    <string name="socks_proxy_list_summary">เหมือนพร็อกซี SOCKS แต่อนุญาตให้ป้อนรายการพร็อกซีในรูปแบบ URL ซึ่งจะใช้สำหรับข้อมูลประจำตัวใหม่หรือหมายเลขโคลนที่แตกต่างกัน มีประโยชน์สำหรับการโคลนเป็นชุด</string>
+    <string name="socks_proxy_list_title">รายชื่อพร็อกซี SOCKS</string>
+    <string name="socks_proxy_message">ต้องใช้พร็อกซี SOCKS5 ห้ามใช้พร็อกซี HTTP</string>
+    <string name="socks_proxy_proxy_list_title">รายการพร็อกซี</string>
+    <string name="socks_proxy_summary">กำหนดเส้นทางการรับส่งข้อมูลเครือข่ายของแอปผ่านพร็อกซี SOCKS เพื่อเลี่ยงผ่านไฟร์วอลล์ การควบคุมปริมาณ หรือเพื่อปกปิดการรับส่งข้อมูล</string>
+    <string name="socks_proxy_title">พร็อกซี SOCKS</string>
+
+    <string name="splash_screen_message">หากคุณบริจาคเพียงเล็กน้อย คุณสามารถเปลี่ยนความโปร่งใสและใช้ภาพ GIF ได้</string>
+    <string name="splash_screen_title">หน้าจอเริ่มต้น</string>
+    <string name="splash_screen_title_summary">อนุญาตให้แสดงหน้าจอเริ่มต้นเมื่อเริ่มแอป</string>
+
+    <string name="spoof_location_interval_label">ช่วงตำแหน่งปลอม (วินาที)</string>
+    <string name="spoof_location_summary">อนุญาตการปลอมแปลงสถานที่โดยไม่ต้องใช้แอปจำลองตำแหน่งทั่วโลก</string>
+    <string name="spoof_location_summary2">นี่เป็นเพียงการปลอมแปลงตำแหน่ง GPS ไม่ใช่ตำแหน่ง Wi-Fi เครือข่าย หรือ IP</string>
+    <string name="spoof_location_title">ตำแหน่งปลอม</string>
+
+    <string name="starred_apps_starred_message">ติดดาว</string>
+    <string name="starred_apps_unstarred_message">ไม่ติดดาว</string>
+
+    <string name="start_exit_action_exit_app_label">ออกจากแอป</string>
+    <string name="start_exit_action_none_label">ไม่มี</string>
+    <string name="start_exit_action_start_app_label">เริ่มแอป</string>
+    <string name="start_for_outgoing_call_summary">อนุญาตให้เปิดแอปเมื่อโทรออกไปยังหมายเลขโทรศัพท์ที่ระบุ</string>
+    <string name="start_for_outgoing_call_title">เริ่มการโทรออก</string>
+    <string name="start_other_app_on_exit_title">เปิดแอปอื่นเมื่อออก</string>
+    <string name="start_other_app_on_start_title">เริ่มแอปอื่นเมื่อเริ่มต้น</string>
+    <string name="start_other_app_summary">อนุญาตให้เริ่มแอปอื่นเมื่อคุณเริ่มหรือออกจากแอปที่คัดลอกมา</string>
+    <string name="start_other_app_title">เริ่มแอปอื่น</string>
+    <string name="start_sound_title">เริ่มเสียง</string>
+
+    <string name="status_bar_color_title">สีของแถบสถานะ</string>
+
+    <string name="stealth_mode_summary">โหมดซ่อนตัวแสดงข้อความแสดงข้อผิดพลาดที่คุณสามารถกดค้างสองครั้งเพื่อเริ่มแอป</string>
+    <string name="stealth_mode_use_fingerprint_summary">ใช้ลายนิ้วมือเพื่อปลดล็อกโหมดซ่อนตัว</string>
+    <string name="stealth_mode_use_fingerprint_title">ลายนิ้วมือในโหมดซ่อนตัว</string>
+
+    <string name="stetho_support_summary">ใช้ได้กับแอปที่ใช้ OkHttp3 เท่านั้น</string>
+    <string name="stetho_support_title">สนับสนุน Stetho</string>
+
+    <string name="storage_access_framework_error_message" tools:keep="@string/storage_access_framework_error_message">ข้อผิดพลาดของกรอบงานการเข้าถึงที่เก็บข้อมูล</string>
+    <string name="storage_permissions_not_granted_message">ไม่ได้รับอนุญาตให้จัดเก็บ</string>
+
+    <string name="successfully_installed_message">ติดตั้งสำเร็จ</string>
+
+    <string name="swipe_to_go_back_summary">ใช้ท่าทางปัดเพื่อย้อนกลับ</string>
+    <string name="swipe_to_go_back_title">ปัดเพื่อย้อนกลับ</string>
+
+    <string name="tap_to_grant_permission_message">แตะที่นี่เพื่อให้สิทธิ์</string>
+
+    <string name="target_sdk_version_title">กำหนดเป้าหมายเวอร์ชัน SDK</string>
+    <string name="target_sdk_version_warning_message">การเปลี่ยน targetSdkVersion ของ manifest\ อาจทำให้การโคลนหยุดทำงานหรือทำให้เกิดพฤติกรรมที่ไม่คาดคิด</string>
+
+    <string name="test_failed_message">ข้อผิดพลาดของพร็อกซีหรือไม่มีการเชื่อมต่อเครือข่าย</string>
+    <string name="test_successful_message">การทดสอบสำเร็จ</string>
+
+    <string name="text_copied_message">คัดลอกข้อความแล้ว</string>
+    <string name="text_pasted_message">วางข้อความแล้ว</string>
+
+    <string name="theme_dark_title">มืด</string>
+    <string name="theme_light_title">แสง</string>
+    <string name="theme_system_default_title">ค่าเริ่มต้นของระบบ</string>
+    <string name="theme_title">ธีม</string>
+
+    <string name="tint_status_bar_icon_label">ไอคอนแถบสถานะสีอ่อน</string>
+
+    <string name="title_activated_devices">อุปกรณ์ที่เปิดใช้งาน</string>
+    <string name="title_apk_files">ไฟล์ APK</string>
+    <string name="title_cloned_apks">APK ที่จำลองมา</string>
+    <string name="title_cloned_apps">โคลนแอป</string>
+    <string name="title_disabled_devices">อุปกรณ์ที่ปิดการใช้งาน</string>
+    <string name="title_enter_password" tools:keep="@string/title_enter_password">ป้อนรหัสผ่าน</string>
+    <string name="title_error">ผิดพลาด</string>
+    <string name="title_generated_apks">APK ที่สร้าง</string>
+    <string name="title_insert_link">แทรกลิงค์</string>
+    <string name="title_installed_apps">แอปที่ติดตั้ง</string>
+    <string name="title_installed_clones">โคลนที่ติดตั้งแล้ว</string>
+    <string name="title_issues_problems">ปัญหา & ปัญหา</string>
+    <string name="title_language">ภาษา</string>
+    <string name="title_manage_devices">จัดการอุปกรณ์</string>
+    <string name="title_master_password">รหัสผ่านหลัก</string>
+    <string name="title_original_apks">APK</string>
+    <string name="title_original_apps">แอป</string>
+    <string name="title_premium_add_ons_donations">พรีเมียม ส่วนเสริม & การบริจาค</string>
+    <string name="title_show_starred_options" tools:keep="@string/title_show_starred_options">แสดงตัวเลือกที่ติดดาว</string>
+    <string name="title_signing_app">กำลังเซ็นชื่อแอป...</string>
+    <string name="title_task_name">ชื่องาน</string>
+    <string name="title_warning" tools:keep="@string/title_warning">คำเตือน</string>
+
+    <string name="toast_duration_title">ระยะเวลาในการปิ้ง</string>
+    <string name="toast_filter_dialog_message">ระบุรายการคำหรือสตริงย่อยที่ใช้เครื่องหมายจุลภาคเพื่อบล็อกขนมปังปิ้ง คำต่างๆ ไม่คำนึงถึงขนาดตัวพิมพ์</string>
+    <string name="toast_filter_summary">อนุญาตให้บล็อกข้อความอวยพร</string>
+    <string name="toast_filter_title">ตัวกรองขนมปังปิ้ง</string>
+    <string name="toast_opacity_title">ความทึบของขนมปังปิ้ง</string>
+    <string name="toast_position_change_title">เปลี่ยนตำแหน่งขนมปังปิ้ง</string>
+    <string name="toast_position_title">ตำแหน่งขนมปังปิ้ง</string>
+
+    <string name="toolbar_color_title">สีของแถบเครื่องมือ</string>
+
+    <string name="touch_view_info_message">วิธีนี้ใช้ไม่ได้กับเกม แอปบนเว็บ หรือมุมมองเว็บ\n\nนอกจากนี้ยังใช้กับเมนูแบบเลื่อนลง ป๊อปอัป กล่องโต้ตอบ หรือหน้าต่างแบบลอยไม่ได้< /สตริง>
+
+    <string name="trust_all_certificates_summary">ยอมรับใบรับรอง SSL ทั้งหมดแม้ว่าจะหมดอายุหรือยังไม่ถูกต้องก็ตาม ซึ่งจะทำให้คุณสามารถตั้งค่านาฬิการะบบกลับคืนได้</string>
+    <string name="trust_all_certificates_title">เชื่อถือใบรับรองทั้งหมด</string>
+
+    <string name="tutorial_app_screen_message">แตะปุ่มนี้เพื่อสร้างร่างโคลน คุณยังสามารถเปลี่ยนชื่อแอปหรือสีไอคอน</string>
+    <string name="tutorial_app_screen_title">ปุ่มโคลน</string>
+
+    <string name="twitter_login_title">เข้าสู่ระบบทวิตเตอร์</string>
+
+    <string name="type_apk">APK</string>
+    <string name="type_archive">เอกสารเก่า</string>
+    <string name="type_certificate">ใบรับรอง</string>
+    <string name="type_directory">ไดเร็กทอรี</string>
+    <string name="type_document">ไฟล์</string>
+    <string name="type_drawing">รูปภาพ</string>
+    <string name="type_excel">สเปรดชีต</string>
+    <string name="type_image">รูปภาพ</string>
+    <string name="type_music">ดนตรี</string>
+    <string name="type_pdf">เอกสาร PDF</string>
+    <string name="type_power_point">การนำเสนอ</string>
+    <string name="type_video">วิดีโอ</string>
+    <string name="type_word">เอกสาร</string>
+
+    <string name="uninstall_original_app_warning_message">การดำเนินการนี้จะถอนการติดตั้งแอปต้นฉบับ ไม่ใช่การลอกแบบ</string>
+    <string name="uninstall_patcher_message">โปรดถอนการติดตั้ง %s เพื่อให้อ่านการซื้อใน Google Play Store ได้</string>
+    <string name="uninstall_required_certificate_message">เนื่องจากใบรับรองเปลี่ยน แอปที่ลอกแบบมาจึงไม่สามารถติดตั้งทับแอปที่มีอยู่ได้\n\nก่อนติดตั้งแอปที่จำลอง คุณต้องถอนการติดตั้งแอปที่มีอยู่ก่อน <b>การดำเนินการนี้จะลบการตั้งค่าแอปและไฟล์ทั้งหมด</b>
+    </string>
+    <string name="uninstall_required_downgrade_message">ตรวจพบการดาวน์เกรดแอป (รหัสเวอร์ชัน %1$d เป็นรหัสเวอร์ชัน %2$d)\n\nก่อนติดตั้งแอปที่จำลองมา คุณต้องถอนการติดตั้งแอปที่มีอยู่ก่อน <b>การดำเนินการนี้จะลบการตั้งค่าแอปและไฟล์ทั้งหมด</b>
+    </string>
+    <string name="uninstall_required_target_sdk_message">เนื่องจากรุ่น SDK เป้าหมายเปลี่ยน จึงไม่สามารถติดตั้งแอปที่ลอกแบบมาทับแอปที่มีอยู่ได้\n\nก่อนติดตั้งแอปที่จำลอง คุณต้องถอนการติดตั้งแอปที่มีอยู่ก่อน <b>การดำเนินการนี้จะลบการตั้งค่าแอปและไฟล์ทั้งหมด</b>
+    </string>
+    <string name="uninstall_required_title">จำเป็นต้องถอนการติดตั้ง</string>
+
+    <string name="unknown_sources_warning_chromebook_message">ในการติดตั้งแอปที่คัดลอกมา คุณจะต้องทำให้ Chromebook เข้าสู่โหมดนักพัฒนาซอฟต์แวร์</string>
+    <string name="unknown_sources_warning_message">ในการติดตั้งแอปที่คัดลอกมา คุณต้องเปิดใช้งานการตั้งค่า > ความปลอดภัย > ไม่ทราบแหล่งที่มา</string>
+    <string name="unknown_sources_warning_title">ไม่ทราบแหล่งที่มา</string>
+
+    <string name="unlock_using_fingerprint">ปลดล็อกโดยใช้ลายนิ้วมือ</string>
+
+    <string name="update_all_clones_label">อัปเดตโคลนทั้งหมด</string>
+    <string name="update_all_clones_message">คุณต้องการโคลนแอปใหม่โดยใช้การตั้งค่าการโคลนแบบเดิมหรือไม่\n\nการติดตั้งโคลนใหม่ทับของโคลนเก่าจะเก็บค่ากำหนดของแอปและไฟล์ต่างๆ ไว้</string>
+    <string name="update_app_cloner_premium_app_message">โปรดอัปเดต \'App Cloner Premium & ส่วนเสริม\'.</string>
+    <string name="update_clone_for_functionality_error_message">จำเป็นต้องอัปเดตการโคลนเพื่อให้ฟังก์ชันนี้ทำงานได้</string>
+    <string name="update_clone_label">อัปเดตร่างโคลน</string>
+    <string name="update_clone_message">คุณต้องการโคลนแอปใหม่โดยใช้การตั้งค่าโคลนดั้งเดิมหรือไม่\n\nการติดตั้งโคลนใหม่เหนือโคลนเก่าจะเก็บค่ากำหนดของแอปและไฟล์ต่างๆ ไว้</string>
+    <string name="update_notifications_summary">แจ้งเตือนเมื่อมีการอัปเดตแอปดั้งเดิมและจำเป็นต้องโคลนแอปซ้ำ</string>
+    <string name="update_notifications_title">อัปเดตแอป</string>
+    <string name="update_source_message">เลือกแหล่งข้อมูลที่คุณต้องการใช้สำหรับการอัปเดต</string>
+    <string name="update_source_use_apk_file_label">ใช้ไฟล์ APK</string>
+    <string name="update_source_use_installed_app_label">ใช้แอปที่ติดตั้ง</string>
+    <string name="update_title">อัปเดต %s</string>
+
+    <string name="updated_title">อัปเดตแล้ว</string>
+
+    <string name="updates_existing_apk_message">อัปเดต APK ที่ลอกแบบมาแล้ว</string>
+
+    <string name="upgrade_premium_label">อัปเกรดเป็นพรีเมียม</string>
+    <string name="upgrade_premium_subscription_label">อัปเกรดเป็นการสมัครสมาชิกแบบพรีเมียม</string>
+    <string name="upgrade_premium_subscription_summary">เหมือนกับแบบพรีเมียม แต่ยังรวมถึงตัวเลือกการดัดแปลงแบบพรีเมียมใหม่ที่เพิ่มเข้ามาใน App Cloner 2.0 และใหม่กว่า การซื้อมีอายุหนึ่งปีเต็มและไม่มีการต่ออายุโดยอัตโนมัติ</string>
+    <string name="upgrade_premium_subscription_summary_alt">มีตัวเลือกการดัดแปลงแบบพรีเมียม การซื้อมีอายุหนึ่งปีเต็มและไม่มีการต่ออายุโดยอัตโนมัติ</string>
+    <string name="upgrade_premium_summary">รวมตัวเลือกการดัดแปลงระดับพรีเมียมที่เพิ่มเข้ามาใน App Cloner 1.x</string>
+
+    <string name="use_option_enable_option_message">หากต้องการใช้ตัวเลือกนี้ คุณต้องเปิดใช้งานตัวเลือก \'%s\'</string>
+    <string name="use_status_bar_color_label">ใช้สีของแถบสถานะ</string>
+
+    <string name="useful_for_option_message">มีประโยชน์สำหรับตัวเลือก \'%s\'</string>
+
+    <string name="verification_code_invalid_message">รหัสยืนยันไม่ถูกต้อง</string>
+    <string name="verification_code_message">โปรดป้อนรหัสยืนยันที่คุณได้รับทางอีเมล</string>
+    <string name="verification_code_title">รหัสยืนยัน</string>
+    <string name="verification_code_valid_message">รหัสยืนยันถูกต้อง</string>
+    <string name="verification_send_error_message">ไม่สามารถส่งอีเมลยืนยันได้ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ</string>
+    <string name="verification_sending_message">กำลังส่งอีเมลยืนยัน…</string>
+
+    <string name="version_code_title">รหัสเวอร์ชัน</string>
+    <string name="version_code_warning_message">การเปลี่ยนรหัสเวอร์ชันอาจส่งผลต่อการตรวจสอบการอัปเดต</string>
+    <string name="version_name_summary">อาจช่วยในการลอกเลียนแบบเวอร์ชันใหม่สำหรับแอปรุ่นเก่า</string>
+    <string name="version_name_title">ชื่อเวอร์ชั่น</string>
+
+    <string name="volume_control_indicator_bar_at_bottom_label">แถบด้านล่าง</string>
+    <string name="volume_control_indicator_bar_at_top_label">แถบด้านบนสุด</string>
+    <string name="volume_control_indicator_step_label">ปรับระดับเสียงทีละขั้น</string>
+    <string name="volume_control_indicator_summary">ซ่อนตัวบ่งชี้ระดับเสียงเริ่มต้นหรือแทนที่ด้วยแถบตัวบ่งชี้ที่แคบลง มีประโยชน์สำหรับเครื่องเล่นวิดีโอที่สมจริง</string>
+    <string name="volume_control_indicator_title">ไฟแสดงการควบคุมระดับเสียง</string>
+    <string name="volume_control_indicator_toast_message" tools:keep="@string/volume_control_indicator_toast_message">ระดับเสียง: %d</string>
+    <string name="volume_down_key_action_title">ปุ่มลดระดับเสียง</string>
+    <string name="volume_rocker_locker_alarm_label">ปลุก</string>
+    <string name="volume_rocker_locker_media_label">สื่อ</string>
+    <string name="volume_rocker_locker_none_label">ไม่มี</string>
+    <string name="volume_rocker_locker_notifications_label">การแจ้งเตือน</string>
+    <string name="volume_rocker_locker_ringtone_label">ริงโทน</string>
+    <string name="volume_rocker_locker_title">ปุ่มปรับระดับเสียง</string>
+    <string name="volume_up_down_key_action_title">เพิ่มระดับเสียง & การกระทำที่สำคัญลง</string>
+    <string name="volume_up_key_action_title">ปุ่มเพิ่มระดับเสียง</string>
+
+    <string name="wait_for_debugger_label">รอการดีบักเกอร์</string>
+
+    <string name="watch_app_go_premium_message">ตรวจพบแอปนาฬิกา อัปเกรดเป็นพรีเมียมเพื่อโคลนแอปดูด้วย</string>
+
+    <string name="web_view_safe_browsing_summary">เปิดใช้ Safe Browsing ของ Google สำหรับการดูเว็บทั้งหมดในแอปเพื่อตรวจหาและเตือนเกี่ยวกับไซต์ที่อาจเป็นอันตราย ปิดใช้งานด้วยเหตุผลด้านความเป็นส่วนตัวเท่านั้น บน Android 8.0+ Safe Browsing เปิดใช้งานโดยค่าเริ่มต้น</string>
+    <string name="web_view_safe_browsing_title">การเรียกดู WebView อย่างปลอดภัย</string>
+
+    <string name="welcome_message_delay_label">ข้อความต้อนรับล่าช้า</string>
+    <string name="welcome_message_edit_label">แก้ไขข้อความต้อนรับ</string>
+    <string name="welcome_message_mode_dialog_label">กล่องโต้ตอบ</string>
+    <string name="welcome_message_mode_label">โหมดข้อความต้อนรับ</string>
+    <string name="welcome_message_mode_notification_label">การแจ้งเตือน</string>
+    <string name="welcome_message_mode_toast_label">ขนมปังปิ้ง</string>
+    <string name="welcome_message_summary">แสดงข้อความที่กำหนดเองเมื่อเริ่มแอป</string>
+    <string name="welcome_message_title">ข้อความต้อนรับ</string>
+
+    <string name="whats_new_label">มีอะไรใหม่</string>
+    <string name="whats_new_title">มีอะไรใหม่ใน %s</string>
+
+    <string name="wide_color_gamut_summary">ขอให้แสดงแอปในโหมดขอบเขตสีกว้างบนอุปกรณ์ที่เข้ากันได้ ในโหมดขอบเขตสีกว้าง แอปสามารถแสดงผลนอกขอบเขต sRGB เพื่อแสดงสีที่สดใสยิ่งขึ้น</string>
+    <string name="wide_color_gamut_title">ขอบเขตสีกว้าง</string>
+
+    <string name="wifi_controls_title">การควบคุม Wi-Fi</string>
+    <string name="wifi_disable_label">ปิด Wi-Fi เมื่อเริ่มต้น</string>
+    <string name="wifi_enable_label">เปิดใช้งาน Wi-Fi เมื่อเริ่มต้น</string>
+
+    <string name="write_external_storage_detected_message">แอปนี้สามารถเขียนไปยังที่จัดเก็บข้อมูลภายนอกได้ พิจารณาเปิดใช้ตัวเลือก \'%s\' เพื่อป้องกันไม่ให้แอปต้นฉบับและแอปโคลนเข้าถึงไดเร็กทอรีเดียวกัน</string>
+    <string name="write_nfc_tag_disabled_message">NFC ถูกปิดใช้งานหรือไม่สามารถใช้ได้</string>
+    <string name="write_nfc_tag_error_message">เขียนแท็กไม่สำเร็จ โปรดลองอีกครั้ง</string>
+    <string name="write_nfc_tag_message1">กำลังรอเขียนแท็ก NFC…</string>
+    <string name="write_nfc_tag_message2">ถือแท็ก NFC ใกล้กับอุปกรณ์ของคุณ</string>
+    <string name="write_nfc_tag_success_message">เขียนแท็ก NFC สำเร็จแล้ว</string>
+
+    <string name="xml_resource_editor_summary">อนุญาตให้แก้ไขเค้าโครงของแอปและไฟล์ทรัพยากร XML อื่นๆ</string>
+    <string name="xml_resource_editor_title">ตัวแก้ไขทรัพยากร XML</string>
+
+    <string name="zoomable_image_views_set_max_scale_label">กำหนดขนาดสูงสุด</string>
+    <string name="zoomable_image_views_summary">แปลงมุมมองรูปภาพทั้งหมดให้เป็นมุมมองรูปภาพแบบซูมได้สไตล์ Instagram</string>
+    <string name="zoomable_image_views_title">มุมมองภาพที่ซูมได้</string>
+</resources>
